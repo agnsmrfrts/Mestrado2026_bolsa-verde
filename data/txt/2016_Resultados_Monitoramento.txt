@@ -1,0 +1,320 @@
+projeto BOLSA
+VERDE
+Resultados do Monitoramento 2016
+944 áreas Monitoradas
+30.264.607,55 ha Em 5 Regiões 22 Estados
+72 UC’s
+872 Assentamentos
+Com beneficiários:
+904 Áreas (28.815.221,73 ha)
+70 UC’s
+834 Assentamentos
+Distribuição das Áreas Monitoradas
+projeto BOLSA
+VERDE
+Metodologia de Diagnóstico
+e Monitoramento
+Verificação de mudanças na base de limites das
+áreas do Bolsa Verde
+Interpretação das imagens Landsat 8
+Vetorização de novas
+áreas antropogênicas
+Vetorização de nuvens
+Regeneração
+Utilização de outras bases de referência
+Base Google Earth Base RapidEye MMA
+projeto BOLSA
+VERDE
+Resultados do Monitoramento
+UC’s monitoradas
+distribuídas por Bioma
+Número/Área de UCs com beneficiários monitoradas distribuídas por Bioma
+Bioma Nº /Áreas Florestais Nº/Áreas Marinhas TOTAL
+Amazônia 45
+(17.482.129,83 ha)
+9
+(464.229,35 ha)
+54
+(17.946.359,18 ha)
+Cerrado - Amazônia Legal 2
+(20.502,26 ha) 0 2
+(20.502,26 ha)
+Caatinga 0 2
+(30.406,93 ha)
+2
+(30.406,93 ha)
+Cerrado 3
+(41.500,63 ha)
+1
+(27.021,99 ha)
+4
+(68.522,62 ha)
+Mata Atlântica 1
+(6.676,79 ha)
+7
+(363.998,88 ha)
+8
+(370.675,67 ha)
+Pampa 0 0 0
+Pantanal 0 0 0
+TOTAL 51
+(17.550.809,52 ha)
+19
+(885.657,15 ha)
+70
+(18.436.466,67 ha)
+Assentamentos
+monitorados
+distribuídos por
+Bioma
+Número/Área de Assentamentos com beneficiários monitorados distribuídos por Bioma
+Bioma Nº/Área Convencionais Nº/Área Diferenciados TOTAL
+Amazônia 14
+(1.661.737,09 ha)
+287
+(7.201.248,19 ha)
+301
+(8.862.985,28 ha)
+Cerrado - Amazônia 68
+(276.686,98 ha)
+68
+(276.686,98 ha)
+Caatinga 115
+(282.891,73 ha) 0 115
+(282.891,73 ha)
+Cerrado 205
+(765.615,83 ha) 0 205
+(765.615,83 ha)
+Mata Atlântica 141
+(178.008,67 ha)
+4
+(12.566,58 ha) 145
+(190.575,25 ha)
+Pampa 0 0 0
+Pantanal 0 0 0
+TOTAL 543
+(3.164.940,30 ha)
+291
+(7.213.814,77 ha)
+834
+(10.378.755,07 ha)
+Unidades de
+Conservação
+% de área antrópica no Monitoramento 2016 do
+programa Bolsa Verde
+Assentamentos
+% de área antrópica no Monitoramento 2016 do
+programa Bolsa Verde
+Percentual em relação a área antrópica total em 2016
+60,00
+50,00
+40,00
+30,00
+20,00
+10,00
+0,00
+Desmatamento
+Média do percentual de desmatamento por fase de monitoramento
+52,07
+17,29
+11,81 10,23 8,59
+T0 T1 T2 T3 T4
+Fase do monitoramento
+Área Antrópica total nas áreas do programa Bolsa Verde
+1%
+19%
+18%
+62%
+Assentamentos Convencionais
+Assentamentos Diferenciados
+UC's Florestais
+UC's Marinhas
+Assentamentos
+Convencionais
+Assentamentos
+Diferenciados UC's Florestais UC's Marinhas TOTAL
+Área
+Antrópica
+(ha)
+720.551,67 209.976,49 223.758,33 6.145,80 1.160.432,29
+Área Antrópica Total das Áreas do Programa Bolsa Verde
+Área antrópica total 1.160.432,29 ha
+Área Total do Programa 28.815.221,73 ha
+4,3% de área antrópica
+Área Natural
+(ha)
+Assentamentos
+Convencionais
+2.444.388,63 Assentamentos
+Diferenciados 7.003.838,28 UC's Florestais 17.327.051,19 UC's Marinhas 879.511,35 TOTAL
+27.654.789,45
+Área Total Preservada do programa Bolsa Verde
+Área Preservada em Assentamentos 9.448.226,91 ha
+Área Preservada em UC’s 18.206.562,55 ha
+Total 27.654.789,45 ha
+95,97% da área total
+Área Natural no bioma Amazônia: 26.215.941,51 (ha)
+2%
+5%
+27%
+66%
+Assentamentos
+Convencionais
+Assentamentos
+Diferenciados
+UC's Florestais
+UC's Marinhas
+Área Natural (ha)
+Assentamentos Convencionais 1.486.052,80
+Assentamentos Diferenciados 6.992.580,95
+UC's Florestais 17.275.089,32
+UC's Marinhas 462.218,43
+Área Natural no bioma Cerrado (Amazônia Legal): 202.172,57 (ha)
+3%
+Assentamentos
+Convencionais
+Assentamentos
+Diferenciados
+UC's Florestais
+UC's Marinhas
+97%
+Área Natural (ha)
+Assentamentos Convencionais 195.381,94
+Assentamentos Diferenciados
+UC's Florestais 6.790,63
+UC's Marinhas
+Área Natural no bioma Cerrado: 526.724,49 (ha)
+7% 5%
+Assentamentos
+Convencionais
+Assentamentos
+Diferenciados
+UC's Florestais
+88%
+UC's Marinhas
+Área Natural (ha)
+Assentamentos Convencionais 461.348,22
+Assentamentos Diferenciados
+UC's Florestais 38.580,64
+UC's Marinhas 26.795,63
+Área Natural no bioma Mata Atlântica: 484.958,44 (ha)
+22%
+2%
+2%
+Assentamentos
+Convencionais
+Assentamentos
+Diferenciados
+UC's Florestais
+74%
+UC's Marinhas
+Área Natural (ha)
+Assentamentos Convencionais 106.920,50
+Assentamentos Diferenciados 11.257,33
+UC's Florestais 6.590,60
+UC's Marinhas 360.190,02
+Área Natural no bioma Caatinga: 224.992,45 (ha)
+13%
+Assentamentos
+Convencionais
+Assentamentos
+Diferenciados
+UC's Florestais
+87%
+UC's Marinhas
+Área Natural (ha)
+Assentamentos Convencionais 194.685,18
+Assentamentos Diferenciados
+UC's Florestais
+UC's Marinhas 30.307,27
+Regeneração
+•506 áreas
+•62.105,00ha
+regenerados
+Área regenerada no bioma Amazônia: 49.464,20 (ha)
+0%
+22%
+34%
+Assentamentos
+Convencionais
+Assentamentos
+Diferenciados
+UC's Florestais
+44%
+UC's Marinhas
+Área Regenerada (ha)
+Assentamentos Convencionais 10.660,11
+Assentamentos Diferenciados 21.755,27
+UC's Florestais 16.900,06
+UC's Marinhas 148,76
+Área regenerada no Cerrado (Amazônia Legal): 1.367,40 (ha)
+3%
+Assentamentos
+Convencionais
+Assentamentos
+Diferenciados
+UC's Florestais
+97%
+UC's Marinhas
+Área Regenerada (ha)
+Assentamentos Convencionais 1.332,61
+Assentamentos Diferenciados
+UC's Florestais 34,79
+UC's Marinhas
+Área regenerada no bioma Cerrado: 5.223,33 (ha)
+2% 0%
+Assentamentos
+Convencionais
+Assentamentos
+Diferenciados
+UC's Florestais
+98%
+UC's Marinhas
+Área Regenerada (ha)
+Assentamentos Convencionais 5.117,06
+Assentamentos Diferenciados
+UC's Florestais 86,29
+UC's Marinhas 19,98
+Área regenerada no bioma Mata Atlântica: 2.322,86 (ha)
+1%
+Assentamentos
+Convencionais
+Assentamentos
+Diferenciados
+UC's Florestais
+99%
+UC's Marinhas
+Área Regenerada (ha)
+Assentamentos Convencionais 2.296,12
+Assentamentos Diferenciados 26,75
+UC's Florestais
+UC's Marinhas
+Área regenerada no bioma Caatinga: 3.727,22 (ha)
+100%
+Área Regenerada (ha)
+Assentamentos Convencionais Assentamentos Diferenciados
+UC's Florestais
+UC's Marinhas
+Assentamentos
+Convencionais
+Assentamentos
+Diferenciados
+UC's Florestais
+UC's Marinhas
+3.727,22
+Tipo Assentamentos
+Convencionais Assentamentos
+Diferenciados UC's Florestais UC's Marinhas Total Dados Gerais
+Área Total
+Monitorada (ha)
+Área Antrópica
+Total (ha)
+Área Natural
+Total (ha)
+3.164.940,30 720.551,67 2.444.388,63 7.213.814,77 209.976,49 7.003.838,28 17.550.809,52 223.758,33 17.327.051,19 885.657,15 6.145,80 879.511,35 28.815.221,73 1.160.432,29 27.654.789,45 Área Regenerada
+Total (ha)
+23.133,11
+21.782,01
+17.021,14
+168,74
+62.105,00

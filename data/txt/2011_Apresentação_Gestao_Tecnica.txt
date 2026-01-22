@@ -1,0 +1,111 @@
+Programa de Apoio à
+Conservação Ambiental
+“Bolsa Verde”
+Erradicar a extrema pobreza e conservar o meio
+ambiente
+Parceria MMA-MDS-MDA
+CONDICIONALIDADES – MP nº 535 de 05/06/2011 CONDICIONALIDADES – MP nº 535 de 05/06/2011
+e Lei nº 12.512 de 14/10/11 e Lei nº 12.512 de 14/10/11 Condicionalidade Social:
+ Famílias em extrema pobreza com renda per capita/mês
+inferior a R$70,00 e inscritas no Cadastro Único
+Condicionalidade Ambiental:
+ Famílias com ativos ambientais em:
+ Unidades de Conservação de Uso Sustentável (RESEX,
+RDS e FLONAS).
+ Assentamentos Ambientalmente Diferenciados do
+INCRA (PAE, PDS e PAFs)
+ Territórios ocupados por ribeirinhos, extrativistas,
+populações indígenas, quilombolas e outras
+comunidades tradicionais.
+UCs com Plano de Manejo, Plano de Utilização, Acordo de
+Pesca ou CDRU e assentamentos com PDA, PRA, PU ou CDRU
+FLUXOGRAMA OPERACIONAL PARA FLUXOGRAMA OPERACIONAL PARA
+ENQUADRAMENTO DAS FAMÍLIAS NO BOLSA ENQUADRAMENTO DAS FAMÍLIAS NO BOLSA
+VERDE VERDE
+CRITÉRIOS DE PRIORIZAÇÃO – 1º Etapa CRITÉRIOS DE PRIORIZAÇÃO – 1º Etapa
+(2011) (2011)
+ Famílias beneficiárias do Bolsa Família
+ Áreas localizadas no estados da Amazônia Legal
+ UCs com Plano de Manejo, Plano de Utilização,
+Acordo de Pesca ou CDRU
+ Assentamentos com PDA, PRA, PU ou CDRU
+ Assentamentos com pelo menos 50 famílias aptas
+META DE PÚBLICO ATENDIDO EM 2011 META DE PÚBLICO ATENDIDO EM 2011
+UF Nº Famílias
+UCs
+Nº Famílias
+PADs
+Total Nº
+Famílias
+Acre 903 78 981
+Amapá 0 552 552
+Amazonas 443 669 1.112
+Maranhão 211 0 211
+Pará 5.953 9.922 15.875
+Rondônia 45 84 129
+TOTAL 7.555 11.305 18.860
+SITUAÇÃO – META 2011 SITUAÇÃO – META 2011
+. folha de setembro (pagamento em outubro): 3577 famílias
+beneficiárias (todas de UCs);
+. folha de outubro (pagamento em novembro a partir de 17/11): 3949
+famílias beneficiárias (3.564 de PADs e 385 de Ucs);
+. folha de novembro (pagamento em dezembro): 2375 famílias
+beneficiárias (1700 de PADs e 675 de Ucs)
+. folha de dezembro (pagamento em janeiro)(meta): 8099 famílias
+META 2012: META 2012:
+MARÇO/12 – 50 mil famílias aptas
+DEZ/2012 – 73 mil famílias beneficiadas
+Novas áreas em estudo: Terras Indígenas, Territórios Quilombolas, Áreas
+de Ribeirinhos e Fundos de Pasto
+Ampliação para outros biomas além da Amazônia
+TERMO DE ADESÃO TERMO DE ADESÃO
+ Compromisso das famílias beneficiárias com a conservação ambiental e
+uso sustentável, conforme PU, PM e CDRU da UC ou CDRU ou CCU do
+Assentamento
+ Informações gerais sobre objetivos e funcionamento do Programa
+CADASTRO AMBIENTAL CADASTRO AMBIENTAL
+SisVerde (~ Sistema Terra Legal – Sisterleg)
+ Recepciona dados: a) cadastrais: de pessoa, de unidade e de
+parcela (georreferenciados); e b) de monitoramento: de unidade
+e de parcela (georreferenciados);
+ Valida, armazena e disponibiliza os dados (relatórios, mapas
+folha de pagamento);
+ Desenvolvido em parceria com SIPAM.
+WEB
+Publicação
+Cadastro
+de Pessoa
+Cadastro
+Georreferenciado
+Análise e
+Tramitação
+Banco Banco
+Planilha
+Geoespacial Geoespacial
+eletrônica
+MONITORAMENTO AMBIENTAL MONITORAMENTO AMBIENTAL
+Diagnóstico Ambiental – análise da cobertura vegetal das unidades
+do Programa, a partir de imagens de satélite (landsat) – Análise pelo
+SIPAM/MD, homologada pelo Ibama (CSR)
+Monitoramento anual da cobertura vegetal com alertas trimestrais de
+eventual desmatamento a partir de informações do DETER e focos de
+calor (SIPAM/Ibama)
+Monitoramento amostral – em elaboração de metodologia
+GESTÃO DO PROGRAMA GESTÃO DO PROGRAMA
+ Comitê Gestor composto por:
+ MMA (coord.);
+ Casa Civil;
+ MDS;
+ MDA;
+ MP
+ Fazenda.
+ Gestores locais: gestores das UCs e Superintendências do
+Incra
+ Agente operador do recurso financeiro: Caixa Econômica
+Federal
+ Parceiros no monitoramento: Ibama (CSR) e Sipam
+OBRIGADA
+ANDRÉA AREAN ONCALA
+Diretora de Extrativismo Substituta –
+DEX/SEDR/MMA
+andrea.oncala@mma.gov.br

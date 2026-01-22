@@ -1,0 +1,2373 @@
+MINISTÉRIO DO PLANEJAMENTO E ORÇAMENTO – MPO
+Simone Nassar Tebet
+Secretaria Executiva do MPO
+Gustavo José de Guimarães e Souza
+Secretaria de Monitoramento e Avaliação de Políticas Públicas e
+Assuntos Econômicos – SMA
+Sergio Firpo
+Subsecretaria de Avaliação de Políticas Públicas e Assuntos
+Econômicos – SPAE
+Daniel Grimaldi
+Coordenação-Geral de Avaliação Ex Ante e Executiva
+Artur Henrique da Silva Santos
+Marcos César Chaves da Fonseca
+MEMBROS DO COMITÊ GESTOR DO PROGRAMA BOLSA VERDE:
+Ministério do Meio Ambiente e Mudança do Clima
+Edel Nazaré Santiago de Moraes
+Gabriel de Mendonca Domingues
+Casa Civil da Presidência da República
+Gabriel Henrique Lui
+Diogo Victor Santos
+Ministério do Desenvolvimento e Assistência Social, Família e
+Combate à Fome – MDS
+Ana Amélia da Silva
+Francisco Antonio de Sousa Brito
+Ministério do Desenvolvimento Agrário e Agricultura Familiar – MDA
+Ana Maria Sales Placidino
+Larissa Granjeiro Lucena
+Ministério da Fazenda – MF
+Camila Stefaní de Sousa Silva
+Sérgio Rosa Ferrão
+Ministério do Planejamento e Orçamento
+Daniel Grimaldi
+Artur Henrique da Silva Santos
+MINISTÉRIO DO MEIO AMBIENTE E MUDANÇA DO CLIMA – MMA
+Marina Silva
+Secretaria Executiva do MMA
+João Paulo Ribeiro Capobianco
+Secretaria Nacional de Povos e Comunidades Tradicionais e
+Desenvolvimento Rural Sustentável – SNPCT
+Edel Nazaré Santiago de Moraes
+Departamento de Gestão Socioambiental e Povos e Comunidades
+Tradicionais – DPCT
+Cláudia Regina Sala de Pinho
+Coordenação-Geral de Gestão Socioambiental – CGGS
+Gabriel de Mendonça Domingues
+Elenita Herrera Braga
+Camila Ribeiro
+Darlan Mesquita Aragão
+Josana de Oliveira Lima Esser
+Mirella Tomczyk
+Moisés Taate Sarraf
+CONVIDADOS PERMANENTES:
+Instituto Nacional de Colonização e Reforma Agrária - INCRA
+Instituto Chico Mendes de Conservação da Biodiversidade - ICMBio
+Secretaria do Patrimônio da União –SPU/MGI
+Conselho Nacional de Populações Extrativistas – CNS
+Comissão Nacional de Fortalecimento das Reservas Extrativistas e
+Povos e Comunidades Tradicionais Extrativistas Costeiros e Marinhos
+– CONFREM
+PARTICIPANTES DO GT DE M&A DO PROGRAMA BOLSA
+VERDE
+Ministério do Planejamento e Orçamento (Coordenação)
+Artur Henrique da Silva Santos
+Marcos César Chaves da Fonseca
+Ministério do Meio Ambiente e Mudança do Clima
+Elenita Herrera Braga
+Darlan Mesquita Aragão
+Josana de Oliveira Lima Esser
+Bianca Oliveira Medeiros
+Ministério do Desenvolvimento e Assistência Social, Família e
+Combate à Fome
+Valdson Silva Cleto
+Felipe Mendonça Russo
+Ministério da Fazenda
+Camila Stefaní de Sousa Silva
+Casa Civil da Presidência da República
+Diogo Victor Santos
+Livia Marques Borges
+Instituto Nacional de Colonização e Reforma Agrária – INCRA
+Andre Freddo
+Instituto Chico Mendes de Conservação da Biodiversidade – ICMBio
+Mara Carvalho Nottingham
+Lilian Mercia Benevenuto Estrela
+Iara Carneiro
+Laura Shizue Moriga Masuda
+Rachel Klaczko Acosta
+Rodrigo Silva Pinto Jorge
+Conselho Nacional de Populações Extrativistas
+Dione do Nascimento Torquato
+Comissão Nacional de Fortalecimento das Reservas Extrativistas e Povos
+e Comunidades Tradicionais Extrativistas Costeiros e Marinhos
+Gesiani Souza Leite
+Abdul Latif Jameel Poverty Action Lab – J-PAL – América Latina e
+Caribe
+Francisco Costa
+Jordana Ferreira da Silva
+Climate Policy Initiative – CPI
+João Mourão
+Instituto de Pesquisa Ambiental da Amazônia – IPAM
+Paulo Moutinho
+Equipe Técnica do Relatório
+Artur Henrique da Silva Santos
+Daniel Grimaldi
+Francisco Costa
+Jordana Ferreira da Silva
+Marcos César Chaves da Fonseca
+Arte (ASCOM/MPO)
+Projeto gráfico e capa: Nayla Cunha Gomes
+INFORMAÇÕES
+E-mail: sma@economia.gov.br
+*É permitida a reprodução total ou parcial, desde que citada a fonte.
+Ministério do Planejamento e Orçamento
+gov.br/planejamento
+3
+Sumário Executivo
+Este relatório foi elaborado com o propósito de desenvolver um Plano de Monitoramento e Avaliação
+(M&A) para o Programa de Apoio à Conservação Ambiental (Programa Bolsa Verde). Ele foi realizado no âmbito
+do Grupo de Trabalho (GT) de Monitoramento e Avaliação do Bolsa Verde, criado pelo Comitê Gestor do
+Programa Bolsa Verde para a elaboração deste produto. Os objetivos do documento são: (i) apresentar o modelo
+lógico detalhado do Programa (ii) fornecer um quadro estruturado de indicadores que permitirá monitorar a
+implementação e os resultados do Bolsa Verde por meio de um dashboard; e (iii) desenvolver estratégias sólidas
+de avaliação para identificar o efeito causal da política, com o objetivo de fortalecer as narrativas de impacto do
+programa.
+O modelo lógico foi desenvolvido e validado pelo Grupo de Trabalho de Monitoramento e Avaliação, que
+contou com os representantes de instituições participantes do Comitê Gestor do Bolsa Verde e com as
+instituições da sociedade civil. Dentro desse modelo lógico, o Programa Bolsa Verde tem como objetivo reduzir
+a vulnerabilidade socioeconômica, ambiental e climática das populações extrativistas de povos e comunidades
+tradicionais, vulnerabilidades essas que contribuem para a degradação ambiental e a exploração insustentável
+dos biomas. O principal produto do programa é a oferta de bolsas pagamentos ambientais trimestrais, e outros
+produtos, como capacitação profissional e comercial, além de da articulação para a promoção de melhorias na
+oferta de serviços públicos, como saneamento básico e internet banda larga, estão em implementação. Esses
+produtos têm o objetivo de transformar as condições das populações envolvidas, reduzir a pobreza e aumentar
+a renda das famílias de cada comunidade participante. Espera-se que esses resultados contribuam também para
+a conservação dos biomas em que essas comunidades estão localizadas.
+Guiada por esse marco lógico, a presente proposta de monitoramento apresenta indicadores de insumos,
+atividades, produtos, resultados e impactos. Além disso, também foi desenvolvido um protótipo de dashboard,
+ainda na fase de Minimum Viable Product (MVP), que busca garantir a implementação efetiva da estratégia de
+monitoramento. Contudo, cabe ressaltar que o monitoramento do programa só será eficaz se uma governança
+for construída para viabilizar o compartilhamento de bases de dados (fundamentais para o cálculo dos
+indicadores) e estabelecer rotinas de atualização com a regularidade necessária. Ademais, ainda existem alguns
+indicadores cujo cálculo não pode ser realizado por meio de registros administrativos. Nesses casos, estratégias
+alternativas de levantamento primário precisam ser implementadas, ou ajustes no plano de monitoramento
+precisarão ser feitos.
+Esse documento traz também uma estratégia robusta de avaliação para o Bolsa Verde, composta por uma
+proposta de análises qualitativas (estudos de caso) e quantitativas (avaliações de impacto). Os estudos de caso
+têm como objetivo investigar como o contexto sociocultural das comunidades beneficiadas respondeu à
+implementação do Bolsa Verde. Além disso, há a proposta de um estudo de caso dedicado a documentar o
+processo de implementação da política e seus principais desafios. Também são propostas diferentes abordagens
+para avaliar o impacto (entendido aqui como efeito causal) do Bolsa Verde sobre as comunidades beneficiadas,
+sempre tendo como referência os indicadores de resultado e impacto definidos no marco lógico. O objetivo é
+garantir que a avaliação apresente medidas quantitativas sobre os impactos do programa e comunique
+claramente seus efeitos, assegurando à sociedade brasileira o reconhecimento dos resultados do Bolsa Verde.
+Por fim, é possível que novas estratégias de avaliação sejam desenvolvidas durante a implementação da
+política. No entanto, é fundamental que as estratégias de avaliação atuais sejam validadas pelo Comitê Gestor
+para garantir a estabilidade das ações de avaliação que serão realizadas nos próximos anos.
+Sumário
+Sumário Executivo ........................................................................................................................................... 4
+Introdução ....................................................................................................................................................... 6
+1. O Programa Bolsa Verde ........................................................................................................................ 8
+2. Revisão de literatura ............................................................................................................................ 11
+3. Plano de monitoramento ..................................................................................................................... 16
+4. Plano de avaliação ................................................................................................................................ 19
+5. Considerações finais ............................................................................................................................. 29
+6. Referências ........................................................................................................................................... 30
+Anexo I – Diagramas do Modelo Lógico ........................................................................................................ 33
+Anexo II – Indicadores do Programa Bolsa Verde ......................................................................................... 36
+Anexo III – Fluxo de Geral Processos de Seleção das Famílias Beneficiárias do Programa Bolsa Verde ....... 49
+Anexo IV - Fluxo de Processos: Seleção das Famílias pelo ICMBio............................................................... 50
+Anexo V - Fluxo de Processos: Seleção das Famílias pelo INCRA ................................................................. 51
+5
+Introdução
+O Programa de Apoio à Conservação Ambiental – Programa Bolsa Verde – foi originalmente instituído
+em 2011 como iniciativa de inclusão produtiva rural, integrando o Plano Brasil sem Miséria. O objetivo
+principal do programa era beneficiar famílias em situação de extrema pobreza que habitavam áreas
+específicas, desde que essas áreas fossem mantidas e utilizadas de forma sustentável. Entre as áreas-
+alvo estavam unidades de conservação, projetos de assentamento territórios ribeirinhos e
+quilombolas. O Bolsa Verde oferecia uma renda complementar trimestral de R$ 300, destinada às
+famílias envolvidas em práticas sustentáveis, como preservação florestal, manejo sustentável de
+recursos naturais e recuperação de áreas degradadas. Durante o período em que esteve ativo, até seu
+encerramento em 2017, o programa beneficiou mais de 70 mil famílias.
+Reconhecendo a relevância do enfrentamento às mudanças climáticas e a importância do Brasil nesse
+esforço global, o atual Governo Federal tem priorizado a agenda ambiental e, em 2023, retomou o
+Programa Bolsa Verde com diversas modificações importantes. como: atualizações do arcabouço legal,
+modernização na gestão passando a ser sistematizada. Entre as alterações do arcabouço legal, destaca-
+se a desvinculação do critério de extrema pobreza para a seleção dos beneficiários, ampliando o
+alcance do programa para incluir famílias em situação de baixa renda. A partir dessa alteração, a
+definição de renda passou a considerar aqueles com renda familiar mensal per capita de até meio
+salário-mínimo, conforme critério do Cadastro Único para Programas Sociais. Adicionalmente, o foco
+territorial do programa foi ajustado, direcionando-se exclusivamente para áreas prioritárias
+diferenciadas, conforme definição do Comitê Gestor do Programa. Outra modificação foi o aumento
+do valor do benefício trimestral de R$ 300 para R$ 600. O processo de cadastramento das famílias foi
+modernizado, migrando de procedimentos em papel para processos digitais, por meio dos serviços
+digitais do Gov.br. Embora essa mudança permita uma escala maior de adesões, ela apresenta desafios,
+especialmente devido ao histórico de dificuldades de acesso à internet enfrentado pelo público do
+programa.
+Por fim, uma característica central do novo Bolsa Verde é o compromisso com a geração de evidências
+a partir da elaboração de um sistema robusto de monitoramento e avaliação, desde a fase de
+formulação do programa. Para tanto, o Ministério do Meio Ambiente e Mudança do Clima (MMA), por
+meio do OFÍCIO Nº 5796/2023/MMA, procurou o apoio da Secretaria de Monitoramento e Avaliação
+de Políticas Públicas e Assuntos Econômicos (SMA) do Ministério do Planejamento e Orçamento (MPO).
+Esse apoio teve por objetivo assegurar que, desde a fase de formulação, o programa fosse estruturado
+com um modelo lógico detalhado e um plano robusto de monitoramento e avaliação. Essa colaboração
+reflete uma preocupação crescente com a construção de uma narrativa orientada a evidências e
+sustentada pela teoria do programa.
+Com a retomada do Programa Bolsa Verde, foi reinstituído o Comitê Gestor da Política, conforme o
+Decreto nº 11.635, de 16 de agosto de 2023. Devido à parceria entre MMA e MPO desde a fase de
+6
+elaboração da política, o MPO foi incluído como membro do Comitê Gestor. O Comitê Gestor é
+responsável por definir as diretrizes gerais do programa, supervisionar sua implementação e garantir
+que as metas de conservação e inclusão social sejam alcançadas.
+Na primeira reunião do Comitê Gestor, realizada em 20 de fevereiro de 2024, foi criada a deliberação
+para o estabelecimento de um Grupo de Trabalho (GT) específico para o Monitoramento e Avaliação
+do Programa Bolsa Verde. O GT foi incumbido de desenvolver três produtos principais: um Modelo
+Lógico do Programa, a primeira versão do Dashboard de Monitoramento, e o Plano de Monitoramento
+e Avaliação. Participaram do GT o MPO, que coordena o grupo, o MMA, o Ministério do
+Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS), Ministério da Fazenda (MF),
+a Casa Civil da Presidência da República, o Instituto Chico Mendes de Conservação da Biodiversidade
+(ICMBio), o Instituto Nacional de Colonização e Reforma Agrária (INCRA), e organizações da sociedade
+civil como o Conselho Nacional de Populações Extrativistas (CNS) e a Comissão Nacional de
+Fortalecimento das Reservas Extrativistas e Povos e Comunidades Tradicionais Extrativistas Costeiros
+e Marinhos (CONFREM), o Climate Policy Initiative/PUC-Rio (CPI/PUC-Rio), o Abdul Latif Jameel Poverty
+Action Lab (J-PAL), e o Instituto de Pesquisa Ambiental da Amazônia (IPAM).
+As atividades do GT envolveram a realização de oficinas, reuniões plenas e bilaterais, que foram
+essenciais para ouvir diferentes perspectivas, validar o Modelo Lógico, desenhar estratégias para a
+obtenção de informações a nível de indicador e formalizar os fluxos periódicos de informações
+necessários para o cálculo dos indicadores de monitoramento. Essas reuniões também permitiram a
+consulta direta com os gestores primários da informação, promovendo a adequação dos indicadores.
+O presente relatório tem como objetivo consolidar o trabalho realizado pelo GT e apresentar o plano
+de monitoramento e avaliação do Programa Bolsa Verde. Primeiro, é detalhada a teoria do programa
+e as modificações realizadas em sua reestruturação. Em seguida, é apresentada uma breve revisão de
+literatura sobre Pagamento por Serviços Ambientais (PSA) e o Programa Bolsa Verde.
+A seção de plano de monitoramento irá fornecer ao MMA uma ferramenta interna para acompanha a
+implementação do programa e permitir ajustar a execução da política conforme necessário. Esse plano
+é constituído por indicadores de insumos, atividades, produtos, resultados e impactos, com metas
+específicas e mecanismos de verificação.
+A seção de plano de avaliação, por sua vez, aborda diferentes possibilidades metodológicas para
+analisar os resultados e impactos do Programa Bolsa Verde. São propostas abordagens qualitativas,
+como estudos de caso, para compreender o contexto e a implementação local, além de avaliações
+quantitativas com metodologias rigorosas para estimar o efeito causal da política sobre os indicadores
+de resultado e impacto. Se implementadas, essas avaliações permitirão mensurar a efetividade da
+política, identificar lições aprendidas e gerar evidências que possam orientar futuras decisões políticas.
+7
+1. O Programa Bolsa Verde
+Teoria do Programa
+Esta seção detalha a teoria do Programa Bolsa Verde e as modificações realizadas em sua reestruturação,
+com base no trabalho desenvolvido no âmbito do GT de M&A. O resultado desse trabalho foi a elaboração
+de um modelo lógico da política, que organiza de maneira estruturada seus objetivos, produtos e impactos
+esperados. Os diagramas discutidos pelo GT estão apresentados no Anexo I.
+De acordo com as discussões do GT, o objetivo principal do Programa Bolsa Verde é reduzir a
+vulnerabilidade socioeconômica, ambiental e climática de populações extrativistas tradicionais, e, com isso,
+aumentar a proteção dos seus direitos fundamentais e o uso sustentável de recursos naturais. Dessa forma,
+o Bolsa Verde combina um caráter socioeconômico com um forte componente ambiental. Mais do que uma
+mera transferência de renda, trata-se de uma política pública voltada para a proteção dos recursos naturais,
+por meio da redução da pobreza e da promoção de oportunidades de desenvolvimento sustentável.
+Dentro dessa lógica de atuação, a expectativa de público-alvo do Programa Bolsa Verde seria de 120 mil
+famílias, todas elas enfrentando condições de vulnerabilidade1 socioeconômica e ambiental. Esse grupo é
+composto por povos e comunidades extrativistas tradicionais que vivem em áreas prioritárias para a
+conservação ambiental, conforme definição do Comitê Gestor do Programa. Esses territórios incluem,
+principalmente, Florestas Nacionais, Reservas Extrativistas, Reservas de Desenvolvimento Sustentável e
+Projetos de Assentamento Ambientalmente Diferenciados, de Desenvolvimento Sustentável ou
+Agroextrativistas.
+Em função dessa vulnerabilidade, as discussões do GT identificaram uma série de impactos esperados do
+programa, que são predominantemente ambientais, mas também incluem aspectos sociais. Entre os
+impactos esperados nos territórios protegidos, pode-se mencionar: a manutenção ou aumento do uso
+práticas tradicionais, a redução da mineração ilegal, a redução da pecuária, a redução da monocultura, a
+redução de atividades extrativas predatórias; e todos levam a uma maior conservação ambiental. Entre os
+impactos sociais esperados, cita-se um maior exercício da cidadania territorial e a melhoria de indicadores
+sociais de educação e saúde.
+Considerando esses objetivos, a reestruturação do programa a partir de 2023 tem buscado também ampliar
+o escopo de suas ações e produtos para atender à lógica vertical proposta. Evidentemente, o principal
+produto do Bolsa Verde segue sendo a oferta de bolsas trimestrais de R$ 600,00 No início da retomada,
+6.243 famílias foram incluídas e esse número aumentou para 35.104 famílias até junho de 2024. Isso
+resultou em investimento de R$ 17,4 milhões em 2023 e R$ 38,1 milhões até junho de 2024. Para além das
+1 De acordo com o Censo Demográfico de 2010 (IBGE), nas áreas elegíveis ao Programa Bolsa Verde, o uso de fossa rudimentar é a
+principal forma de esgotamento sanitário, e 60% a 70% da população queima o lixo na própria propriedade. Apenas 15% das pessoas
+ocupadas possuem carteira de trabalho assinada, em contraste com a média nacional de 46%. Entre a população em extrema pobreza
+dessas regiões, a principal fonte de renda é a produção para o próprio consumo. Essas estatísticas reforçam as condições de
+vulnerabilidade do público-alvo do programa.
+8
+bolsas, existem outros produtos planejados. Em fase de implementação, existe a oferta de capacitação
+profissional e comercial da população extrativista tradicional, conhecida como Assistência Técnica e
+Extensão Rural (ATER). A despesa desse produto prevê um repasse de R$ 60 milhões ao MDA para oferta,
+por meio da Agência Nacional de Assistência Técnica e Extensão Rural (ANATER), de serviços de ATER
+socioambiental, de base agroextrativista, para 15 mil famílias beneficiárias do programa.Há também um
+esforço coordenado de articulação para melhorar a oferta de políticas públicas nessas comunidades. Como
+exemplo desse esforço, é possível a oferta de saneamento básico a comunidades do Marajó por meio do
+Programa Cisternas, do MDS2 e as articulações com o projeto Conexão Povos da Floresta3. para viabilização
+de pontos de conexão nas áreas atendidas pelo programa. Além desses, foram idealizados durante as
+oficinas produtos como o Selo Amazônia, o fomento produtivo e a política de acesso ao crédito, mas eles
+ainda não possuem ações concretas para sua implementação dentro do Programa Bolsa Verde.
+O público do Bolsa Verde é composto, principalmente, por famílias moradoras da zona rural da região
+amazônica, cujo processo de formação remonta ao período colonial, sendo intituladas como “caboclos” na
+maior parte do século XX – nomenclatura que vem perdendo força, dando lugar a denominações étnicas
+autodeclaradas, principalmente ribeirinhos, pescadores, agricultores familiares e extrativistas. Essa
+população tem seu modo de vida associado aos produtos extrativistas e às cadeias da sociobiodiversidade,
+que vão desde produtos florestais não-madeireiros, como a produção de açaí e palmito de açaí, coleta de
+frutas, sementes oleaginosas e extração de látex, até a pesca artesanal e a extração de produtos
+madeireiros.
+As famílias estão distribuídas especialmente às margens ou proximidades dos rios da bacia amazônica,
+agrupadas em vilas de dez a 50 residências, ou em casas isoladas, nas áreas de várzea ou terra firme. Esse
+segmento também está entre os mais vulnerabilizados. Considerando o Índice de Vulnerabilidade Social,
+que classifica os municípios em cinco categorias – muito baixa, baixa, média, alta e muito alta –, 76 dos 92
+municípios hoje abarcados pelo Bolsa Verde estão na categoria de vulnerabilidade social muito alta.
+Em setembro de 20244, o programa Bolsa Verde atendeu cerca de 42 mil famílias (140 mil pessoas5), das
+quais 45% são a famílias de pescadores artesanais ou ribeirinhos, refletindo sua forte conexão com
+populações tradicionais. Além disso, 13% dos beneficiários são de famílias de agricultores familiares,
+enquanto 3% são famílias assentadas em programas de reforma agrária. Outro grupo relevante é o de
+famílias indígenas ou quilombolas, que representam 4% dos participantes. Geograficamente, o Pará
+concentra a maioria dos beneficiários, com 63%, seguido pelo Amazonas, com 18%, demonstrando a
+predominância do programa na região Norte do Brasil.
+O programa possui em sua narrativa um forte componente social de resultados, porque os efeitos imediatos
+desses produtos afetam a realidade social da população beneficiária. Entre os resultados esperados, pode-
+se citar: o fortalecimento do planejamento, da coesão e da organização coletiva das comunidades locais; a
+2 https://www.fundoamazonia.gov.br/pt/como-apresentar-projetos/chamadas-publicas/sanear-amazonia/
+3 https://conexaopovosdafloresta.org/
+4 Cadastro de pagamentos do programa bolsa verde.
+5 Segundo os dados do CadÚnico, são pessoas que compõem as famílias beneficiadas pelo Programa Bolsa Verde.
+9
+redução da pobreza; o acesso a políticas públicas e serviços públicos básicos; a valorização da importância
+local por parte do setor público; o aumento de bens de capital, da produtividade do trabalho e da
+comercialidade da produção extrativista tradicional, que, por sua vez, espera-se que gerem aumento de
+renda do trabalho das populações extrativistas tradicionais. Com a obtenção desses resultados sociais,
+espera-se que o programa contribua para reduzir a vulnerabilidade das populações extrativistas
+tradicionais, diminuindo sua exposição e dependência de atividades econômicas predatórias, e, assim,
+contribua para promover a conservação ambiental.
+Detalhamento do processo de Implementação do Programa Bolsa Verde
+A implementação do Bolsa Verde inicia-se com a proposição de áreas, previstas na Lei nº 12.512 de 2011 e
+no Decreto nº 7572 de 2011, pelos órgãos gestores. Após a proposição das áreas, o MMA realiza o
+diagnóstico ambiental e o Comitê Gestor do Programa Bolsa Verde delibera e publica a lista de áreas
+selecionadas para o Programa. Todo esse fluxo foi atualizado pela Resolução nº 11 de 16 de maio de 2024.
+O órgão gestor das áreas selecionadas encaminha ao MMA a lista de pessoas residentes nas áreas sob sua
+responsabilidade elegíveis ao Programa Bolsa Verde, criando assim o cadastro de beneficiários. Para que
+uma família possa aderir ao programa, é necessário que ela atenda a determinados critérios de
+elegibilidade, como estar em situação de baixa renda6, e residir em áreas prioritárias ambientalmente
+diferenciadas. As famílias também precisam estar inscritas no CadÚnico e nos cadastros administrativos
+dos órgãos gestores do programa, como o ICMBio e o INCRA.
+No entanto, existem diferenças nas estratégias de atualização desses cadastros entre os dois órgãos
+gestores. O ICMBio realiza uma atualização prévia antes de iniciar oPBV. Essa atuação tem causado atrasos
+para tornar seus residentes em beneficiários, durante os meses iniciais do programa. Por outro lado, uma
+das UC priorizadas, antes de encaminhar ao MMA a indicação das famílias a serem incluídas no Bolsa Verde.
+Uma vez com o cadastro atualizado, há em uma rápida expansão da assinatura dos termos de adesão. Já o
+INCRA utiliza a relação de beneficiários (RB) no status atual, independentemente de quando foi sua última
+dedos assentamentos priorizados, sem uma atualização prévia. Tal estratégia possibilita uma adesão mais
+rápida de beneficiários nos meses iniciais do Bolsa Verde, mas pode resultar em problemas de focalização
+e cria dificuldades de incluir familílias que efetivamente residem nos territórios e não constam na RB por
+falta de atualização.
+Após estar inscrita nos cadastros dos órgãos gestores e no Cadastro Único,, a família deve assinar o Termo
+de Adesão ao Programa. Em decorrência do processo de digitalização, a assinatura é realizada por meio da
+conta digital Gov.br da pessoa que é o representante da familia no Cadastro Único. Durante a assinatura do
+termo de adesão, a família assume o compromisso de preservar o ambiente do território onde reside,
+utilizando os recursos naturais de maneira sustentável. Para mais detalhes sobre o fluxo de processos e as
+etapas de adesão, consulte o Anexo III deste documento.
+6 Renda definida pela regulamentação do Cadastro Único para Programas Sociais do Governo Federal (CadÚnico).
+10
+Por fim, é importante trazer detalhes do processo de inclusão de territórios que teve dois momentos
+distintos: (1) de setembro de 2023 até o abril de 2024 e (2) após abril de 2024, quando ocorreu a primeira
+reunião do Comitê Gestor do Programa Bolsa Verde após a retomada do programa. No primeiro momento,
+o Programa foi retomado nas áreas já consideradas elegíveis7 de acordo com a lista em vigor8 quando o
+programa foi encerrado em 2017. No segundo momento, e após a realização do diagnóstico ambiental, foi
+composta uma nova lista de áreas elegíveis ao Programa, publicada pela Resolução nº 9, de 25 de abril de
+2024.
+Para garantir que não houvesse descontinuidade do pagamento a beneficiários em áreas não conformes
+que constavam da lista vigente antes de abril de 2024, o Comitê Gestor, por meio do Anexo III da Resolução
+nº 9, validou a lista de áreas prioritárias não conformes(cobertura vegetal mínima de 80% do território) e
+foi estabelecido a obrigatoriedade dessas áreas em não conformidade a submeter um plano de trabalho
+para gestão ou regularização ambiental.
+Na reunião do Comitê Gestor, em fevereiro de 2024, foi criado um grupo de trabalho para revisar e atualizar
+a metodologia de monitoramento da cobertura v vigente. As atividades desse grupo de trabalho estão
+sendo realizadas em paralelo às ações do GT de Monitoramento e Avaliação, visando aprimorar o processo
+de seleção e inclusão de novos territórios no Programa Bolsa Verde.
+2. Revisão de literatura
+A literatura acadêmica reconhece o Programa Bolsa Verde como uma forma de Pagamento por
+Serviços Ambientais (PSA). No entanto, ainda está em discussão se o Programa se enquadra como PSA
+nos termos da legislação brasileira, havendo necessidade de maior debate no âmbito da
+regulamentação da lei de PSA. Esta revisão de literatura, portanto, abrange tanto estudos focados no
+Bolsa Verde quanto pesquisas sobre PSA em outros contextos, buscando identificar como conceitos e
+lições do antigo Bolsa Verde e de PSA em diversas regiões podem ser aproveitados na atual
+reformulação e implementação do programa. A seleção dos estudos considerou pesquisas que
+avaliaram os impactos do Bolsa Verde e de PSA, bem como outras experiências que ofereçam insights
+relevantes para o aprimoramento do Bolsa Verde.
+Primeiramente, o Pagamento por Serviços Ambientais (PSA) incentiva práticas de preservação e
+recuperação ambiental, oferecendo compensações a indivíduos ou grupos. A Lei nº 14.119, de 13 de
+7 Florestas Nacionais (Flona), Reservas Extrativistas (Resex), Reservas de Desenvolvimento Sustentável (RDS), Projetos de
+Assentamento Florestal (PAF), de Desenvolvimento Sustentável (PDS) e de Assentamento Agroextrativista (PAE), e que possuam
+polígonos vetoriais georreferenciados fornecidos pelos órgãos gestores.
+8 Por meio das Resoluções nº 2, de 25 de fevereiro de 2014; nº 4, de 25 de fevereiro de 2015; nº 7, de 23 de agosto de 2017; e nº 8,
+de 27 de setembro de 2017.
+11
+janeiro de 2021, define serviços ambientais, que são um tipo de serviços ecossistêmicos9, como
+“atividades individuais ou coletivas que favorecem a manutenção, a recuperação ou a melhoria dos
+serviços ecossistêmicos” (BRASIL, 2021). Entre as modalidades de pagamento previstas, destacam-se
+o pagamento direto, títulos verdes e a Cota de Reserva Ambiental (CRA) (BRASIL, 2012). Novas
+modalidades podem ser criadas mediante normativas, desde que acordadas entre pagadores e
+provedores. Assim, o Programa Bolsa Verde, como forma de PSA, compartilha desses princípios, o que
+permite compará-lo à literatura sobre outras experiências de PSA. Contudo, para que o programa seja
+totalmente enquadrado como PSA no Brasil, é necessária uma definição legal mais clara e específica.
+Iniciando com a literatura sobre o Bolsa Verde, quatro avaliações do programa foram identificadas na
+literatura e podem contribuir para compreendermos melhor a trajetória e os resultados alcançados
+pelo programa entre 2011 e 2017. Com uma abordagem mais qualitativa, Kull et al. (2018) estudaram
+o processo de implementação e de governança da política.10 Eles apontaram que o processo de
+implementação do Bolsa Verde teria sido mais apressado e dirigido de maneira mais tecnocrática – em
+particular na comparação com outras políticas sociais como o Programa Bolsa Família.
+Eles também destacaram que, aparentemente, menos esforço teria sido direcionado para a
+deliberação de metas e objetivos de efetividade. Nesse contexto, eles alegam que a implementação
+parece ter seguido uma lógica de expansão acelerada, destinada a aumentar o número de famílias
+atendidas mesmo antes de se adicionar uma lógica estruturada ao componente ambiental da teoria do
+programa que suportava o Bolsa Verde. Por exemplo, eles apontam que a metodologia de
+monitoramento teria sido desenvolvida apenas a posteriori.
+Wong et al. (2022) conduziram uma análise usando dados em painel do período de 2009 a 2015,
+empregando o método de diferenças em diferenças generalizadas. Os resultados apontaram que o
+Bolsa Verde reduziu o desmatamento em 4,72%, equivalente a uma diminuição de 2,2 hectares (ha)
+nas áreas que o receberam. O efeito estimado do tratamento foi mais pronunciado em áreas
+prioritárias com altos níveis de desmatamento prévio, isto é, nas regiões mais afetadas. Além disso, o
+estudo demonstrou que o programa Bolsa Verde tem um impacto mais significativo na redução do
+desmatamento em regiões economicamente desfavorecidas, pois, nesses locais, possivelmente os
+beneficiários consideraram a transferência de dinheiro como uma contribuição mais substancial para
+seus orçamentos domésticos.
+nascimento (2021) utilizou dados em painel de 2002 e 2017, com efeitos fixos de municípios, encontrou
+que o Bolsa Verde gerou um efeito de aumento de 0,002 a 0,003 p.p. no incremento do desmatamento.
+Para os assentamentos ambientalmente diferenciados e para os assentamentos tradicionais, a autora
+9 Benefícios relevantes para a sociedade gerados pelos ecossistemas, em termos de manutenção, recuperação ou melhoria das
+condições ambientais, nas seguintes modalidades - Lei nº 14.119, de 13 de janeiro de 2021
+10 Os autores realizaram uma série de entrevistas semiestruturadas com gestores e executores do Bolsa Verde.
+12
+não encontrou diferenças. Em ambos, um aumento de 1p.p. na proporção de famílias beneficiadas
+gerou um aumento de 0,002p.p. no valor médio do desmatamento incremental.
+costedoat et al. (2022), por sua vez, utilizaram a expansão gradual do programa em combinação com
+técnicas de pareamento no nível regional para analisar o impacto do programa sobre o desmatamento.
+Os autores encontram que o Bolsa Verde foi capaz de reduzir o desmatamento anual em cerca de
+0,15% - inferior ao 0,21% de impacto médio encontrado por samii et al. 2014. Tomando esse parâmetro
+de efetividade com referência, costedoat et al. (2022) fazem uma análise de custo-benefício do Bolsa
+Verde. Os autores concluem que os benefícios do programa (monetizados a partir do custo por emissão
+de carbono evitada) superaram seus custos. Contudo, eles também indicaram que a razão custo-
+efetividade do programa era 4 vezes maior do que PSA em Uganda usado como comparação. Em
+conjunto, tais resultados sinalizam que especificidades de implementação do Bolsa Verde podem ter
+reduzido sua adicionalidade.
+Esses estudos do Bolsa Verde oferecem importantes lições para a reestruturação do programa. É
+importante refletir sobre possíveis fragilidades da primeira versão do Bolsa Verde, que podem ter
+contribuído para o seu encerramento em 2017 e que devem ser evitadas ou mitigadas nessa nova
+versão. Um primeiro ponto a ser destacado diz respeito à expansão acelerada e focada
+primordialmente em aumentar o número de beneficiários apontada por Kull et al. (2018).
+A literatura sinaliza a importância de que a adesão dos beneficiários seja acompanhada de metas claras
+de incremento de serviço ambiental (medidas por meio de atividades específicas a serem
+desempenhadas ou por resultados quantificáveis e atribuíveis). Sem um plano claro de monitoramento
+e avaliação desde o princípio, é de se supor que tal sinalização clara não tenha ocorrido, ou que tenha
+sido feita de maneira tardia.
+Além disso, o fato de a metodologia de monitoramento ter sido desenvolvida no decorrer da
+implementação do Bolsa Verde sugere que a avaliação de conformidade dos beneficiários, com
+eventual limitação dos pagamentos pela frustração de compromissos de conservação ambiental
+(condicionalidade do pagamento) deve ter sido bastante limitada. Em conjunto, tais elementos podem
+ter contribuído para reduzir a efetividade global do programa.
+Ampliando a análise para a literatura sobre PSA, é importante inicialmente considerar que esse tipo de
+instrumento visa resolver o problema da degradação ambiental. A degradação acelerada dos
+ecossistemas e seus importantes impactos climáticos tem atraído, com razão, crescente atenção da
+sociedade ao longo das últimas décadas. Sob a perspectiva de teoria econômica, o problema de
+degradação ambiental pode ser entendido fundamentalmente como uma falha de mercado. Nessa
+ótica, os serviços ambientais oferecidos por aqueles que preservam os ecossistemas não recebem a
+devida valoração e compensação por parte dos consumidores (OSTROM, 2012; FORSYTH e JOHNSON,
+2014). Esse entendimento tem motivado o desenvolvimento de políticas públicas baseadas em
+mecanismos de mercado – em complemento a políticas clássicas de comando e controle do território
+- que buscam estimular a sociedade a internalizar (por meio de transações diretas ou indiretas) o valor
+13
+dos serviços ambientais. Por estarem baseadas em uma lógica de mercado, havia uma expectativa de
+que tais políticas pudessem ser mais efetivas para enfrentar o desafio de preservação ambiental,
+especialmente em países em desenvolvimento (HAYES, MURTINHO, e WOLFF, 2017).
+Dentro dessa classe de políticas inspiradas em mecanismos de mercado, destacam-se os Programas de
+Pagamentos por Serviços Ambientais (PSA). Apesar de haver muita heterogeneidade do ponto de vista
+de desenho, PSA são tipicamente caracterizados por 4 elementos: (i) há um provedor, bem definido,
+de serviço ambiental que aceita voluntariamente participar de uma transação; (ii) há um comprador
+que aceita pagar por esses serviços; (iii) há uma métrica ex ante bem definida para o serviço a ser
+prestado (por exemplo, quantidade de carbono sequestrado); e (iv) a transação fica condicionada ao
+provedor entregar o serviço acordado (WUNDER, 2005).
+PSA têm sido implementados em diversos países ao longo das última duas décadas. Tendo
+implementado um amplo PSA ainda em 1997, a Costa Rica é talvez o exemplo mais estudado
+(ARRIAGADA et al., 2012), mas diversos países desenvolvidos e em desenvolvimento possuem políticas
+de PSA – por exemplo, México, Bolívia, Equador, Nicaragua, Honduras, Uganda, China e Vietnam.
+Os resultados encontrados sobre a preservação ambiental têm sido, de maneira geral, positivos, mas
+a magnitude do impacto varia bastante. Usando uma estratégia de Diferenças-em-diferenças,
+Arriagada et al. (2012) identificaram um aumento da cobertura florestal que variou de 11 a 17% na
+Costa Rica. Usando um experimento aleatório, Jayachandran et al. (2017) identificaram uma redução
+de cerca de 50% sobre a perda de cobertura florestal em Uganda. No México, resultados indicam uma
+redução no desmatamento em cerca de 30% (BÖRNER et al., 2017).
+Contudo, também por meio de uma aleatorização, Wiik et al. (2019) não identificaram impacto
+relevante sobre o desmatamento de um PSA na Bolívia. Após uma revisão sistemática, Samii et al.
+(2014) encontraram um impacto médio de 0,21% sobre a área desmatada, considerando um conjunto
+de 11 avaliações diferentes associadas a 6 PSA diferentes distribuídos em 4 países.
+Essa heterogeneidade de resultados indica que a efetividade de PSA depende diretamente dos
+detalhes de implementação (ENGEL, 2016). Dentre os principais desafios à implementação de PSA
+bem-sucedidos, a literatura aponta problemas associados a falhas informacionais11, que afetam a
+efetividade do programa, e uma baixa propensão dos consumidores a pagar por serviços ambientais,
+o que afeta a sua sustentabilidade financeira e escala de atuação.
+Para maior adicionalidade, os pagamentos devem ser direcionados para atores que, na ausência do
+PSA, promoveriam a degradação ambiental (PATTANAYAK, WUNDER e FERRARO, 2010). Por mais que
+haja uma percepção de ser socialmente justo realizar pagamentos para quem preservaria a floresta
+11 Adicionalidade deve ser entendida aqui como a capacidade de a PSA induzir de fato uma mudança no uso do solo, fazendo com
+que os potenciais provedores de serviços ambientais adotem uma postura mais pró-conservação por causa da política.
+14
+participando ou não do PSA, 12, esses pagamentos não induziriam mudanças no comportamento dos
+beneficiários e, portanto, a reduziriam a efetividade da política. Outra ameaça à adicionalidade de um
+PSA advém da presença do risco moral. A adesão à PSA ocorre tipicamente por meio de um contrato
+voluntário onde os ofertantes se comprometem a prestar um serviço ambiental no futuro. Nesse
+cenário, é crucial que haja metas ambientais específicas, acionáveis e previamente acordadas e que os
+efetivos pagamentos sejam, na medida do possível, condicionados à efetiva entrega do serviço
+(WUNDER, 2005; BÖRNER et al., 2017). Caso contrário, abre-se a possibilidade de um comportamento
+oportunista por parte de alguns provedores (que conseguiriam receber os pagamentos sem incorrer
+no esforço marginal de preservação). Isso pode, inclusive, levar a uma erosão de atitudes pró-
+preservação de outros potenciais provedores, na medida em que se tem uma percepção de
+pagamentos injusto para subgrupos específicos (PATTANAYAK, WUNDER e FERRARO, 2010; BÖRNER
+et al., 2017).
+Finalmente, a construção de um PSA efetiva requer também atenção a potenciais efeitos colaterais
+(spillovers effects) que a política pode ter sobre os não beneficiários. Por exemplo, a introdução de um
+programa em determinada comunidade pode levar a um aumento de usos não sustentáveis do solo
+em regiões vizinhas, na medida em que as pressões externas nessa direção tenderão a se concentrar
+em populações mais vulneráveis (BÖRNER et al., 2017). Dependendo do tipo de atividade induzido pelo
+PSA, podem existir também efeitos indiretos sobre o preço de determinadas produtos no mercado
+local prejudicando principalmente os mais vulneráveis (WUNDER, 2005).
+Adicionalmente, também para mitigar a seleção adversa, é importante que o PSA seja direcionado
+justamente para regiões onde a preservação ambiental esteja mais ameaçada (BÖRNER et al., 2017;
+WUNDER, 2005). A explicação é razoavelmente intuitiva. São nessas áreas onde, provavelmente, o
+custo de oportunidade da preservação esteja mais alto, diante a pressões externas para um uso não
+sustentável do solo. Portanto, é nesse contexto que o estímulo extra gerado pelo pagamento tem
+maior probabilidade de alterar, na margem, o comportamento dos indivíduos.
+A literatura atual sobre PSA também destaca a importância do engajamento das comunidades
+beneficiárias no próprio desenho do programa. Tal envolvimento tem potencial para reduzir
+comportamentos oportunistas e para permitir uma calibragem mais fina dos pagamentos, de maneira
+a potencializar a adicionalidade da política (BÖRNER et al., 2017). Outra lição importante é que os PSA
+tendem a ser mais efetivos em locais onde os mercados estão mais bem definidos. Na ausência de
+mercados, os pagamentos tendem a ser menos efetivos para contrabalancear o custo de oportunidade
+(PATTANAYAK, WUNDER e FERRARO, 2010).
+12 Em particular, o senso de justiça social tende a ser reforçado na medida em que, tipicamente, os potenciais provedores de serviços
+ambientais tendem a ser populações mais vulneráveis e que vivem em áreas rurais mais remotas e que, portanto, ainda apresentam
+um alto grau de preservação do ecossistema (PATTANAYAK, WUNDER e FERRARO, 2010).
+15
+Deve-se também destacar a importância de um sólido plano de monitoramento e avaliação de
+impactos (PMA). Uma estratégia robusta de monitoramento é uma condição necessária para que os
+pagamentos possam ser condicionados à efetiva prestação dos serviços ambientais (BÖRNER et al.,
+2017), atuando assim para reduzir o risco moral. Evidentemente, os dados de monitoramento precisam
+ser capazes de discriminar com segurança os beneficiários que estão adicionando serviços ambientais
+em resposta aos pagamentos daqueles que não. Além da identificação, é preciso que haja de fato uma
+ameaça crível de que o não atingimento de condicionalidades implicará na limitação dos pagamentos.
+Finalmente, a implementação de uma avaliação de impacto13 serve para conectar de maneira crível os
+pagamentos (insumo principal do PSA) com as mudanças observadas no uso do solo (que são,
+tipicamente, os produtos esperados) e seus resultados quantificáveis do ponto de vista de prestação
+de serviços ambientais (por exemplo, captura adicional de carbono). Quando bem comunicada, essa
+quantificação crível tende a aumentar a propensão da sociedade a suportar financeiramente um PSA
+(WUNDER, 2005). A correta identificação da efetividade do programa também pode ex post contribuir
+de maneira decisiva para uma calibragem fina dos mecanismos de pagamentos de maneira a
+potencializar a sua adicionalidade (PATTANAYAK, WUNDER e FERRARO, 2010). Adicionalmente, na
+medida em que uma avaliação de impacto tipicamente identifica cenários contrafactuais por meio da
+comparação entre regiões beneficiadas e não beneficiadas vizinhas, ela é também importante para a
+identificação (e eventual mitigação) de spillover effects.
+3. Plano de monitoramento
+O monitoramento baseia-se na coleta e análise de uma série de indicadores organizados na teoria do
+programa (Anexo I) construído no Grupo Técnico, separados nas cinco categorias do modelo lógico:
+insumos, atividades, produtos, resultados e impactos. Esses indicadores permitem acompanhar o
+desempenho e a evolução do Programa Bolsa Verde ao longo do tempo, verificando a alocação de
+recursos, a execução das atividades previstas e os efeitos gerados nas populações beneficiadas e no
+meio ambiente. Detalhes sobre cada indicador, incluindo suas metas e frequência de atualização,
+podem ser consultados no Anexo II, que acompanha este documento.
+Os indicadores de insumos avaliam a disponibilidade e o uso dos recursos financeiros, humanos e de
+cadastro necessários para a implementação do programa. Especificamente, os recursos financeiros são
+monitorados por meio de indicadores que acompanham as despesas autorizadas, empenhadas e pagas
+no âmbito do programa. Já os recursos humanos são avaliados pela quantidade de agentes técnicos
+ambientais (ATA) ativos nas Unidades de Conservação (UC) e pela identificação das UC que ainda não
+13 Aqui deve-se entender avaliação de impacto como uma avaliação que usa técnicas quantitativas para identificar os efeitos causais
+de um programa.
+16
+contam com esses profissionais. Além disso, os indicadores dos cadastros são monitorados para avaliar
+como esses bancos de dados estão sendo utilizados e qual o grau de atualização cadastral necessária
+para que a população alvo possa ser enxergada pelos gestores da política. Esses indicadores servem
+para monitorar se os recursos estão sendo devidamente alocados e se as condições para a execução
+das atividades estão presentes.
+Nos indicadores de atividades, o foco está em monitorar eventuais gargalos processuais. Esses
+indicadores permitem verificar, por exemplo, o percentual de territórios priorizados pelo Comitê
+Gestor, o tempo entre a priorização de um território e a assinatura dos termos de adesão, e a
+quantidade de famílias que estão aptas, mas ainda não assinaram o termo de adesão. Através desses
+dados, é possível avaliar se as atividades estão progredindo conforme o planejado e identificar
+possíveis problemas que possam atrasar ou comprometer a execução das ações.
+Os indicadores de produtos medem a ação da política que foi entregue à população alvo. Entre eles
+estão a quantidade de famílias beneficiárias, a quantidade de territórios atendidos pelo programa, e a
+participação das famílias em ações complementares, como a Assistência Técnica e Extensão Rural
+(ATER). Esses indicadores ajudam a entender o alcance direto do programa e a eficácia das ações
+implementadas.
+Os indicadores de resultados são focados nos efeitos sociais diretos que decorrem dos produtos da
+política. Eles avaliam, por exemplo, a redução na taxa de pobreza extrema e o aumento na renda média
+familiar per capita das famílias beneficiadas. Esses indicadores são essenciais para compreender os
+benefícios sociais imediatos gerados pelo programa e para ajustar as ações, caso necessário, para
+garantir que os objetivos sociais sejam atingidos.
+Os indicadores de impacto, por sua vez, avaliam os efeitos de longo prazo e mais amplos do programa
+em áreas como meio ambiente, saúde, educação e biodiversidade. Em relação à cobertura vegetal,
+são utilizados indicadores que monitoram o percentual de área coberta por vegetação primária ou
+secundária, bem como o incremento de desmatamento em territórios específicos. Na área da saúde,
+são acompanhadas taxas como a de mortalidade infantil e a incidência de doenças relacionadas ao
+saneamento ambiental inadequado. Em termos educacionais, são monitorados indicadores como a
+taxa de matrícula escolar e o desempenho educacional, medido pelo IDEB. Além disso, indicadores de
+biodiversidade são empregados para avaliar o impacto do programa na preservação de espécies e na
+manutenção dos ecossistemas nas áreas atendidas.
+O acompanhamento desses indicadores deve ser realizado de forma contínua e periódica, conforme
+especificado no Anexo II. Para viabilizar o monitoramento do Bolsa Verde por parte do MMA, a SMA
+17
+desenvolveu uma proposta de dashboard14 que consolida e permite a visualização dos indicadores-
+chave15
+.
+Por hora, a aplicação, que é ainda um MVP, permite apenas o monitoramento de parte dos indicadores
+propostos no Anexo II16. Isso ocorre porque os registros administrativos necessários para o cálculo dos
+indicadores estão atualmente fragmentados em diferentes bases de dados, geridas por distintas
+instituições, e nem a SMA nem o MMA possuem hoje acesso a todo o conjunto de informação com a
+frequência de atualização desejada17. Logo, será preciso ainda avançar na consolidação e
+compartilhamento de dados entre os atores envolvidos na implementação, monitoramento e avaliação
+do Bolsa Verde.
+Além disso, o Grupo Técnico identificou que há indicadores sem informação disponível que carecem
+de pesquisa de campo amostral ou definição futura. Esses indicadores requerem atenção adicional
+para que possam ser plenamente desenvolvidos e incorporados ao sistema de monitoramento no
+futuro. Uma forma possível de obtenção das informações faltantes é por meio do Projeto Conexão
+Povos da Floresta, que ainda está em fase de implementação. O projeto tem o propósito de
+implementar uma rede estruturada através de internet rápida em áreas geograficamente isoladas.
+Com a implementação dessa rede, será possível se comunicar diretamente com as comunidades do
+Bolsa Verde e obter informações de maneira mais rápida e com menor custo, facilitando o
+monitoramento e a atualização dos indicadores que atualmente carecem de dados disponíveis.
+Para a implementação completa do plano de monitoramento e do dashboard, será necessário garantir
+a atualização regular de todas as bases de dados. A SMA poderá fornecer a infraestrutura técnica
+necessária para a estruturação e governança dessas bases, elaboração e atualização dos painéis, além
+da automação dos processos de monitoramento. No entanto, é imprescindível estabelecer parcerias
+regulares para o compartilhamento de dados.
+Portanto, após a aprovação deste plano de monitoramento por parte do comitê Gestor, será necessário
+definir elementos básicos de governança. Isso inclui, no mínimo, a designação de uma ou mais
+unidades na estrutura organizacional dos parceiros implementadores (em particular INCRA e ICMBio),
+da SMA, enquanto parceiro da agenda de M&A, e do MMA, responsável pela gestão do programa. A
+SMA também deverá fornecer suporte conceitual e metodológico, para assegurar o cumprimento das
+etapas do monitoramento, que deverão incluir necessariamente: (i) identificação, tratamento e
+14 De acordo com Beeley (2018), dashboards são ferramentas que permitem a visualização e monitoramento de dados de forma
+interativa, facilitando a interpretação das informações relevantes por meio de uma interface de usuário intuitiva.
+15 Acessível no endereço https://paineis2024.shinyapps.io/mvpdashboard/.
+16 Estão contemplados atualmente 4 indicadores de insumos, 1 indicador de produto e 4 indicadores de impacto, todos gerados com
+base nos dados do SIGA Brasil – Consultoria de Orçamento - Prodasen, Cadastro de Apoio Técnico Ambiental – ATA – ICMBIO,
+Cadastro Bolsa Verde – DataPrev/MMA, e bases de dados de monitoramento ambiental do Prodes, TerraClass, Deter e INPE
+Programa Queimadas.
+17 Para calcular os indicadores propostos no Anexo II, serão necessários dados adicionais do ICMBio, IBAMA, MMA, ANATER, MDS,
+MS, INPE, Mapbiomas e outras fontes que forem identificadas.
+18
+governança dos dados essenciais para o cálculo dos indicadores propostos; (ii) aplicação de métodos
+de cálculo e visualizações na ferramenta sugerida pelo Plano; (iii) construção de rotinas de atualização
+de dados para um monitoramento eficaz; e (iv) desenvolvimento completo do dashboard (hoje ainda
+em escala de MVP) alinhado ao modelo lógico do programa.
+4. Plano de avaliação
+Estratégias de Estudos de Caso: Realidade e Condições do Público-Alvo do
+Programa Bolsa Verde
+As estratégias de estudo de caso têm como objetivo aprofundar a compreensão das condições enfrentadas
+pelos beneficiários. Elas visam fornecer uma base sólida para auxiliar na avaliação da eficácia do programa
+na promoção de práticas sustentáveis e na identificação de ajustes necessários para melhorar a
+implementação e os resultados esperados. As estratégias 1,2 e 4 em particular, serão desenvolvidas com
+base na escolha prévia de territórios que participarão do estudo de caso e adotarão a metodologia de
+referência descrita por Schutt (2018).
+Estudo de Caso - Pergunta de 1: Quais são os efeitos do Programa Bolsa Verde na valorização da
+identidade cultural e territorial e no fortalecimento da coesão comunitária?
+A primeira estratégia de estudo de caso pretende analisar quais os impactos sociais e culturais gerados pelo
+programa. A pesquisa busca compreender os efeitos do programa na valorização da identidade cultural e
+territorial e no fortalecimento da coesão comunitária. Para a implementação dessa estratégia, pretende-se
+realizar estudos em áreas selecionadas do programa de modo que se obtenha um diagnóstico considerando
+diferentes variáveis, como formas de gestão e organização das comunidades beneficiárias, sexo,
+proximidade da frente de desmatamento etc.
+Estudo de Caso - Pergunta 2: Quais são as condições sociais, econômicas e ambientais enfrentadas pelo
+público-alvo do Programa Bolsa Verde?
+A segunda estratégia de estudo de caso pretende investigar as condições sociais, econômicas e ambientais
+do público-alvo do Programa Bolsa Verde. A pesquisa busca compreender as principais fontes de renda das
+famílias beneficiárias, explorando suas práticas de uso da terra, as atividades econômicas desenvolvidas e
+o funcionamento da cadeia de produção até a comercialização de produtos.
+Estudo de Caso - Pergunta 3: Quais fatores estão influenciando o processo de implementação do
+Programa Bolsa Verde nos diferentes territórios?
+19
+A terceira estratégia de estudo de caso pretende concentrar-se na análise do processo de implementação
+do programa. Isso incluiria a identificação e inscrição de beneficiários e áreas de intervenção, os processos
+de pagamento, as verificações de conformidade, a organização territorial, os sistemas de informação e os
+mecanismos de monitoramento e avaliação. O estudo pretende entender como esses componentes
+operacionais endógenos ou exógenos que estão influenciando a implementação do programa.
+Estudo de Caso - Pergunta 4: Qual o impacto de disseminação de informação via telecomunicação
+utilizando o Conexão Povos da Floresta nas comunidades mais isoladas e na gestão do território?
+O projeto inovador Conexão Povos da Floresta tem como objetivo implementar uma rede entre
+comunidades estruturada através de internet rápida em áreas geograficamente isoladas. Ao conectar mais
+de 4 mil aldeias indígenas, comunidades quilombolas e extrativistas mapeadas na Amazônia brasileira, este
+projeto tem grande potencial de criar canais de comunicação direta e telecomunicações com as
+comunidades participantes do Programa Bolsa Verde. A partir disso, a quarta abordagem de estudo de caso
+pretende investigar o potencial do Conexão Povos da Floresta em ser um instrumento de disseminação de
+informações relacionadas ao Bolsa Verde, como gestão de território, monitoramento das áreas de
+preservação, atividades predatórias nos territórios, dentre outras. O estudo pretende analisar se o acesso
+a canais de comunicação direta e telecomunicações entre os beneficiários e entre as comunidades
+participantes do Bolsa Verde pode ser instrumento de transformação social e ambiental nessas localidades.
+Avaliação de Impacto
+A avaliação de impacto permite verificar se uma política está gerando os resultados e impactos esperados,
+conforme definido em seus normativos e no modelo lógico. Para calcular o impacto de uma política, é
+preciso comparar o que aconteceu após sua implementação com o que teria acontecido na ausência da
+intervenção (cenário contrafactual). A diferença entre essas duas situações é o impacto da política. Assim,
+a avaliação de impacto baseia-se em um conceito específico de causalidade, onde é necessário controlar
+todos os outros fatores causadores do fenômeno para que apenas a política em questão seja identificada
+como causadora dos efeitos observados.
+A causalidade em avaliações de impacto refere-se à relação direta entre uma intervenção específica (como
+uma política ou programa) e os resultados observados. Em outras palavras, é preciso demonstrar que as
+mudanças observadas nos indicadores de resultado são de fato causadas pela política implementada e não
+por outros fatores externos (Angrist e Pischke, 2009, Gibson e Sautmann,2023).
+Para estimar o efeito causal de uma política ou programa, utilizam-se metodologias que permitem
+comparar o que aconteceu com os beneficiários ou regiões foco da intervenção em relação ao cenário
+contrafactual. Nesse contexto, o contrafactual representa uma estimativa do que teria ocorrido na ausência
+da intervenção, oferecendo uma base para a comparação. Para chegar a essas estimativas, os métodos de
+avaliação de impacto geralmente envolvem a definição de um grupo de controle, que não recebe a
+intervenção, para servir de contrafactual. Esses métodos são divididos em dois grupos: experimentais e não
+experimentais.
+20
+O método experimental, baseado na aleatorização, é o mais robusto, pois o critério de seleção dos
+beneficiários ou regiões afetadas pela política ou programa não depende de características observáveis que
+podem estar associadas à variável de resultado que se deseja mensurar. De forma resumida, a aleatorização
+garante que o grupo de controle é estatisticamente comparável ao grupo beneficiário, permitindo tratar as
+diferenças nos indicadores de resultado como efeitos causais. Essa abordagem robusta e inovadora na
+análise de políticas públicas e programas sociais, ao fornecer evidências sobre a eficácia das intervenções,
+foi fundamental para o reconhecimento global do método. Os expoentes deste método – Esther Duflo,
+Abhijit Banerjee e Michael Kremer – receberam o Prêmio Nobel de Economia em 2019.
+Quando a aleatorização não é possível, a avaliação de impacto é realizada por meio de métodos não
+experimentais. Técnicas que alinham estatística e economia permitem controlar fatores não observáveis
+que afetam os grupos de beneficiários e controle, permitindo sob algumas hipóteses de identificação
+estimar relação causal entre a política e os resultados. Os expoentes deste método – Joshua Angrist e Guido
+Imbens – receberam o Prêmio Nobel de Economia em 2021.
+Motivação
+A exploração predatória de recursos naturais e em especial o desmatamento de áreas verdes é uma das
+principais causas de emissão de carbono, tanto pela queima de árvores como pela redução do potencial de
+absorção de dióxido de carbono (Le Quéré et. al. 2015). Nesse contexto, os países em desenvolvimento
+possuem um papel extremamente relevante, visto que seus territórios são os que abrigam a maior parte
+das florestas e, consequentemente, onde se há maiores riscos de desflorestamento (Greenstone e Hanna,
+2014; Greenstone e Jack, 2015). Nesse contexto, ferramentas de monitoramento e punição de atividades
+extrativistas predatórias desenvolvidas pelo governo federal são fundamentais para a contenção do
+desmatamento (Assunção et. al. 2023; Burgess et al., 2023).
+Além dessas medidas, a preservação ambiental também tem sido promovida por meio de incentivos
+econômicos, o que têm ganhado força com os debates sobre o mecanismo REDD+ (Reducing Emissions from
+Deforestation and Forest Degradation) e Programas de Pagamentos por Serviços Ambientais (PSA) no
+âmbito da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC).
+Estudos recentes têm demonstrado que a transferência de renda para residentes de áreas florestais pode
+promover conservação ambiental, porém os resultados encontrados são bastante heterogêneos (Börner et
+al., 2017). Jayachandran et al. (2017) verificaram a redução do desmatamento em territórios de Uganda em
+que famílias com propriedades em áreas florestais receberam pelos serviços de conservação
+ambiental. Ferraro e Simorangkir (2020) observaram que o programa nacional de combate à pobreza da
+Indonésia teve como benefício secundário a redução do desmatamento, ao transferir dinheiro para
+centenas de milhares de famílias pobres, embora o programa não tivesse ligação direta com a conservação.
+Ao avaliar o impacto do pagamento por serviços ambientais em regiões tropicais do México, os resultados
+encontrados por Reyes-Hernández (2023) sugerem que o PSA não causou um grande impacto. Isso porque,
+embora o desmatamento tenha sido menor em áreas mais pobres, houve aumento do desmatamento em
+áreas com maior desenvolvimento econômico. Além disso, nas áreas mais pobres o pagamento teve
+21
+impacto mínimo sobre os meios de subsistência, sugerindo que a abordagem atual do PSA não é altamente
+eficaz no país.
+Nesse sentido, a avaliação de impacto do Programa Bolsa Verde tem como objetivo investigar se uma
+transferência de renda condicionada a metas de preservação ambiental, pode ser uma ferramenta efetiva
+na redução de desmatamento, ao estimular a migração de atividades predatórias para práticas de baixo
+impacto ambiental. Um estudo preliminar (Wong et al., 2022) confirma o potencial do Bolsa Verde de
+reduzir desmatamento, porém indica que particularidades locais podem limitar seus efeitos. Além disso, é
+crucial compreender como essas especificidades regionais influenciam a eficácia do programa em longo
+prazo. Portanto, uma avaliação de impacto do Bolsa Verde se mostra extremamente relevante para elucidar
+o potencial de PSA em uma região tão diversa e estratégica para as metas de redução de emissão de
+carbono global.
+Para além de incentivos para conservação ambiental, a informação e os meios de comunicação têm um
+grande potencial de capacitar comunidades, conectá-las em rede e com agentes externos. Assim, a
+integração entre o Programa Bolsa Verde e o projeto Conexão Povos da Floresta permite avaliar a
+efetividade do poder da conexão tecnológica como instrumento de transformação social e ambiental. Essa
+estratégia de avaliação pode oferecer, portanto, uma forma de complementar aos resultados esperados do
+programa.
+Perguntas de Avaliação de Impacto
+Cinco perguntas nortearão as estratégias de avaliação de impacto propostas para o PBV:
+Avaliação de Impacto - Pergunta 1: A transferência de recurso financeiro e a assistência técnica do
+Programa Bolsa Verde incentivam a conservação dos ecossistemas, entendida como sua manutenção e
+uso sustentável?
+O Bolsa Verde está associado a iniciativas de capacitação e suporte técnico que têm o objetivo de promover
+o desenvolvimento rural social, econômica e ambientalmente sustentável. Dessa forma, o programa pode
+ajudar a reduzir a pressão sobre os recursos naturais causada por práticas insustentáveis, como
+desmatamento, caça e pesca predatória, que são muitas vezes motivadas pela necessidade econômica
+imediata (May et al., 2011). Com isso, mensurar o impacto do Bolsa Verde em indicadores de cobertura de
+vegetação primária ou secundária bem como de degradação ambiental, pode ser uma estratégia para
+verificar se o programa tem potencial para contribuir com a redução do desmatamento nas áreas
+priorizadas.
+Avaliação de Impacto - Pergunta 2: Qual o potencial do Programa Bolsa Verde para aumentar a renda do
+trabalho e bem-estar econômico das famílias?
+O Bolsa Verde oferece um incentivo financeiro às famílias que vivem em situação de vulnerabilidade
+econômica em áreas consideradas prioritárias para conservação ambiental. Esse pagamento pode viabilizar
+o complemento da renda dessas famílias, promovendo uma melhoria em seu bem-estar econômico. Além
+22
+disso, a melhoria na renda e nas condições de vida pode ter efeitos multiplicadores, como a redução da
+migração forçada, a diminuição da incidência de doenças relacionadas à pobreza e melhoria na nutrição e
+saúde geral das famílias beneficiadas. Assim, por meio de indicadores de saúde, renda e educação, busca-
+se analisar os impactos sociais do Bolsa Verde nas famílias beneficiadas pelo programa.
+Avaliação de Impacto - Pergunta 3: Qual o papel da gestão dos territórios sobre a efetividade do Bolsa
+Verde?
+A gestão dos territórios tem importância na ação coletiva e pode levar a variações substanciais nos
+resultados do Programa Bolsa Verde. Isso porque, os gestores podem atuar como mediadores entre as
+autoridades governamentais e as comunidades locais, facilitando a comunicação e promovendo práticas
+sustentáveis de produção agroextrativista. Assim, o modo como os gestores disseminar as informações
+sobre a adesão ao programa, como os critérios de seleção e como metas de preservação, pode afetar a
+(dosimetria). Além disso, uma gestão comprometida com iniciativas de conservação ambiental pode ser
+crucial para que o programa tenha os impactos esperados.
+Avaliação de Impacto - Pergunta 4: Qual o potencial de disseminação de informação via telecomunicação
+utilizando o Conexão Povos da Floresta em incentiva a conservação dos ecossistemas, entendida como
+sua manutenção e uso sustentável?
+O acesso à informação via internet de banda larga pode facilitar a adesão e interesse no Bolsa Verde, ao
+facilitar adesão e o monitoramento do programa. Além disso, a infraestrutura de telecomunicação, a
+conexão via internet possibilita que alertas e informações possam ser compartilhados entre o MMA,
+ICMBio, Incra e beneficiários do programa de maneira a prover autonomia no monitoramento territorial às
+comunidades, principalmente em regiões sobre pressão de garimpeiros e expansão agrícola.
+Avaliação de Impacto - Pergunta 5: Qual o potencial de disseminação de informação via telecomunicação
+utilizando o Conexão Povos da Floresta para aumentar a renda do trabalho e bem-estar econômico das
+famílias?
+Podemos explorar o potencial de prover educação ambiental para qualificação em manejo sustentável via
+teleconferência como instrumento para oferecer capacitação pós implementação da ATER. Essa seria uma
+forma custo-efetiva de apresentar práticas sustentáveis e aumentar renda da comunidade.
+Estratégia Empírica para Inferência Causal
+As estratégias empíricas em avaliações de impacto referem-se a métodos e técnicas baseadas em dados
+para medir os efeitos de uma política pública. Essas estratégias visam isolar o impacto da política de
+outros fatores que poderiam influenciar os resultados, permitindo identificar em que grau a política em
+23
+questão teve êxito. Sendo assim, as estratégias a seguir apresentam possíveis abordagens para se avaliar
+o impacto do Programa Bolsa Verde18
+.
+Medida de Interesses:
+• Impactos de Conservação Ambiental: área desmatada, emissão de carbono, focos de queimada,
+expansão de atividades de manejo sustentável.
+• Exploração de Atividades Predatórias: expansão de áreas de garimpo, tráfico de animais, pesca
+irregular, pecuária e monocultura, multas aplicadas e apreensão de equipamentos.
+Efeitos Adicionais:
+• Acesso à serviços públicos;
+• Renda do trabalho/Inclusão Produtiva
+Estratégia A: Foco em áreas de projetos agroextrativistas, comparando com
+projetos convencionais em realidades sociais e geoespaciais relativamente
+próximas.
+O modelo lógico do Bolsa Verde e demais Programas de Pagamentos por Serviços Ambientais (PSA)
+demonstra que a concessão de benefícios condicionados à preservação tende a reduzir o desmatamento
+por meio da migração de atividades de exploração predatória para outras de manejo sustentável. Dessa
+forma, é esperado que regiões com maior número de beneficiários do Bolsa Verde apresentem redução no
+desmatamento ao longo do tempo quando comparadas com outras áreas em que a população residente
+não possui acesso ao programa.
+O número de beneficiários do Bolsa Verde em um território agroextrativista serve como uma medida de
+intensidade do apoio do PBV a cada região. Portanto, é possível comparar, ao longo do tempo, territórios
+com apoio de alta intensidade do PBV (grupo de tratamento) com outros que possuem baixa ou nenhuma
+oferta de Bolsa Verde à comunidade local (grupo de controle). Quanto mais parecidas as condições sociais,
+econômicas e ambientais de projetos agroextrativistas nos grupos de tratamento e controle, maiores as
+possibilidades de que mudanças no padrão de desmatamento e manejo sustentável estejam associadas ao
+Bolsa Verde.
+Assim, é possível empregar um modelo de Diferenças-em-Diferenças para se estimar o impacto do Bolsa
+Verde em Conservação Ambiental e Exploração de Atividade Predatórias tendo como principal variável de
+interesse a expansão de beneficiários em cada território. A principal hipótese de identificação é que
+reservas agroextrativistas do grupo de tratamento e controle teriam trajetórias semelhantes nas medidas
+de conservação ambiental. Como forma de validar essa hipótese, o procedimento padrão é verificar se há
+18 As estratégias possibilitam obter respostas para as perguntas de pesquisa na seguinte ordem: Estratégia A para perguntas 1,3, 4 e
+5; Estratégia B para perguntas 1 e 3; Estratégia C(i) e C(ii) para pergunta 4; Estratégia D para pergunta 1, 2 e 5.
+24
+tendências paralelas antes do início da concessão de Bolsa Verde para beneficiários dos projetos que serão
+parte do grupo de tratamento. Por fim, mesmo que a expansão da concessão do benefício tenha ocorrido
+de forma escalonada, os recentes avanços econométricos permitem controlar pela heterogeneidade
+decorrente de reservas serem incluídas no grupo de tratamento em diferentes períodos do tempo
+(Arkhangelsky et al., 2021; Callaway e Sant’Anna, 2021; De Chaisemartin e D’Haultfoeuille, 2020; Sun e
+Abraham, 2021).
+Esse método pode ser usado de maneira combinada com a presença do projeto Conexões Povos da Floresta
+para avaliar a sinergia entre os programas.
+Estratégia B: Comparar as áreas que já estavam no programa antes de abril
+de 2024 e as áreas que entraram após abril de 2024.
+Uma outra forma de avaliar políticas implementadas em territórios delineados é comparar variáveis de
+interesse em comunidades ao redor dos limites das áreas beneficiadas pelo Bolsa Verde através de uma
+regressão de descontinuidade espacial (Dell, 2010; Burgess et al., 2021). No caso do Bolsa Verde, comparar
+resultados próximos aos limites dos territórios agroextrativistas beneficiados. Podemos explorar duas
+possibilidades. Primeiro, comparar resultados ao redor dos limites dos territórios agroextrativistas
+beneficiários do Bolsa Verde. Segundo, como territórios agroextrativistas podem ser vizinhos de áreas com
+dinâmica de uso de terra muito diferentes, podemos analisar áreas ao entorno dos limites dos territórios
+que estejam acima e abaixo do corte de 80% de preservação.
+A principal premissa de identificação de regressão de descontinuidade é a correlação entre a variável de
+interesse e outros fatores que a influenciam têm uma relação contínua ao redor dos limites de territórios
+onde estão os beneficiários do Bolsa Verde. Por exemplo, condições climáticas e agroecológicas são
+similares ao redor dos limites das regiões beneficiadas pelo Bolsa Verde.
+A principal dificuldade metodológica desse método é que ele pode ser sensível ao número de observações
+ao redor da linha de corte. Por exemplo, poucas comunidades e ao redor dos limites dos territórios. Assim,
+é necessário fazer um levantamento das áreas acima e abaixo dos do corte de 80% de conservação para
+avaliar a viabilidade dessa estratégia.
+Estratégia C: Avaliar se estratégias de comunicação podem gerar efeitos de
+preservação ambiental
+(i) Aleatorização dos Termos de Adesão
+Um dos condicionantes para a concessão do Bolsa Verde é a assinatura do Termo de Adesão, no qual os
+beneficiários se comprometem com a preservação. Nesse sentido, o incentivo financeiro atuaria como
+uma recompensa pelo cumprimento das condições detalhadas no Termo de Adesão. Do lado do poder
+público, um maior comprometimento dos residentes de Unidades de Conservação de Uso Sustentável,
+assentamentos ambientalmente diferenciados ou territórios de comunidades tradicionais tende a reduzir
+os custos de monitoramento e fiscalização, partindo da hipótese de que os indivíduos vão cumprir as
+metas de preservação e explorar os recursos naturais de forma sustentável sob pena de perderem o
+benefício do programa.
+25
+Entretanto, é possível que a forma de apresentação do Termo de Adesão aos beneficiários possa
+influenciar a compreensão de seus deveres e responsabilidades. Ademais, é possível que haja
+heterogeneidade substancial entre comunidades, com alguns projetos e lideranças locais com grande
+conhecimento sobre as normas e diretrizes de conservação ambiental e manejo sustentável, enquanto
+outros podem desconhecer os detalhes e exigências do Plano de Trabalho definido para sua localidade.
+Assim, o nível de conhecimento sobre as metas de conservação ambiental pode influenciar
+substancialmente no comprometimento dos beneficiários do Bolsa Verde e impactar os indicadores de
+desmatamento e exploração de atividades predatórias nos projetos agroextrativistas.
+Para mensurar como a estratégia de comunicação dos condicionantes do Bolsa Verde afeta os resultados
+e objetivos do programa, é possível empregar uma intervenção informacional, por meio de variações na
+forma de apresentação do Termo de Adesão. Uma vez que o preenchimento do termo é online, seria
+possível explorar diferentes formas de apresentação das condicionalidades e metas de preservação
+ambiental. Ademais, a adesão digital reduziria os custos e o tempo de implementação da avaliação,
+conferindo maior agilidade ao processo de coleta de dados e análise econométrica. Poderíamos também
+aleatorizar treinamento de lideranças locais que possam agir como facilitadoras nesse processo.
+Uma aleatorização19 pode ocorrer no nível de e unidades de conservação, com um modelo de Termo de
+Adesão mais interativo e ilustrado sendo ofertado aos beneficiários dos projetos alocados no grupo de
+tratamento, enquanto um outro Modelo Alternativo de caráter mais técnico seria apresentado aos
+beneficiários dos projetos alocados no grupo de controle. O impacto da intervenção viria da comparação
+entre os resultados observados em projetos e áreas ao redor da residência de beneficiários, assim como
+entre áreas que tenham beneficiários que receberam o Plano de Trabalho interativo e aqueles que
+receberam o Modelo Alternativo.
+Dada a aleatorização20, não há viés no critério de seleção de projetos e beneficiários que receberam a
+intervenção. A aleatorização no nível de projeto tem como base a premissa de que os territórios do grupo
+de tratamento e seleção são estatisticamente comparáveis, e não há nenhuma diferença sistemática em
+outras características que pode impactar os resultados de preservação e manejo sustentável com exceção
+da intervenção proposta.
+(ii) Aleatorização da divulgação dos dados de desmatamentos
+Outra estratégia informacional seria a aleatorização da divulgação dos dados de desmatamentos nas
+áreas de preservação do Bolsa Verde, após um período predefinido. É possível que os indivíduos não
+tenham total conhecimento sobre o avanço do desmatamento nos projetos agroextrativistas em que
+residem, o que pode influenciar no engajamento com as metas de conservação ambiental estipuladas no
+Plano de Trabalho vinculado ao Bolsa Verde.
+19 Dependendo do tamanho e poder estatístico da amostra e da viabilidade de se medir cobertura vegetal de maneira granular,
+seria possível um segundo nível de aleatorização, sorteando beneficiários dentro do mesmo projeto para os grupos de tratamento e
+controle.
+20 Caso seja viável a aleatorização no nível de beneficiários, o efeito causal seria ainda mais granular, partindo da premissa
+que os indivíduos daquele projeto alocados para o grupo de tratamento e controle são estatisticamente idênticos e, portanto,
+diferenças no cumprimento das regras de manejo ao redor da residência seriam atribuídas à intervenção. Nessa abordagem
+ao nível dos beneficiários, seria possível também explorar um grupo de controle puro, constituído por residentes de projetos
+agroextrativistas que não são beneficiários do Bolsa Verde.
+26
+A percepção de maior ou menor gravidade do avanço de atividades predatórias e desmatamento pode ser
+um fator de estímulo à mudança no comportamento dos beneficiários, caso eles identifiquem que a sua
+contribuição ao meio ambiente pode fazer a diferença no alcance das metas de sustentabilidade
+ambiental.
+Para testar a hipótese de como o nível de informação sobre desmatamento pode influenciar as metas de
+conservação ambiental, um novo experimento poderia ser implementado por meio da aleatorização da
+divulgação de dados sobre o desmatamento em projetos agroextrativistas. Tal como a estratégia anterior,
+beneficiários do Bolsa Verde seriam sorteados para periodicamente receberem informações sobre
+desmatamento e avanço de atividades predatórias em sua região. O impacto da intervenção seria medido
+pela variação nas métricas de conservação ambiental em regiões nas quais residem beneficiários do Bolsa
+Verde que receberão ou não estas informações, com relação ao grupo de controle de não beneficiários do
+Bolsa Verde (grupo de controle puro).). Sob as mesmas hipóteses de identificação descritas
+anteriormente, este desenho experimental permitiria distinguir o impacto de uma informação prévia
+(Plano de Trabalho apresentado no Termo de Adesão) de uma informação à posteriori (Dados de
+Desmatamento Coletados), por meio da comparação entre os resultados da amostra de beneficiários do
+Bolsa Verde expostos apenas à primeira intervenção (Termo de Adesão) e aqueles expostos à ambas as
+intervenções (Termo de Adesão + Informações de Desmatamento).
+Estratégia D: Avaliar como treinamento e capacitação em manejo sustentável
+podem reduzir a exploração predatória de recursos naturais
+Um outro pilar do modelo lógico do Programa Bolsa Verde consiste na redução de atividades de exploração
+predatória em territórios agroextrativistas. Para cumprir este objetivo, apenas a transferência condicional
+de R$ 600 por trimestre pode ser insuficiente para estimular a migração de atividades como o garimpo,
+extração de madeira ilegal, tráfico de animais e a pesca ilegal que podem gerar ganhos substancialmente
+mais elevados aos residentes destas áreas.
+Dessa forma, um componente fundamental para acelerar a migração para atividades econômicas de menor
+impacto ambiental é a oferta de alternativas de inclusão produtiva como fonte de rendimento primária da
+população residente nos projetos agroextrativistas. Um fator que pode dificultar a exploração sustentável
+de áreas de conservação é a falta de conhecimento e qualificação dos indivíduos nestas técnicas de manejo,
+como por exemplo a produção de castanhas e mel de abelhas. Nesse sentido, mesmo com as diretrizes
+estabelecidas no Termo de Adesão e Plano de Trabalho do Bolsa Verde, os beneficiários podem ter poucos
+caminhos para reduzir atividades predatórias se não houver alternativas de trabalho e geração de renda.
+A segunda avaliação quase-experimental, portanto, seria a avaliação de assistência técnica para
+qualificação em manejo sustentável (ATER). A partir da definição dos territórios que receberão a ATER pelo
+MMA, o grupo de tratamento seria constituído pelos territórios selecionados para o treinamento enquanto
+o grupo de controle seriam os demais territórios agroextrativistas não selecionados. Para obter estimativas
+que mitiguem um possível viés de seleção dos projetos contemplados, é possível utilizar as variáveis de
+controle como nível de preservação ambiental, população residente, número de beneficiários do Bolsa
+Verde para identificar os projetos semelhantes dentro do grupo de controle por meio da técnica de
+pareamento, o Propensity Score Matching (Rosenbaum, P. R., & Rubin, D. B.,1983) e posteriormente
+27
+empregar um modelo de diferenças-em-diferenças. Esta abordagem teria como hipótese de identificação
+que, após controladas as características observáveis de projetos contemplados e não contemplados com a
+ATER, a diferença no cumprimento das metas de conservação ambiental seria decorrente da assistência
+técnica ou extensão rural.
+Nessa estratégia, também seria possível estabelecer uma parceria com o projeto Conexão Povos da Floresta
+para randomizar e avaliar a provisão de ATER de maneira presencial ou videoconferência. Com isso, a
+utilização de ATER via videoconferência seria algo inovador que possibilitaria o acompanhamento eficaz da
+implementação do ATER.
+Ademais, seria possível explorar os efeitos heterogêneos da ATER de acordo com o número de beneficiários
+do Bolsa Verde em cada projeto, comparando a evolução das metas de conservação ambiental ao redor da
+residência de beneficiários do Bolsa Verde e de não beneficiários do programa antes e depois da Assistência
+Técnica.
+Por fim, é possível que para alguns projetos haja uma combinação da intervenção de capacitação com as
+intervenções informacionais (Estratégia B e C). Nesse caso, seria possível estimar se há sinergias entre os
+dois tratamentos, isto é, se a combinação de informações mais claras sobre o Plano de Trabalho, Divulgação
+de Dados sobre Desmatamento e Capacitação em Atividades de Exploração Sustentável pode gerar um
+resultado superior ao destas intervenções isoladamente.
+Dados
+Cobertura Vegetal e Desmatamento
+• Fonte: PRODES
+Dados: Área de alertas de desmatamento ilegal; Número de focos de calor em área de floresta;
+Número de cicatrizes de queimadas primária; Área de Monocultura; Área de Garimpo; Incremento
+de desmatamento de vegetação primária e secundária; Área de vegetação secundária
+• Fonte: TERRACLASS
+Dados: Área coberta por vegetação natural
+• Fonte: Mapbiomas
+Dados: Área de alertas de desmatamento ilegal; Número de focos de calor em área de floresta;
+Número de cicatrizes de queimadas primária; Área de Monocultura; Área de Garimpo; Incremento
+de desmatamento de vegetação primária e secundária; Área de vegetação secundária.
+• Fonte: DETER
+Dados: Área de alertas de desmatamento; Área de avisos de degradação; Área de Extrativismo
+predatório
+Renda do trabalho
+• Fonte: Banco Central do Brasil
+Dados: Transações bancárias via PIX
+• Fonte: Cadastro Único
+Dados: Saída do cadastro
+• Fonte: RAIS
+28
+Dados: a ser definido
+Acesso geral a serviços
+• Saúde
+Fonte: Ministério da Saúde
+Dados: O acesso aos dados das áreas priorizadas pelo programa, assim como a elaboração de novos
+indicadores, está sendo negociado coma equipe da Coordenação-Geral de Informações e Análises
+Epidemiológicas (CGIAE).
+• Educação
+Fonte: INEP
+Dados: Taxa de matrícula, IDEB etc.
+Beneficiários
+• Fonte: Sistema de Informações de Projetos de Reforma Agrária (SIPRA)
+Dados: O acesso aos dados do SIPRA está sendo negociado com o INCRA.
+• Fonte: Cadastro Único
+• Fonte: Sistemas Bolsa Verde
+5. Considerações finais
+O Plano de Monitoramento e Avaliação do Programa Bolsa Verde, elaborado no âmbito do Grupo de
+Trabalho de Monitoramento e Avaliação do Bolsa Verde, fornece uma estrutura detalhada para
+implementar o monitoramento e a avaliação da política. Os indicadores desenvolvidos permitem
+monitorar a alocação de recursos, a execução das atividades e os impactos sociais e ambientais
+gerados, contribuindo para a eficácia do programa. Por sua vez, as estratégias de avaliação fornecem
+abordagens robustas para identificar o efeito causal da política, destinadas a contribuir para fortalecer
+as narrativas de impacto do Bolsa Verde.
+No entanto, o plano também apresenta desafios que precisam ser enfrentados. Alguns indicadores
+necessitam de coleta de dados de campo e definições adicionais para sua plena implementação. Além
+disso, certos indicadores ainda não foram calculados, o que poderá exigir ajustes no plano à medida
+que os dados se tornem disponíveis.
+Sobre o plano de avaliação, destaca-se que a construção de novas estratégias de avaliação poderá
+surgir ao longo do tempo, mas é essencial que as estratégias atuais sejam aprovadas e seguidas,
+garantindo a continuidade e a estabilidade do processo de avaliação.
+Por fim, é importante ressaltar que a implementação do Projeto Conexão Povos da Floresta oferece
+uma oportunidade importante para superar algumas das limitações identificadas, permitindo a
+obtenção de informações mais rápidas e com menor custo, além de fortalecer a comunicação com as
+comunidades beneficiadas pelo Bolsa Verde. A continuidade do monitoramento e a adaptação do
+dashboard do Bolsa Verde serão fundamentais para assegurar que o programa alcance seus objetivos
+e gere os impactos esperados.
+29
+6. Referências
+ANGRIST, J. D.; PISCHKE, J.S. Mostly harmless econometrics: An empiricist's companion. Princeton
+university press, 2009.
+ARKHANGELSKY, D. et al. Synthetic difference-in-differences. American Economic Review, v. 111, n. 12, p.
+4088-4118, 2021.
+ARRIAGADA, R. A. et al. Do payments for environmental services affect forest cover? A farm-level evaluation
+from Costa Rica. Land Economics, v. 88, n. 2, p. 382-399, 2012.
+ASSUNÇÃO, J.; GANDOUR, C.; ROCHA, R. DETER-ing deforestation in the Amazon: environmental monitoring
+and law enforcement. American Economic Journal: Applied Economics, v. 15, n. 2, p. 125-156, 2023.
+BEELEY, C. Hands-On Dashboard Development with Shiny: A practical guide to building effective web
+applications and dashboards. Packt Publishing Ltd, 2018.
+BÖRNER, J. et al. The effectiveness of payments for environmental services. World development, v. 96, p.
+359-374, 2017.
+BRASIL. Lei nº 12.651, de 25 de maio de 2012. Dispõe sobre a proteção da vegetação nativa. Diário Oficial
+da União, Brasília, DF, 2012. Disponível em: https://www.in.gov.br/web/dou. Acesso em: 1 out. 2024.
+BRASIL. Lei nº 14.119, de 13 de janeiro de 2021. Institui a Política Nacional de Pagamento por Serviços
+Ambientais. Diário Oficial da União, Brasília, DF, 2021. Disponível em: https://www.in.gov.br/web/dou.
+Acesso em: 1 out. 2024.
+BURGESS, R.; COSTA, F.; OLKEN, B. A. National Borders and the Conservation of Nature. OSF, Available at
+OSF: https://osf. io/preprints/socarxiv/67xg5, 2023.
+CALLAWAY, B.; SANT’ANNA, P. H. Difference-in-differences with multiple time periods. Journal of
+econometrics, v. 225, n. 2, p. 200-230, 2021.
+COSTEDOAT, S. et al. Cost-effective climate mitigation via conservation incentives targeting poverty: Bolsa
+Verde's impact in Brazilian Amazonia settlements. 2022.
+DE CHAISEMARTIN, C.; D’HAULTFOEUILLE, X. Two-way fixed effects estimators with heterogeneous
+treatment effects. American economic review, v. 110, n. 9, p. 2964-2996, 2020.
+DELL, M. The persistent effects of Peru's mining mita. Econometrica, v. 78, n. 6, p. 1863-1903, 2010.
+ENGEL, Stefanie et al. The devil in the detail: a practical guide on designing payments for environmental
+services. International Review of Environmental and Resource Economics, v. 9, n. 1–2, p. 131-177, 2016.
+30
+ENGEL, S.; PAGIOLA, S.; WUNDER, S. Designing payments for environmental services in theory and practice:
+An overview of the issues. Ecological economics, v. 65, n. 4, p. 663-674, 2008.
+FERRARO, P. J.; KISS, A. Direct payments to conserve biodiversity. Science, v. 298, n. 5599, p. 1718-1719,
+2002.
+FERRARO, P. J.; SIMORANGKIR, R. Conditional cash transfers to alleviate poverty also reduced deforestation
+in Indonesia. Science Advances, v. 6, n. 24, p. eaaz1298, 2020.
+FORSYTH, T.; JOHNSON, C. E. Ostrom's legacy: governing the commons, and the rational choice
+controversy. Development and change, v. 45, n. 5, p. 1093-1110, 2014.
+GIBSON, M. et al. Introduction to randomized evaluations. J-PAL (Apr. 2021), https://www.
+povertyactionlab. org/resource/introduction-randomized-evaluations, 2017.
+GREENSTONE, M.; HANNA, R. Environmental regulations, air and water pollution, and infant mortality in
+India. American Economic Review, v. 104, n. 10, p. 3038-3072, 2014.
+GREENSTONE, M.; JACK, B. K. Envirodevonomics: A research agenda for an emerging field. Journal of
+Economic Literature, v. 53, n. 1, p. 5-42, 2015.
+HAYES, T.; MURTINHO, F.; WOLFF, H. The impact of payments for environmental services on communal
+lands: an analysis of the factors driving household land-use behavior in Ecuador. World Development, v.
+93, p. 427-446, 2017.
+JAMES, A.; GASTON, K. J.; BALMFORD, A. Can we afford to conserve biodiversity?. BioScience, v. 51, n. 1, p.
+43-52, 2001.
+JAYACHANDRAN, S. et al. Cash for carbon: A randomized trial of payments for ecosystem services to reduce
+deforestation. Science, v. 357, n. 6348, p. 267-273, 2017.
+JONES, K. W. et al. Forest conservation incentives and deforestation in the Ecuadorian
+Amazon. Environmental Conservation, v. 44, n. 1, p. 56-65, 2017.
+KOSFELD, M.; RUSTAGI, D. Leader punishment and cooperation in groups: Experimental field evidence from
+commons management in Ethiopia. American Economic Review, v. 105, n. 2, p. 747-783, 2015.
+KULL, M. et al. Making sense of multilevel governance and governance coordination in Brazil: The case of
+the Bolsa Verde Programme. Regional & Federal Studies, v. 28, n. 1, p. 47-78, 2018.
+LE QUÉRÉ, C. et al. Global carbon budget 2015. Earth System Science Data, v. 7, n. 2, p. 349-396, 2015.
+MAY, P. H.; MILLIKAN, B.; GEBARA, M. F. The context of REDD+ in Brazil: Drivers, agents and institutions.
+CIFOR, 2011.
+31
+MELLO, J. et al. A inclusão produtiva rural do Brasil Sem Miséria: estratégias e primeiros
+resultados. Cadernos de Estudos-Desenvolvimento Social em Debate, n. 23, 2014.
+NASCIMENTO, R. M. Efeitos do Programa Bolsa Verde sobre o desmatamento: uma análise sobre os
+assentamentos da Amazônia Legal. 2021. Tese de Doutorado. Universidade de São Paulo.
+NOVAK, M. A. L. et al. Pagamento por Serviços Ambientais: A Politica Pública do Programa Bolsa Verde.
+2017.
+OSTROM, E. Nested externalities and polycentric institutions: must we wait for global solutions to climate
+change before taking actions at other scales?. Economic theory, v. 49, p. 353-369, 2012.
+PATTANAYAK, S. K.; WUNDER, S.; FERRARO, P. J. Show Me the Money: Do Payments Supply Environmental
+Services in Developing Countries?. Review of Environmental Economics and Policy, v. 4, n. 2, p. 254-274,
+2010.
+REYES-HERNÁNDEZ, H. Payment for environmental services: Forest conservation and poverty alleviation in
+a tropical region of Mexico. Land Use Policy, v. 133, p. 106847, 2023.
+ROSENBAUM, P. R.; RUBIN, D. B. The central role of the propensity score in observational studies for causal
+effects. Biometrika, v. 70, n. 1, p. 41-55, 1983.
+SAMII, C. et al. Effects of payment for environmental services (PES) on deforestation and poverty in low and
+middle income countries: a systematic review. Campbell Systematic Reviews, v. 10, n. 1, p. 1-95, 2014.
+SCHUTT, R. K. Investigating the social world: The process and practice of research. Sage publications, 2018.
+SUN, L.; ABRAHAM, S. Estimating dynamic treatment effects in event studies with heterogeneous treatment
+effects. Journal of econometrics, v. 225, n. 2, p. 175-199, 2021.
+WIIK, E. et al. Experimental evaluation of the impact of a payment for environmental services program on
+deforestation. Conservation Science and Practice, v. 1, n. 2, p. e8, 2019.
+WONG, P. Y. et al. Individual pay for collective performance and deforestation: evidence from Brazil. Work.
+Pap., Nor. Sch. Econ., Bergen, Nor, 2022.
+WUNDER, S. et al. Payments for environmental services: some nuts and bolts. Bogor: Cifor, 2005.
+WUNDER, S. The efficiency of payments for environmental services in tropical conservation. Conservation
+biology, v. 21, n. 1, p. 48-58, 2007.
+32
+Anexo I – Diagramas do Modelo Lógico
+A1. Árvore de problemas
+Fonte: Criado com base nas discussões do GT
+33
+A2. Árvore de objetivos
+Fonte: Criado com base nas discussões do GT
+34
+A3. Modelo Lógico
+Fonte: Criado com base nas discussões do GT
+35
+Anexo II – Indicadores do Programa Bolsa Verde
+SEPARAÇÃO POR GRUPO DO MODELO LÓGICO
+Análises e Alertas Frequênci
+Ano
+Unidade
+a de
+Ano
+esperado
+Indicador
+Unidade análise
+Valor base
+medida
+atualizaçã
+base
+para
+o
+realização
+Indicadores de Insumos
+Indicador 1: Despesa do
+Programa Bolsa Verde R$
+[Autorizado –
+Empenho – Pago]
+[Bolsa – ATER –
+Outros – Total]
+- Mensal
+R$ 5,02
+milhões por
+mês
+(Valor pago
+em 2023)
+2023 Todo mês
+Indicador 2: Quantidade
+de ATA ativos no
+Programa
+Unidade de
+pessoas
+[Gênero – Total]
+[Escolaridade –
+Total]
+[Território - Total]
+[UF – Nacional]
+UC com mais de 2
+ATA (Relatório)
+Anual zero 2023 Todo ano
+Indicador 3: Quantidade
+de UC sem ATA ativos
+do Programa
+Unidade de
+UC
+Nacional
+UC sem ATA
+(Relatório)
+Anual
+67
+(Nº UC)
+2024 Todo ano Indicador 4: Percentual
+de beneficiários no
+cadastro do programa
+% Beneficiário –
+Termos assinado –
+Indicados
+- Trimestral
+18,3%
+(Valor em
+2023)
+2023 Todo ano
+Indicador 5: Percentual
+de indicados incluídos no
+Cadastro do Bolsa Verde
+%
+[UF – Nacional];
+[Território - Total]
+[Incra – ICMBio –
+Total]
+Territórios com nº
+famílias no CadÚnico
+e não encontrados no
+Cadastro Bolsa Verde
+(Relatório)
+Mensal Valor em 2023 2023 2024 Meta R$ 10,02 milhões
+por mês
+(Recursos para
+50 mil
+bolsas/famílias
+por trimestre)
+Nº de Unidades
+de Conservação
+selecionadas sob
+a gestão do
+ICMBIO
+zero
+28,3%
+(Valor em 2023 +
+10pp)
+(Valor em 2023 +
+10pp)
+Forma de verificação Siga Brasil
+Contagem de ATA
+contratados e ativos em base
+é administrativa a ser definida
+ICMBio
+Contagem de UC que não
+possuem ATA contratados e
+ativos em base é
+administrativa a ser definida
+ICMBio
+Cadastro do Bolsa Verde
+Nº de pessoas no cadastro
+dos órgãos / nº pessoas
+cadastradas no Cadastro do
+Bolsa Verde
+Cadastro do Bolsa Verde
+Comentários
+Esse indicador pode ser
+acompanhado a partir de
+2023
+Esse indicador pode ser
+acompanhado a partir de
+2023
+Esse indicador pode ser
+acompanhado a partir de
+2024
+Esse indicador pode ser
+acompanhado a partir de
+2023
+Esse indicador pode ser
+acompanhado a partir de
+2024
+36
+Unidade de
+Indicador
+Unidade de análise
+medida
+Indicadores de Atividade
+Indicador 1: Percentual
+de territórios priorizados
+pelo Comitê Gestor em
+relação aos indicados
+pelos órgãos gestores
+%
+[UF – Nacional];
+[Território - Total]
+[Incra – ICMBio –Total]
+Indicador 2: Percentual
+de territórios com mais de
+x% de famílias
+beneficiárias entre os
+priorizados pelo Comitê
+Gestor
+%
+[UF – Nacional];
+[Território - Total]
+[Incra – ICMBio –Total]
+X = 25%; 50%; 75%
+Indicador 3: Número de
+territórios priorizados sem
+famílias beneficiárias
+unidade
+[UF – Nacional];
+[Território - Total]
+[Incra – ICMBio –Total]
+Indicador 4: Percentual
+de famílias que estão
+aptas e não assinaram o
+termo de adesão
+%
+[UF – Nacional];
+[Território - Total]
+Tempo que está apta e
+sem assinatura [3 meses –
+6 meses – 1 ano]
+Indicador 5: Territórios
+em que o edital não
+selecionou entidade
+executora da ATER
+Unidade
+[UF – Nacional];
+[Território - Total]
+Região Hidrográfica
+Análises e
+Frequência
+Alertas
+de
+Ano
+Valor base
+atualização
+base
+Territórios
+priorizados x
+indicados
+(Relatório)
+Anual
+Valor em
+2023
+2023 Lista de pessoas
+em territórios sem
+adesão entre os
+priorizados
+(Relatório)
+Mensal
+Valor em
+2023
+2023 - Mensal
+Valor em
+2023
+2023 Famílias sem
+assinatura do
+Termo (Relatório)
+Famílias sem
+assinatura do
+Termo a mais de 6
+meses (Relatório)
+Mensal
+Valor em
+dez/2023
+2023 Editais sem
+vencedor
+(Relatório)
+Anual
+Valor em
+dez/2024
+2023 Ano
+esperado
+para
+realização
+NA Todo mês Todo mês 2024 1 ano Meta NA
+zero
+zero
+zero
+zero
+Forma de verificação Comentários
+Territórios priorizados pelo
+Comitê Gestor / Territórios
+indicados
+Resoluções do Comitê x UC e
+Assentamentos indicados pelo
+Incra e ICMBio
+Cadastro Bolsa Verde
+Esse indicador pode ser
+acompanhado a partir de
+2024
+Nº de territórios prioritários
+com X% famílias beneficiárias
+/ Nº de territórios prioritários
+Cadastro do Bolsa Verde
+Esse indicador pode ser
+acompanhado a partir de
+2024
+Número de territórios
+priorizados sem famílias
+beneficiárias
+Cadastro do Bolsa Verde
+Esse indicador pode ser
+acompanhado a partir de
+2024
+Nº de famílias aptas / nº
+famílias aptas + recebendo
+Cadastro Bolsa Verde
+Esse indicador pode ser
+acompanhado a partir de
+2024
+nº lotes que sem entidade
+executora da ATER
+ANATER
+Esse indicador pode ser
+acompanhado a partir de
+2025
+37
+Análises e
+Frequência
+Ano
+Unidade de
+Alertas
+de
+Ano
+esperado
+Indicador
+Unidade de análise
+Valor base
+Meta Forma de verificação Comentários
+medida
+atualização
+base
+para
+realização
+Indicador 6: Quantidade
+de UC atendidas pelo
+Programa Bolsa Verde
+apoiadas em ações do
+Programa Monitora
+Unidade
+Unidades de Conservação;
+[Território - Total]
+Bioma
+Região Hidrográfica
+Relação de UC
+com o Programa
+Monitora e tipo de
+bioma (Relatório)
+Anual
+Valor em
+2023
+2023 2025
+Acréscimo de 10
+UC
+Soma de UC atendidas pelo
+Programa Bolsa Verde
+apoiadas em ações do
+Programa Monitora
+Dados gerenciais da
+COMOB/ICMBio
+Esse indicador pode ser
+acompanhado a partir de
+2024
+Indicador 7: Área total
+de territórios priorizados
+pelo Comitê Gestor
+Hectare
+[UF – Nacional];
+[Território - Total]
+[Incra – ICMBio –Total]
+- Anual
+Valor em
+2023
+2023 NA NA
+Soma da área dos polígonos
+dos territórios priorizados
+MMA: Soma dos polígonos
+Esse indicador pode ser
+acompanhado a partir de
+2024
+38
+Indicador
+Indicadores de Produtos
+Indicador 1:
+Quantidade de famílias
+beneficiárias
+Indicador 2:
+Quantidade de
+pessoas beneficiárias
+Indicador 3:
+Quantidade de
+territórios que
+receberam ATER.
+Indicador 3:
+Percentual de famílias
+que participam da
+ATER.
+Unidade
+de medida
+Unidade de
+família
+Unidade de
+pessoa
+Unidade de
+Territórios
+%
+Unidade de análise [UF – Nacional];
+[Território - Total]
+[Grupo Tradicional – Total]
+[Família Quilombola – Total]
+[Família Indígena – Total]
+[Incra – ICMBio –Total]
+[UF – Nacional];
+[Território - Total]
+[raça/cor – Total]
+[Gênero – Total]
+[idade – Total]
+[UF – Nacional];
+[Território - Total]
+[UF – Nacional];
+[Território - Total]
+[Incra – ICMBio –Total]
+[status de cadastro] (pertence
+à família beneficiária do Bolsa
+Verde; não beneficiário, mas
+integrante do CadÚnico; não
+faz parte do CadÚnico, Total)
+Frequência
+de
+Análises e Alertas
+atualização
+Relação de Quantidades
+de Famílias
+Beneficiárias por
+Território, UF e Órgão
+Gestor (Relatório)
+Mensal Relação de Quantidades
+de Pessoas
+Beneficiárias por
+Território, UF, Raça,
+Gênero e Idade
+(Relatório)
+Mensal
+Relação de Territórios
+com ATER
+Mensal - Semestral Valor base
+Valor em 2023 Total de
+pessoas
+beneficiadas
+zero 15.000 Ano
+base
+2023 2023 2023
+2025 Ano
+esperado
+para
+realização
+3 anos
+3 anos
+A ser
+definido
+18 meses
+Meta Forma de verificação Comentários
+13.884
+(50 mil famílias
+beneficiárias por
+trimestre)
+Cadastro do Bolsa Verde
+Esse indicador
+pode ser
+acompanhado a
+partir de 2024
+Total de pessoas
+em famílias
+indicadas
+Cadastro do Bolsa Verde
+Esse indicador
+pode ser
+acompanhado a
+partir de 2024
+A ser definido ANATER
+Esse indicador
+pode ser
+acompanhado a
+partir de 2025
+Total de famílias
+beneficiárias do
+Bolsa Verde
+Nº de famílias
+beneficiárias de
+assistência técnica / nº
+famílias beneficiárias de
+recurso financeiro
+ANATER
+Esse indicador
+pode ser
+acompanhado a
+partir de 2025
+39
+Indicador
+Indicador 4:
+Quantidade de
+territórios que
+receberam o programa
+Cisternas pelo Bolsa
+Verde
+Indicador 5:
+Quantidade de famílias
+que receberam o
+programa Cisternas
+pelo Bolsa Verde
+Unidade
+de medida
+Unidade de
+Territórios
+Unidade de
+família
+Frequência
+Ano
+de
+Ano
+esperado
+Unidade de análise Análises e Alertas
+Valor base
+Meta Forma de verificação Comentários
+atualização
+base
+para
+realização
+[UF – Nacional];
+[Território - Total] - Anual zero 2024 anual 10 territórios por
+ano
+Administrativa a ser
+definida.
+MMA
+Esse indicador
+pode ser
+acompanhado a
+partir de 2025
+[UF – Nacional];
+[Território - Total] - Anual zero 2024 anual
+Valor médio de nº
+de famílias por
+território x 10 por
+ano
+Administrativa a ser
+definida.
+MMA
+Esse indicador
+pode ser
+acompanhado a
+partir de 2025
+40
+Unidade de
+Unidade de
+Análises e
+Frequência de
+Indicador
+Valor base Ano base medida
+análise
+Alertas
+atualização
+Ano esperado
+para realização
+Forma de
+Meta
+Comentários
+verificação
+Indicadores de Resultados
+Indicador 1:
+Percentual de
+Famílias que
+saíram da pobreza
+após o
+recebimento do
+Bolsa Verde.
+%
+[UF –
+Nacional];
+[Território -
+Total]
+- Anual zero 2023 NA NA Cadastro Único Esse indicador pode ser acompanhado
+a partir de 2024
+Indicador 2: Taxa
+de extrema
+pobreza
+%
+[UF –
+Nacional];
+[Território -
+Total]
+- Anual Valor de 2023 2023 A ser definido A ser definido Cadastro Único Esse indicador pode ser acompanhado
+a partir de 2024
+Indicador 3:
+Percentual de
+Territórios que
+apresentaram
+Planos de
+Trabalho ao MMA
+%
+[UF –
+Nacional];
+[Território -
+Total],
+[conformidade –
+não
+conformidade –
+Total]
+- Anual zero 2024 2 anos 100% MMA
+Esse indicador pode ser acompanhado
+a partir de 2025
+Indicador 4:
+Renda média do
+trabalho das
+famílias
+beneficiárias pelo
+programa.
+R$
+[UF –
+Nacional];
+[Território -
+Total]
+- Anual A ser definido
+A ser
+definido
+A ser definido A ser definido
+[Falta fonte de
+informações melhor
+para renda do
+trabalho]
+Indicador sem informação disponível
+que carece de pesquisa de campo
+amostral
+Indicador 5:
+Renda média
+familiar per capita
+das famílias
+beneficiárias pelo
+programa.
+R$
+[UF –
+Nacional];
+[Território -
+Total]
+- Anual A ser definido
+A ser
+definido
+A ser definido A ser definido
+[Falta fonte de
+informações melhor
+para renda do
+trabalho]
+Indicador sem informação disponível
+que carece de pesquisa de campo
+amostral
+41
+Unidade de
+Unidade de
+Análises e
+Frequência de
+Indicador
+Valor base Ano base medida
+análise
+Alertas
+atualização
+Ano esperado
+para realização
+Forma de
+Meta
+Comentários
+verificação
+Indicador 6: Índice
+de atendimento
+adequado em
+saneamento
+básico (IAASB)
+Índice de 0-
+100
+[UF –
+Nacional];
+[Território -
+Total]
+Esse indicador pode ser acompanhado
+a partir de 2024
+- Anual Valor em 2023 2023 A ser definido A ser definido Cadastro Único
+42
+Apontador Unidade de medida Unidade de análise
+Indicadores de Impactos
+Indicador 1:
+Percentual líquido de
+área de cobertura de
+vegetação primária
+ou secundária –
+PRODES +
+Terraclass.
+%
+[UF – Nacional];
+[Território - Total]
+[Primária - Secundária –
+Total]
+Indicador 2: Área de
+incremento de
+desmatamento de
+vegetação primária.
+Hectares
+[UF – Nacional];
+[Território - Total]
+[área de floresta – área de
+não floresta – Total]
+Indicador 3: Área de
+alertas de
+desmatamento e
+degradação
+Hectares
+[UF – Nacional];
+[Território - Total]
+[desmatamento – degradação
+– cicatrizes de queimadas
+primária – Extração Seletiva
+Desordenada – Total]
+Análises e
+Frequência
+Alertas
+de
+Valor
+atualização
+base
+Relatório de
+Territórios com
+níveis de
+cobertura
+vegetal
+Relatório de
+cobertura
+vegetal de
+territórios não
+conformes
+Relatório de
+cobertura
+vegetal de
+novos
+territórios não
+conformes
+Anual zero - Anual zero Alerta de
+territórios com
+níveis elevados
+de
+desmatamento
+Mensal zero Ano
+Ano
+esperado
+Meta base
+para
+realização
+2023 3 anos
+Valor base +
+10pp
+2023 3 anos zero
+2023 3 anos zero
+Forma de verificação Comentários
+Razão da área de cobertura vegetal
+(primária ou secundária) pela área total
+do território, descontada as áreas não
+passíveis de existir cobertura vegetal
+(rios, lagos etc) calculada pelo
+PRODES e Terraclass.
+Esse indicador
+pode ser
+acompanhado a
+partir de 2024
+GT de Cobertura
+Vegetal
+Área de incremento de desmatamento
+calculada pelo PRODES.
+Esse indicador
+pode ser
+acompanhado a
+partir de 2024
+Alertas do DETER com possíveis
+detalhamentos.
+Esse indicador
+pode ser
+acompanhado a
+partir de 2024
+43
+Análises e
+Frequência
+Alertas
+de
+Valor
+Apontador Unidade de medida Unidade de análise
+atualização
+base
+Indicador 4: Número
+de focos de calor
+Hectares
+[UF – Nacional];
+[Território - Total] - Mensal zero Indicador 5: Área de
+Agropecuária.
+Hectares
+[UF – Nacional];
+[Território - Total]
+[Pastagem – Agricultura –
+Silvicultura -Mosaico de Usos
+– Total]
+- Anual
+A ser
+definido
+Indicador 6: Área de
+Garimpo.
+Hectares
+[UF – Nacional];
+[Território - Total]
+[ouro, estanho e outros
+minerais]
+- Anual
+A ser
+definido
+Indicador 7:
+Biodiversidade do
+Componente
+Florestal
+índice LPI
+[Território - Total]
+[mamíferos – aves – Total]
+- Anual
+A ser
+definido
+Indicador 8: Pesca e
+biodiversidade
+associada
+Kg por Unidade de
+esforço
+[Território - Total]
+[Petrecho – Total]
+- Anual
+A ser
+definido
+Indicador 9:
+Biodiversidade do
+Componente
+Manguezal
+% UC Marinha - Anual
+A ser
+definido
+21 É possível o Programa Monitora reavaliar o indicador e substituir por outro.
+Ano
+Ano
+esperado
+base
+para
+realização
+2023 3 anos 2023
+A ser
+definido
+2023
+A ser
+definido
+A ser
+definido
+A ser
+definido
+A ser
+definido
+A ser
+definido
+A ser
+definido
+A ser
+definido
+Meta zero A ser
+definido
+A ser
+definido A ser
+definido
+A ser
+definido
+A ser
+definido
+Forma de verificação Comentários
+BDQueimadas/INPE
+Esse indicador
+pode ser
+acompanhado a
+partir de 2024
+Elaborado a partir dos dados do
+Mapbiomas nas classes: pastagem,
+agricultura, silvicultura e mosaico
+de agropecuária.
+Mapbiomas.
+Esse indicador
+pode ser
+acompanhado a
+partir de 2025
+Mapbiomas. Mineração
+Esse indicador
+pode ser
+acompanhado a
+partir de 2025
+LPI – Mamíferos de médio e grande
+porte e espécie de aves terrícolas-
+cinegéticas21
+Programa Monitora
+Esse indicador
+pode ser
+acompanhado a
+partir de 2025
+Produção de Pesca por unidade de
+esforço pesqueiro.
+Programa Monitora
+Esse indicador
+pode ser
+acompanhado a
+partir de 2026
+Potencial Extrativo Imediato
+(Percentual de caranguejos Uça com
+largura de carapaça (LC) maior que 60
+mm)
+Programa Monitora
+Esse indicador
+pode ser
+acompanhado a
+partir de 2025
+44
+Análises e
+Frequência
+Alertas
+de
+Valor
+Apontador Unidade de medida Unidade de análise
+atualização
+base
+Indicador 10: Taxa
+de Matrícula Escolar %
+[UF – Nacional];
+[Território - Total]
+Faixa de idade: [Idade inicial:
+0 anos,
+6 anos, 11 anos, 15 anos 18
+anos ou +] [Idade final: 5
+anos, 10 anos, 14 anos, 17
+anos, 18 anos ou +]
+[educação infantil –
+fundamental e médio –Total]
+- Anual
+Valor
+em
+2023
+Indicador 11:
+Proporção da
+população de 15 a
+17 anos de idade
+frequentando escola
+ou com ensino médio
+concluído
+%
+[UF – Nacional];
+[Território - Total] - Anual
+Valor
+em
+2023
+Indicador 12: IDEB
+Anos Iniciais do
+ensino fundamental
+Nota entre 0 e 10
+[UF – Nacional];
+[Território - Total]
+- Bienal
+Valor
+em
+2023
+Indicador 13: IDEB
+Anos Finais do
+ensino fundamental
+Nota entre 0 e 10
+[UF – Nacional];
+[Território - Total] - Bienal
+Valor
+em
+2023
+Indicador 14: IDEB
+Ensino Médio
+Nota entre 0 e 10
+[UF – Nacional];
+[Território - Total] - Bienal
+Valor
+em
+2023
+Ano
+base
+2023 2023 2023 2023 2023 Ano
+esperado
+para
+realização
+A definir A definir anual
+anual
+anual
+Meta A definir
+A definir
+Crescimento
+de 0,1 pontos
+a cada ano.
+Crescimento
+de 0,1 pontos
+a cada ano.
+Crescimento
+de 0,3 pontos
+a cada ano.
+Forma de verificação Comentários
+Percentual de crianças e adolescentes
+matriculados na educação infantil,
+fundamental e médio. Fonte de dados:
+Censo Escolar INEP.
+Esse indicador
+pode ser
+acompanhado a
+partir de 2025
+Percentual de jovens de 15 a 17 anos
+de idade que frequenta o ensino médio
+ou que já concluiu a educação básica.
+Fonte: Censo Escolar INEP.
+Esse indicador
+pode ser
+acompanhado a
+partir de 2025
+IDEB médio dos anos Iniciais do
+ensino fundamental. Fonte: Censo
+Escolar e Sistema de Avaliação da
+Educação Básica (Saeb) INEP.
+Esse indicador
+pode ser
+acompanhado a
+partir de 2025
+IDEB médio dos anos finais do ensino
+fundamental. Fonte: Censo Escolar e
+Sistema de Avaliação da Educação
+Básica (Saeb) INEP.
+Esse indicador
+pode ser
+acompanhado a
+partir de 2025
+IDEB médio dos anos Iniciais do
+ensino médio. Fonte: Censo Escolar e
+Sistema de Avaliação da Educação
+Básica (Saeb) INEP.
+Esse indicador
+pode ser
+acompanhado a
+partir de 2025
+45
+Análises e
+Frequência
+Ano
+Alertas
+de
+Valor
+Ano
+esperado
+Apontador Unidade de medida Unidade de análise
+Meta Forma de verificação Comentários
+atualização
+base
+base
+para
+realização
+Indicador 15: Taxa
+de Mortalidade
+Infantil
+Número de óbitos de
+crianças por 1.000
+nascidos vivos
+[UF – Nacional];
+[Território - Total]
+[Taxa de Mortalidade Infantil
+neonatal precoce; Taxa de
+Mortalidade Infantil neonatal
+tardia; e Taxa de Mortalidade
+Infantil pós-neonatal]
+- Anual
+Valor
+em
+2023
+2023 A definir A definir
+Número de mortes de crianças entre a
+população beneficiária) x 1.000.
+Fonte: DATASUS/SIM e
+DATASUS/Sinasc
+Precoce: < 7 dias
+Neonatal tardia: 7 ≤ x < 28 dias
+Infantil pós-neonatal: 28 dias ≤ x ≤ 1
+ano
+Esse indicador
+pode ser
+acompanhado a
+partir de 2025
+Indicador 16: Taxa
+de Incidência de
+Doenças
+Relacionadas ao
+Saneamento
+Ambiental
+Inadequado (DRSAI)
+Unidade
+de novos casos de DR
+SAI a cada 10x
+beneficiários
+[UF – Nacional];
+[Território - Total]
+Ambulatorial – Hospitalar -
+Total
+“Doenças de Transmissão
+Feco-oral”; “Doenças
+Transmitidas por Inseto
+Vetor”; “Doenças Transmitidas
+através do Contato com a
+Água”; “Doenças
+Relacionadas com a Higiene”;
+“Geo-Helmintos e Teníases”;
+“Total”
+- Anual
+Valor
+em
+2023
+2023 A definir A definir
+Número de atendimentos ambulatoriais
+e hospitalares (dividido pela população
+beneficiária e multiplicado a 10x)
+relacionados com CID-10 principal de
+doenças de transmissão feco-oral,
+transmitidas por inseto vetor,
+transmitidas através do contato com a
+água, relacionadas com a higiene, e
+geo-helmintos e teníases22. Fonte:
+Datasus>>SIH/SUS>>RD e
+Datasus>>SIA/SUS>>PA
+Esse indicador
+pode ser
+acompanhado a
+partir de 2025
+22 Doenças de Transmissão Feco-oral: (i) Diarreias: A00; A02-A04; A06-A09; (ii) Febres Entéricas: A01; (iii) Hepatite A: B15. Doenças Transmitidas por Inseto Vetor: (i) Dengue: A90; A91; (ii) Febre Amarela: A95; (iii) Leishmanioses: B55; (iv) Filariose Linfática: B74; (v)
+Malária: B50-B54; (vi) Doença de Chagas: B57. Doenças Transmitidas através do Contato com a Água: (i) Esquistossomose: B65; (ii) Leptospirose: A27. Doenças Relacionadas com a Higiene: (i) Tracoma: A71; (ii) Conjuntivites: H10; (iii) Micoses Superficiais: B35; B36.
+Geo-Helmintos e Teníases: (i) Helmintíases: B68; B69; B71; B76-B83; (ii) Teníases: B67. Fonte: COSTA, André Monteiro et al. Impactos na saúde e no Sistema Único de Saúde decorrentes de agravos relacionados a um saneamento ambiental inadequado. 2010.
+46
+Apontador Indicador 17:
+Prevalência de
+Desnutrição Infantil
+Indicador 18:
+Razão de
+Mortalidade Materna
+(RMM)
+Unidade de medida %
+Número de óbitos
+maternos por 100.000
+nascidos vivos de
+mães residentes em
+determinado espaço
+geográfico, no ano
+considerado.
+Análises e
+Frequência
+Alertas
+de
+Valor
+Unidade de análise
+atualização
+base
+[UF – Nacional];
+[Território - Total]
+Faixa de idade: [Idade inicial:
+0, 6 meses, 2 anos, 5 anos e
+7 anos] Idade final: 6 meses, 2
+anos, 5 anos e 7 anos e 10
+anos
+Situação da desnutrição:
+"Peso Muito Baixo para a
+Idade" ou "Peso Baixo para a
+Idade", “Total”
+- anual
+Valor
+em
+2023
+[UF – Nacional];
+[Território - Total] - anual
+Valor
+em
+2023
+Ano
+base
+2023 2023 Ano
+esperado
+para
+realização
+A definir A definir Meta A definir
+A definir
+Forma de verificação Percentual de crianças até 10 anos
+que apresentam "Peso Muito Baixo
+para a Idade" ou "Peso Baixo para a
+Idade" conforme classificação do
+SISVAN - Sistema de Vigilância
+Alimentar e Nutricional
+(Número de óbitos de mulheres por
+causas ligadas à gravidez, parto e
+puerpério)/(número de nascidos vivos)
+x 100.000
+Comentários
+Esse indicador
+pode ser
+acompanhado a
+partir de 2025
+Esse indicador
+pode ser
+acompanhado a
+partir de 2025
+Para comparações
+nacionais e
+internacionais,
+adota-se a
+definição
+tradicional de
+morte materna
+ocorrida até 42
+dias após o
+término da
+gestação.
+47
+Indicadores sem informação disponível que carecem de pesquisa de campo
+Unidade de
+Frequência de
+amostral ou definição futura
+medida
+atualização
+Indicador 1: (novo) Percentual de domicílios com insegurança alimentar
+Pontos
+percentuais
+Anual Indicador 2 (resultados 1): Percentual de Famílias (em relação ao total do território)
+que saíram da pobreza após o recebimento do BV
+Pontos
+percentuais
+Anual Indicador 3 (resultados 2):Taxa de extrema pobreza
+Pontos
+percentuais
+Anual Indicador 4 (resultados 4): Renda média do trabalho das famílias beneficiárias pelo
+programa
+R$ Anual Indicador 5 (resultados 5): Renda média familiar per capita das famílias beneficiárias
+pelo programa R$ Anual Indicador 6 (novo): Percentual de territórios que estabelece comunicação com o órgão
+gestor por meio de uma associação, conselho ou outra instância de gestão local
+Pontos
+percentuais
+Anual Indicador 7 (novo): Quantidade de territórios atendidos por outras políticas públicas
+articuladas pelo Bolsa Verde
+Território Anual Indicador 8 (novo): Quantidade de famílias que não sacaram o benefício da poupança
+social digital nos últimos x dias
+Território Anual Indicador 9 (novo): Valor de benefícios cancelados por ausência de saque da
+poupança social digital R$ Anual
+Indicador 10 (novo): Quantidade de pessoas que não movimentaram a conta no prazo
+de um ano
+Quantidade de
+pessoas
+Anual Fonte: Criado com base nas discussões do GT e nas reuniões com instituições responsáveis pelas bases de dados.
+Comentários
+Falta fonte de informações qualidade da alimentação.
+Falta fonte de informações melhor para renda do trabalho.
+Falta fonte de informações melhor para renda do trabalho.
+Falta fonte de informações melhor para renda do trabalho.
+Falta fonte de informações melhor para renda do trabalho.
+Falta fonte de informações melhor para renda do trabalho.
+Falta definição futura sobre as demais políticas atendidas além do SANEAR
+Contagem de famílias que houve o pagamento, mas que não sacaram o recurso. Falta interlocução
+com a Caixa Econômica e acordo sobre o fornecimento de informação.
+Soma de recursos estornados de benefícios não sacados em 180 dias que estavam em poupança
+social digital. Falta interlocução com a Caixa Econômica e acordo sobre o fornecimento de informação.
+Soma de contas bancárias sem movimentação de recursos em 1 ano ou mais. Falta interlocução com a
+Caixa Econômica e acordo sobre o fornecimento de informação.
+48
+Anexo III – Fluxo de Geral Processos de Seleção das Famílias Beneficiárias do Programa Bolsa Verde
+49
+Anexo IV - Fluxo de Processos: Seleção das Famílias pelo ICMBio
+50
+Anexo V - Fluxo de Processos: Seleção das Famílias pelo INCRA
+51

@@ -1,0 +1,4438 @@
+GOVERNO FEDERAL
+Ministério do
+Meio Ambiente
+BRASIL
+PÁTRIA EDUCADORA
+感
+MONITORAMENTO
+E DIFUSÃO DO PROGRAMA
+BOLSA BOLSA VERDE
+•Relatório Final do monitoramento
+amostral do Programa Bolsa
+Verde - Ano Base 2014
+UFRRJ
+LORA KUKA
+DO RIO D E JANEIRO
+Centro Internacional de Estudos
+para o Desenvolvimento Sustentável FAPUR
+Fundação
+CONSERVAÇÃO
+INTERNACIONAL
+Brasil
+MONITORAMENTO E DIFUSÃO DO PROGRAMA BOLSA VERDE
+Relatório Final do monitoramento amostral do Programa Bolsa
+Verde – Ano Base 2014
+Executor:
+Parceiro:
+Execução
+Financeira:
+Setembro de 2015
+!
+REPÚBLICA FEDERATIVA DO BRASIL
+Presidenta
+Dilma Rousseff
+Vice-Presidente
+Michel Temer
+MINISTÉRIO DO MEIO AMBIENTE
+Ministra
+Izabella Mônica Teixeira
+Secretário de Extrativismo e Desenvolvimento Rural Sustentável
+Carlos Mário Guedes de Guedes
+Diretora do Departamento de Extrativismo
+Juliana Ferreira Simões
+UNIVERSIDADE FEDERAL RURAL DO RIO DE JANEIRO
+Reitora
+Ana Maria Dantas Soares
+Diretor do Centro Internacional de Estudos para o Desenvolvimento Sustentável
+Ricardo Motta Miranda
+CONSERVAÇÃO INTERNACIONAL BRASIL
+Vice Presidente
+Rodrigo Medeiros
+EQUIPE DE PESQUISA DO PROJETO
+Coordenação
+Ricardo Motta Miranda e Rodrigo Medeiros
+Equipe Técnica
+André Luiz Ferreira Lemos, André Felippe Nunes de Freitas, Bruno Henriques Coutinho,
+Claudia Rosa, Daniel Kieling, Fernanda Martinelli, Flavia Rocha, Lorena Andrade Pinto, Iaci
+Penteado, Isabella Leite Lucas, José André Verneck Monteiro, Leonardo Bohn, Luiza Callado,
+Marlene Sousa Silva, Olivia Ainbinder, Tatiana Martins, Thalita Dantas, Vitória Ramos, Yara
+Valverde.
+!
+!
+ÍNDICE
+APRESENTAÇÃO+..............................................................................................................................+ 2!
+COMO+LER+E+INTERPRETAR+AS+INFORMAÇÕES+APRESENTADAS+NESTE+RELATÓRIO+ ..........................+ 3!
+RESUMO+EXECUTIVO+ .......................................................................................................................+ 5!
+1.+SITUAÇÃO+ATUAL+DO+PROGRAMA+BOLSA+VERDE+ .......................................................................+ 10!
+2.+METODOLOGIA+ ..........................................................................................................................+ 16!
+3.+RESULTADOS+.............................................................................................................................+ 22!
+3.1 Contexto Geral! ...........................................................................................................................! 22!
+3.2 Estrutura Etária, Frequência Escolar e Migração!..................................................................! 31!
+3.3 Trabalho e Renda!.....................................................................................................................! 42!
+3.4 Infraestruturas de Produção e Organização Social!..............................................................! 59!
+3.5 Conservação Ambiental! ...........................................................................................................! 68!
+3.6 Opinião sobre o Programa Bolsa Verde!................................................................................! 96!
+4.+CONSIDERAÇÕES+FINAIS+..........................................................................................................+115!
+ANEXO+I.+Lista+de+Unidades+Territoriais+visitadas.+Programa+Bolsa+Verde,+anoObase+2014.+ ...........+117!
+!
+!
+LISTA DE ABREVIATURAS E SIGLAS
+CI - Conservação Internacional
+IBGE – Instituto Brasileiro de Geografia e Estatística
+ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade
+INCRA - Instituto Nacional de Colonização e Reforma Agrária
+MMA - Ministério do Meio Ambiente
+PBF – Programa Bolsa Família
+PBV - Programa Bolsa Verde
+SPU/MP - Secretaria do Patrimônio da União
+UFRRJ - Universidade Federal Rural do Rio de Janeiro
+UT – Unidade Territorial
+!
+!
+APRESENTAÇÃO
+Em 2013, foi firmada a parceria institucional entre o Ministério do Meio Ambiente e
+Universidade Federal Rural do Rio de Janeiro (UFRRJ), para o desenvolvimento do
+Monitoramento e Difusão do Programa de Apoio à Conservação Ambiental – Programa
+Bolsa Verde (PBV). O desenvolvimento das atividades desse monitoramento foram
+desenvolvidas em colaboração com a Conservação Internacional (CI Brasil) e sua
+implementação em campo contou com o apoio dos órgãos gestores das unidades territoriais
+contempladas pelo PBV: Instituto Chico Mendes de Conservação da Biodiversidade (ICMBIO),
+Instituto Nacional de Colonização e Reforma Agrária (INCRA) e Secretaria do Patrimônio da
+União (SPU).
+Este monitoramento é um requisito estabelecido pelo artigo 3o da Lei nº 12.512 de 14 de
+outubro de 2011 e regulamentado pelos artigos 10 e 19 do Decreto nº 7.572 de 28 de
+setembro de 2011. Ele foi estruturado a partir de uma proposta metodológica desenvolvida
+pela própria UFRRJ, através do Laboratório de Gestão Ambiental, e parceiros, específica para
+o Programa Bolsa Verde, o que gerou o “Manual de implementação do monitoramento
+amostral do Programa Bolsa Verde”. Seu principal objetivo é verificar as condições de
+implementação do PBV e avaliar se e como o Programa tem contribuído para a melhoria da
+conservação ambiental e condições de vida dos beneficiários nos territórios onde as famílias
+beneficiadas estão inseridas.
+A implementação do monitoramento amostral, bem como a divulgação dos seus resultados,
+são atividades relevantes para o sucesso de políticas públicas voltadas para o combate à
+pobreza e apoio à conservação ambiental. Neste contexto, o presente relatório apresenta os
+resultados finais do monitoramento amostral das condicionalidades socioambientais do
+Programa Bolsa Verde, referentes ao ano de 2014, considerando o universo de 51.498
+famílias cadastradas pelo MMA até 31 de Janeiro de 2014.
+!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+2!
+!
+COMO LER E INTERPRETAR AS INFORMAÇÕES APRESENTADAS NESTE RELATÓRIO
+Todos os dados, informações e análises apresentadas neste relatório destinam-se a
+apresentar um panorama sobre as condições e impactos do Programa Bolsa Verde.
+As análises, conforme preconizadas pela metodologia, foram realizadas em cinco dimensões
+distintas - 1) estrutura etária, frequência escolar e migração; 2) trabalho e renda; 3)
+infraestrutura de produção e organização social; 4) conservação ambiental; 5) opinião sobre o
+impacto do PBV – e nesta ordem serão apresentadas neste documento.
+Cada uma das cinco dimensões foi também analisada em três diferentes recortes: amostra
+nacional; amostra por bioma que possuem famílias beneficiárias (Amazônia, Caatinga,
+Cerrado, Mata Atlântica e Costeiro Marinho) e amostra por órgão gestor (ICMBio, INCRA e
+SPU). A base de dados permite ainda recortes por região do país, unidade da federação e
+municípios, não comtemplados nesse relatório. Essa versatilidade facilita o cruzamento e
+comparação de dados com outras bases oficiais.
+As análises nas cinco dimensões e nos três recortes foram feitas para dois grupos diferentes:
+beneficiários do Programa Bolsa Verde e não beneficiários do Programa Bolsa Verde.
+São considerados parte do grupo de beneficiários do Programa Bolsa Verde aquelas famílias
+que possuíam no momento do monitoramento Termo de Adesão ao PBV válido e com
+benefício ativo.
+São considerados parte do grupo de não beneficiários do Programa Bolsa Verde aquelas
+famílias que no momento do monitoramento não estão inscritas no Programa Bolsa Verde e,
+portanto, não possuíam o benefício, mas preferencialmente são beneficiárias do Programa
+Bolsa Família, e apresentaram renda familiar per capita inferior a R$154.
+No total foram realizadas análises para 67 indicadores diferentes comparando dados
+isoladamente ou através da combinação entre os mesmos.
+Aos resultados obtidos nas análises para cada um dos dois grupos, nas diferentes dimensões
+e recortes, foram aplicados testes estatísticos para verificar a existência de diferenças e
+similaridades entre os resultados encontradas e sua significância. Desta forma, por exemplo,
+apesar de numericamente diferentes, um resultado pode ser considerado semelhante
+levando-se em consideração a amostra e o universo. O resultado dos testes estatísticos é
+apresentado no Anexo II.
+Cada um dos resultados apresentados neste documento permite uma extrapolação
+estatisticamente segura da informação para todo o universo do Programa Bolsa Verde,
+resguardadas os limites da margem de erro de 3% na comparação entre grupos e grau de
+confiança de 95,5%. Desta forma, em exemplo hipotético, quando se afirma que neste
+monitoramento 80% das famílias beneficiárias do Programa Bolsa Verde no bioma Amazônia
+em Unidades Territoriais geridas pelo ICMBio apresentaram renda acima do limite da extrema
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+3!
+!
+pobreza, isto significa que este padrão encontrado para a amostra se repete com 95,5% de
+certeza e podendo variar entre 77% e 83% no universo de famílias beneficiadas pelo
+Programa, que no caso desse ciclo de monitoramento foi de 51.498 famílias.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+4!
+!
+RESUMO EXECUTIVO
+Este relatório traz os resultados do primeiro ciclo de monitoramento para avaliar se e como o
+Programa Bolsa Verde (PBV) tem contribuído para a melhoria da conservação ambiental nos
+territórios onde as famílias beneficiadas estão inseridas através da melhoria das condições de
+renda. Para isso, este estudo constrói um perfil médio das famílias beneficiárias do PBV com
+os dados obtidos e o compara com o de outras famílias não beneficiárias que vivem no
+mesmo local em condições socioeconômicas similares.
+O ponto de partida é a descrição de três aspectos fundamentais para a discussão posterior:
+como foram realizadas as entrevistas, como é feito o recebimento do benefício e os
+instrumentos de gestão das respectivas unidades territoriais analisadas. O estudo amplia a
+discussão para cada uma das cinco dimensões avaliadas do PBV: 1) estrutura etária,
+frequência escolar e migração; 2) trabalho e renda; 3) infraestruturas de produção e
+organização social; 4) conservação ambiental; 5) opinião sobre o impacto do PBV. Em cada
+uma destas dimensões os resultados são apresentados para o conjunto total da amostra, e
+em seguida estratificados por Bioma e Órgão Gestor, de forma a se aproximar da realidade
+de cada UT.
+O Monitoramento e Difusão do Programa de Apoio à Conservação Ambiental – Programa
+Bolsa Verde (PBV) é realizado anualmente através de metodologia que considera um
+determinado universo de famílias beneficiárias que estão distribuídas por diferentes unidades
+territoriais no país. Este relatório foi produzido a partir dos dados obtidos a partir da aplicação
+de questionários nessas unidades territoriais, seguindo a metodologia descrita no “Manual
+Operacional para Implementação e Realização do Monitoramento Amostral da Conservação
+Ambiental nas Unidades Territoriais Atendidas pelo Programa Bolsa Verde”.
+Em Janeiro de 2014, o PBV possuía 51.498 famílias cadastradas no país, localizadas em
+diferentes Unidades de Conservação de Uso Sustentável (ICMBio), Projetos de
+Assentamentos Diferenciados (INCRA) e territórios ocupados por povos e comunidades
+tradicionais tais como ribeirinhos e extrativistas cadastrados pelo SPU.
+Entre os dias 21 de Janeiro de 2015 e 02 de Junho de 2015, foram realizadas 2.176 entrevistas
+(Gráfico 1) com famílias beneficiárias (1.088) e não beneficiárias (1.088) do Programa Bolsa
+Verde em 208 Unidades Territoriais (29 ICMBio, 172 INCRA e 7 SPU). O trabalho em campo foi
+realizado com o auxílio de 62 entrevistadores que percorreram 124 municípios distribuídos
+por 14 estados em 5 biomas brasileiros (Amazônia, Marinho Costeiro, Caatinga, Cerrado e
+Mata Atlântica). As entrevistas duraram em média 23 minutos para famílias beneficiárias e 19
+minutos para não beneficiárias.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+5!
+!
+Gráfico 1: Número e datas de entrevistas realizadas
+Destacam-se algumas características examinadas para construção de um perfil geral das
+famílias. Em geral, as famílias beneficiárias do PBV:
+•
+! Residem em domicílios particulares no meio rural (96%), em geral localizados dentro
+dos limites da UT (88%); e
+•
+! Viajam cerca de 30Km de barco ou ônibus para receber o benefício, levam cerca de
+2h38min para chegar ao local e gastam em média R$ 20,00 com transporte.
+Em relação à estrutura etária, frequência escolar e migração, as famílias beneficiárias do
+PBV:
+•
+! Possuem em média 5 pessoas (48% mulheres e 52% homens) e é constituída
+principalmente por adultos (19 a 59 anos; 46%), seguida de crianças (3 a 11 anos; 24%),
+adolescentes (entre 12 e 18 anos; 24%);
+•
+! O número médio de pessoas por família beneficiária do Programa Bolsa Verde é
+maior do que o por família não beneficiária, não pelo número de nascimentos
+recentes, após o PBV, mas sim pelo número de adolescentes e adultos.
+•
+! Apresentam em média 87% das crianças de 2 a 11 anos e 92% dos adolescentes entre
+12 e 18 anos matriculados na escola e
+•
+! Mantiveram em média o mesmo número de pessoas desde o início do pagamento do
+benefício com 7% de entrada por nascimento ou emigração e 7% de saída por morte
+ou imigração.
+Referente ao trabalho e renda, as famílias beneficiárias do PBV:
+•
+! Trabalham (com cerca de 50% de seus integrantes) em atividades de produção da
+agricultura familiar, criação de animais, extrativismo e/ou agrossilvicultura (95%);
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+6!
+!
+•
+! Sua área de produção tem, em média, 1,2 hectares, e fica cerca de 2.5km de distância
+do local onde mora;
+•
+! Produzem durante cerca de 6 meses e destinam comercializam, em média, 50% da
+sua produção;
+•
+! Produzem mandioca, extraem peixes e/ou açaí como principais produtos, e usam
+principalmente enxada, rede e peconha para essas atividades;
+•
+! Possuem renda familiar per capita total estimada em R$ 155, que é 4% menor que a
+renda de famílias não beneficiárias. Os benefícios do PBV e PBF compõem 43% de
+sua renda, que são complementados com outros benefícios e salários (31%) e com a
+produção agroextrativista (27%).
+•
+! Apresentam renda per capita média mensal menor do que R$ 154,00 (66%),
+consideradas em situação de pobreza, segundo as classes de renda estabelecidas
+pelo Programa Bolsa Família;
+•
+! Caso não recebessem os benefícios do PBV e PBF, teriam renda familiar mensal per
+capita de R$ 89,00, o que é 30% menor que a de famílias não beneficiárias do PBV
+sem o Bolsa Família.
+•
+! Estavam em situação de extrema pobreza (renda per capita abaixo de R$77,00) sem
+do benefício (60% das famílias), mas após o recebimento, este número reduziu para
+25% das famílias.
+Sobre a infraestrutura de produção e organização social, as famílias beneficiárias do PBV:
+•
+! Passaram a utilizar novas técnicas e/ou equipamentos para a produção (60%) depois
+do início do recebimento do benefício;
+•
+! Estão associadas (86%) a algum tipo de organização social (associações comunitárias,
+colônias de pescadores, cooperativas, sindicatos entre outros);
+•
+! Vendem os seus produtos através de intermediários (45%) ou diretamente ao
+consumidor (33%);
+•
+! Não participaram de nenhuma atividade de capacitação para produção no último ano
+(80%);
+Quanto à conservação ambiental, as famílias beneficiárias do PBV:
+•
+! Possuem abastecimento de água por captação direta de rios (40%), por poços (26%)
+ou microssistemas comunitários (16%) e apenas 8% possuem abastecimento por rede
+geral;
+•
+! Fazem uso de fossas rudimentares (58%) e apenas 1% são atendidas por rede geral de
+esgotamento sanitário;
+•
+! Queimam ou enterram o seu resíduo sólido na propriedade (80%) e apenas 12%
+possuem coleta direta de lixo por rede pública;.
+•
+! Contam com a energia elétrica fornecida pela companhia distribuidora local (57%),
+outras 33% contam com geradores e apenas 9% não possuem nenhuma forma de
+fornecimento de energia na residência;
+•
+! Acreditam que o desmatamento (27%), lixo (20%) e incêndios (13%) são as principais
+ameaças para a conservação do meio ambiente na UT onde vivem;
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+7!
+!
+•
+! Não realizam queimadas na sua propriedade (60%) e, se as realiza, somente 1 vez ao
+ano (35%) como prática de preparação do solo para cultivos;
+•
+! Extraem lenha dos ambientes naturais dos arredores para o próprio consumo (60%),
+atividade relacionada ao uso de fogões à lenha;
+•
+! Vivem em UTs que possuem algum instrumento de gestão (46%), porém nem todas
+com conselho gestor consultivo, deliberativo ou outro (28%);
+•
+! Conhecem as restrições da unidade territorial (58%), e tem recebido orientação sobre
+tais restrições no último ano (56%), destacando o desmatamento, lixo e incêndios.
+•
+! Conhecem as atividades de conservação do órgão gestor (57%)
+•
+! Declararam ter conhecimento dos seus compromissos perante ao Programa Bolsa
+Verde (72%), mas não receberam orientações sobre o Programa Bolsa Verde (75%) no
+último ano.
+Quanto à opinião sobre o impacto do PBV, as famílias beneficiárias :
+•
+! Afirmaram que o recebimento do benefício traz um impacto muito alto ou alto (79%) no
+seu poder aquisitivo; muito alto ou alto (81%) na melhoria da sua condição de vida;
+muito alto ou alto (74%) no incremento da sua produção e muito alto ou alto (77%) na
+melhoria nas condições de conservação ambiental na UT;
+•
+! Apresentam médio (41%) ou alto (51%) grau de entendimento sobre o conceito de
+conservação do meio ambiente e
+•
+! Acreditam que suas atividades diárias contribuem muito (52%) ou médio (46%) para a
+conservação do meio ambiente de sua UT; apenas 3% consideram que suas
+atividades contribuem pouco para conservação.
+Os dados gerais para famílias beneficiárias do Programa Bolsa Verde ora apresentados
+indicam uma percepção muito positiva dos beneficiários sobre o impacto do Programa para o
+seu bem-estar e a conservação ambiental dos territórios onde estão inseridos.
+De uma maneira sintética, o perfil médio da família beneficiária do PBV no Brasil, com base
+neste primeiro ciclo de monitoramento (2014), poderia ser descrito assim:
+“Residem em unidades territoriais administradas pelo governo federal (unidades de
+conservação de uso sustentável, assentamentos especiais da reforma agrária e territórios
+ribeirinhos) em zonas rurais. Viajam cerca de 30 Km para o recebimento do benefício e
+gastam cerca de 10% do benefício para isso. São compostas em média por 5 pessoas, com
+poucos idosos e bebês, e mantêm suas crianças e adolescentes na escola. Trabalham em
+atividades de produção da agricultura familiar, criação de animais, extrativismo e/ou
+agrossilvicultura; muitos permanecem em situação de pobreza (renda per capita abaixo de
+R$ 154,00) mas caso não recebessem o benefício muitas estariam em situação de extrema
+pobreza (renda per capita abaixo de R$ 77,00). Tem melhorado a produção com novos
+equipamentos e associativismo, mas ainda carecem de cursos de capacitação e
+equipamentos. Os domicílios em que residem em geral não possuem abastecimento de água
+ou esgotamento sanitário por rede geral e coleta de lixo domiciliar, porém possuem energia
+elétrica. Identificam desmatamentos e incêndios como ameaças à conservação, porém
+realizam queimadas para preparação do solo para cultivos e extraem madeira para lenha
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+8!
+!
+para fogões. Conhecem seus compromissos com o Programa Bolsa Verde, mas não tiveram
+nenhuma orientação direta sobre o mesmo, incluindo o contexto geral e objetivos do
+Programa. Contudo, reconhecem a importância e os impactos positivos do PBV em seu bem-
+estar e na conservação ambiental.”
+A partir dos resultados encontrados, foram identificados alguns desafios para atividades
+futuras do PBV na direção da produção sustentável, conservação ambiental e
+desenvolvimento social;
+•
+! Incremento na atividade agroextrativista com melhoria das condições de oferta de
+assistência técnica, capacitação e microcrédito, bem como estruturação de cadeias
+produtivas;
+•
+! Esforço conjunto com outros programas federais e estaduais para melhorias na
+infraestrutura básica dos domicílios, principalmente no que diz respeito ao
+saneamento básico;
+•
+! Melhoria na disseminação de informações relacionadas ao PBV para as famílias
+beneficiárias, não beneficiárias e população em geral;
+•
+! Cadastramento contínuo de famílias nas UTs já atendidas e em outras, bem como em
+terras indígenas, quilombolas e outras populações tradicionais e
+•
+! Desenvolvimento e aprimoramento contínuo do Monitoramento, incluindo
+aprofundamento de temas e escalas de análises espaciais.
+A realização dos próximos ciclos de monitoramento do PBV poderá revelar avanços obtidos
+sobre estes desafios, bem como contribuir para consolidar e ampliar benefícios conquistados
+até o momento.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+9!
+!
+1. SITUAÇÃO ATUAL DO PROGRAMA BOLSA VERDE
+O PBV tem por objetivos primordiais incentivar a conservação dos ecossistemas, entendida
+como sua manutenção e uso sustentável, assim como promover a cidadania, a melhoria das
+condições de vida e a elevação da renda da população em situações de pobreza e de
+extrema pobreza que exerça atividades de conservação dos recursos naturais nas seguintes
+áreas predefinidas:
+•
+! Unidades de Conservação de Uso Sustentável nas categorias Reservas Extrativistas
+Federais (RESEX), e Reservas de Desenvolvimento Sustentável (RDS) e Florestas
+Nacionais (FLONAS); geridas pelo Instituto Chico Mendes de Conservação da
+Biodiversidade (ICMBio);
+•
+! Projetos de Assentamentos Ambientalmente Diferenciados da Reforma Agrária
+geridos pelo Instituto Nacional de Colonização e Reforma Agrária (INCRA): Projetos de
+Assentamento Agroextrativistas (PAEs), Projetos de Desenvolvimento Sustentável
+(PDS) e Projetos de Assentamentos Florestais (PAFs);
+•
+! Territórios ocupados por povos e comunidades tradicionais tais como ribeirinhos,
+extrativistas, populações indígenas, quilombolas e demais povos e comunidades
+tradicionais;
+•
+! Além de outras áreas rurais definidas como prioritárias por ato do Poder Executivo.
+Em Julho de 2012, O Programa Bolsa Verde atingia 27.861 famílias no total, sendo 10.243
+famílias em 44 Unidades de Conservação de Uso Sustentável (ICMBio), 16.854 famílias em
+432 Projetos de Assentamentos Diferenciados (PADs, INCRA) e 764 famílias de Ribeirinhos
+em 13 municípios cadastrados pela Secretaria de Patrimônio da União (SPU).
+Menos de 2 anos depois, estavam cadastradas pelo Programa 51.498 famílias, 23.637
+famílias a mais, sendo 17.463 famílias em 66 Unidades de Conservação (ICMBio), 30.664
+famílias em 808 Projetos de Assentamentos Diferenciados (INCRA) e 3.371 famílias em 64
+municípios cadastrados pela SPU (Gráfico !e!Gráfico )1
+.
+Estes números representam um aumento de 47,9% do número total de UTs e de 45,9% do
+número de famílias beneficiárias entre 2012 e 2014. Embora com menor número de UTs, o
+maior crescimento relativo para o período foi para a SPU (79%), seguido por INCRA (46,5%) e
+ICMBio (33,3%). Quanto ao número de famílias beneficiárias, o padrão de crescimento se
+repete: embora com menor número de famílias beneficiárias, UTs da SPU apresentaram
+77,3%, do INCRA 45% e do ICMBio 41,3%.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!
+1 Fonte: Programa Bolsa Verde (MMA, 2012, 2013, 2014).!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+10!
+!
+Gráfico 2- Número de Unidades Territoriais por Órgão Gestor – PBV; 2012 (Julho), 2013 (Janeiro) e 2014
+(Janeiro).
+Gráfico 3 - Número de Famílias Beneficiárias do PBV, nos anos de 2012 (Julho), 2013 (Janeiro) e 2014
+(Janeiro) - por órgão gestor.
+A maior parte das UTs e das famílias contempladas pelo PBV é gerida pelo INCRA (Mapa 1 e
+2). Entretanto, esse órgão é o que tem menor número de famílias beneficiárias por UT,
+possivelmente devido ao seu extenso número de pequenas unidades territoriais e menor
+número de habitantes em cada, quando comparadas às do ICMBio e SPU. Enquanto as UTs
+do INCRA apresentaram uma média de 38 famílias beneficiárias em janeiro de 2014, as do
+ICMBio e SPU apresentaram 265 e 53, respectivamente.
+O Programa Bolsa Verde tem beneficiado famílias de todas as regiões, principalmente na
+Região Norte (Mapa 2), onde se localizam 73% dos beneficiários e 36,5% das UTs.
+Atualmente, o Bioma Amazônia é aquele que concentra o maior número de famílias atendidas
+pelo Programa, seguido do Marinho Costeiro, Cerrado, Mata Atlântica e Caatinga. O Bioma
+Marinho Costeiro apresenta baixo número de UTs beneficiadas (Mapa 1), mas alto número de
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+11!
+!
+beneficiários (Mapa 2). Observa-se um maior grau de organização social nestas comunidades
+(em geral, residentes em RESEX) para acessar o benefício.
+360
+808
+No. UTs
+800
+700
+600
+500
+400
+300
+200
+100
+0
+Órgãos Gestores
+ICMBio
+INCRA
+SPU
+350
+300
+250
+303
+Biomas
+Amazônia
+Caatinga
+Cerrado
+Marinho Costeiro
+Mata Atlântica
+No. UTs
+66
+64
+200
+150
+100
+50
+0
+154
+103
+18
+Mapa 1. Número de Unidades Territoriais por Órgão Gestor - Programa Bolsa Verde – Monitoramento
+Ano-base de 2014. No gráfico por Biomas, o hachurado azul escuro representa o Bioma Marinho
+Costeiro, não representado no mapa.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+12!
+!
+30.664
+31.295
+30.000
+Órgãos Gestores
+ICMBio
+INCRA
+SPU
+30.000
+25.000
+25.000
+Biomas
+Amazônia
+Caatinga
+Cerrado
+Marinho Costeiro
+Mata Atlântica
+No. Famílias
+20.000
+17.463
+15.000
+No. Famílias
+20.000
+15.000
+9.766
+10.000
+10.000
+5.495
+3.371
+5.000
+0
+5.000
+0
+2.378
+2.564
+Mapa 2. Número de Famílias Beneficiárias por Unidades Territoriais - Programa Bolsa Verde –
+Monitoramento Ano-base de 2014. No gráfico por Biomas, o hachurado azul escuro representa o Bioma
+Marinho Costeiro, não representado no mapa.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+13!
+!
+O PBV é um Programa com cobertura nacional e até 2014 contemplava uma área de
+70.609.376 ha, ou seja, 8,3% do território brasileiro2
+. É evidente o foco prioritário dado à
+Amazônia que representa 95,3% da área total contemplada pelo PBV e onde estão a maior
+parte dos beneficiários. Para os demais Biomas, a cobertura em área do PBV é menor, não
+somente em função do número menor de UTs, mas principalmente em função dos tamanhos
+das UTs quando comparadas às amazônicas.
+As UTs geridas pelo ICMBio representam 25,12% deste total (ou 17.803.554 ha) e as do INCRA
+16,74% (ou 11.823.023 ha). Para as UTs pertencentes a SPU foram contabilizadas as áreas dos
+municípios pertencentes, uma vez que não possuem delimitação definida (Mapa 3).
+!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!
+2
+!IBGE 2013 - http://www.ibge.gov.br/home/geociencias/cartografia/default_territ_area.shtm!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+14!
+!
+450.000
+400.000
+350.000
+300.000
+250.000
+409.807,844
+1.000.000 682.053,932
+Órgãos Gestores
+ICMBio
+INCRA
+SPU
+100.000
+11.182,03
+Biomas
+Amazônia
+Caatinga
+Cerrado
+Marinho Costeiro
+Mata Atlântica
+Área (Km2)
+Área (Km2) log
+10.000
+8.300,859
+2.643,169
+1.893,626
+1.000
+200.000
+150.000
+100.000
+50.000
+0
+178.035,544
+118.230,228
+100
+10
+1
+0,1
+! !
+Mapa 3. Área (Km2) por Unidades Territoriais - Programa Bolsa Verde – Monitoramento Ano-base de
+2014. No gráfico por Biomas, o hachurado azul escuro representa o Bioma Marinho Costeiro, não
+representado no mapa.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+15!
+!
+2. METODOLOGIA
+O método para a realização do monitoramento amostral de condicionalidades
+socioambientais por famílias beneficiárias nas áreas contempladas pelo Programa Bolsa
+Verde segue a orientação do “Manual Operacional para Implementação e Realização do
+Monitoramento Amostral da Conservação Ambiental nas Unidades Territoriais Atendidas pelo
+Programa Bolsa Verde”3
+. De acordo com este Manual, o monitoramento amostral está
+estruturado para ser aplicado em ciclos anuais de acordo com as seguintes etapas:
+1.! Definição do número de famílias que irá compor o universo amostral do Programa
+Bolsa Família no ano;
+2.! 3.! 4.! 5.! 6.! Determinação do tamanho e composição da amostra;
+Coleta de dados no campo;
+Tabulação, espacialização e análise dos dados;
+Consolidação do Relatório Final do Monitoramento Amostral;
+Divulgação dos resultados e preparação do próximo ciclo de monitoramento.
+As etapas apresentadas acima são baseadas em três requisitos importantes:
+1.! Uma amostra com representatividade compatível com o tamanho e abrangência do
+Programa;
+2.! Uma amostragem aleatória das famílias a serem avaliadas4, mas sensível a inclusão
+de áreas estratégicas para o monitoramento5;
+3.! Indicadores com capacidade de refletir os resultados, benefícios e prejuízos do
+Programa nas dimensões ambiental, social e econômica.
+A implementação do monitoramento é realizada a partir da combinação de diferentes
+técnicas e instrumentos de pesquisa, que incluem tais etapas e requisitos, e que foram
+desenvolvidos especificamente para o Programa Bolsa Verde (Figura ).
+!
+Figura 1. Instrumentos que compõe o monitoramento amostral do Programa Bolsa Verde.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!
+3 PRODUTO 4 – Manual de implementação do monitoramento amostral do Programa Bolsa Verde. (Laboratório de
+Gestão Ambiental/ UFRRJ; FAPUR; MMA, 2014).!
+4 Os trabalhos de campo confirmaram que esta amostragem aleatória só é possível com o apoio local de gestores
+das UTs e/ou de lideranças comunitárias.!
+5 Índice de Prioridade para o Monitoramento por UTs (IPM).!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+16!
+!
+Definição do universo amostral: A primeira etapa do trabalho consiste na definição da linha
+de base para a inclusão das famílias beneficiárias que comporão o universo amostral para
+realização do monitoramento. Esta definição, de acordo com a metodologia, foi realizada a
+partir da lista de beneficiários de 31 de Janeiro de 2014 (51.498 famílias); número sobre o
+qual foi calculado o tamanho da amostra a ser monitorada.
+Tamanho e composição da amostra: Para um erro de 3% e grau de confiança de 95,5% no
+resultado do monitoramento de 2014, foi definida uma amostra com 1.088 famílias
+beneficiárias do PBV, localizadas em 260 unidades territoriais (Mapa 4).
+O número de famílias amostradas em cada estrato Bioma e Órgão Gestor foi definido a partir
+do número total das famílias beneficiárias em cada estrato (Tabela 3), usando a linha de base
+de 51.498 famílias (2014).
+Quatro principais fatores foram considerados para incluir famílias e unidades territoriais na
+amostra: i) o universo do programa atual e projeções de crescimento; ii) a distribuição do
+número total de beneficiários entre as diferentes unidades territoriais; iii) a distribuição do
+número de beneficiários entre os biomas; e iv) o custo e esforço de coleta das informações.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+17!
+!
+No. UTs
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+206
+153
+160
+Órgãos Gestores
+ICMBio
+INCRA
+SPU
+140
+120
+Biomas
+Amazônia
+Caatinga
+Cerrado
+Marinho Costeiro
+Mata Atlântica
+100
+No. UTs
+80
+60
+39
+39
+15
+40
+20
+0
+28
+25
+15
+Mapa 4: Número Amostral de Unidades Territoriais (Projetado)- por Órgão Gestor - Programa Bolsa
+Verde – Monitoramento Ano-base de 2014. No gráfico por Biomas, o hachurado azul escuro representa
+o Bioma Marinho Costeiro, não representado no mapa.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+18!
+!
+Tabela 3. Distribuição de Famílias Beneficiárias do PBV por bioma e órgão gestor (Jan/2014).
+Número e Porcentagem de Famílias Beneficiárias no universo amostral
+Bioma
+ICMBio INCRA SPU
+Total
+Universo Amostra Universo Amostra Universo Amostra
+Amazônia 31.295 60,8% 7.484 14,5% 158 20.440 39,7% 0 3.371 6,5% 72
+Caatinga 2.378 4,6% 0 0,0% 0 2.378 7,8% 0 0 0,0% 0
+Cerrado 5.495 10,7% 207 0,4% 4 5.288 17,2% 0 0 0,0% 0
+Marinho
+Costeiro
+9.766 19,0% 9.766 19,0% 206 0 0,0% 0 0 0,0% 0
+Mata
+Atlântica 2.564 5,0% 6 0,0% 0 2.558 8,3% 72 0 0,0% 0
+Total 51.498 100% 17.463 33,9% 368 30.664 59,5% 648 3.371 6,5% 72
+Para efeito de comparação, além das 1.088 famílias beneficiárias, o monitoramento em campo
+também incluiu uma amostra controle com mesmo tamanho e composição da amostra com
+famílias beneficiárias, totalizando 2.176 entrevistas (Mapa 5). A amostra controle é composta
+por famílias que não recebem o benefício do Programa Bolsa Verde, residem nas mesmas
+Unidades Territoriais das famílias beneficiárias e com perfil de renda per capita não
+superior a R$154, que corresponde a renda familiar mensal per capita de famílias em
+situação de pobreza, de acordo com Decreto Federal nº 8.232, de 30 de Abril de 2014.
+Para garantir tais requisitos, as entrevistas controle são feitas preferencialmente com famílias
+beneficiárias do Programa Bolsa Família. Quando não localizadas, a amostra controle é
+suprida com famílias beneficiárias do Programa Bolsa Família de outras UTs, pertencentes ao
+mesmo órgão gestor e bioma. Em último caso, incluem-se famílias não beneficiárias do PBF,
+mas com renda autodeclarada compatível com a amostra, ou seja, não superior a R$154. No
+monitoramento do ano de 2014, somente 19,3% dos entrevistados controle não eram
+beneficiários do PBF.
+A inclusão de uma amostra controle permite uma análise comparativa da evolução de
+indicadores como renda, produção e percepção entre àqueles que recebem o benefício e
+àqueles que não. Desta forma, espera-se identificar e investigar os efeitos que o Programa
+tem sobre as famílias beneficiárias quando comparadas com famílias que não possuem o
+benefício.
+Foram realizadas ainda cerca de 10% de entrevistas adicionais em cada UT, visando garantir
+a exclusão de questionários com informações incompletas, assim como compensar potencial
+impossibilidade de obtenção de entrevistas em UTs na mesma região e mesmo órgão gestor.
+Uma vez que o monitoramento não é universal (tipo censo), a definição da estratégia de
+composição da amostra procura refletir ainda o grau de implementação do Programa no
+território brasileiro e o grau de cumprimento de suas condicionalidades socioambientais.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+19!
+!
+No. Famílias
+1.400
+1.300
+1.200
+1.100
+1.000
+900
+800
+700
+600
+500
+400
+300
+200
+100
+0
+1.296
+1.400
+1.324
+Órgãos Gestores
+ICMBio
+INCRA
+SPU
+1.200
+Biomas
+Amazônia
+Caatinga
+Cerrado
+Marinho Costeiro
+Mata Atlântica
+736
+No. Famílias
+144
+1.000
+800
+600
+400
+200
+0
+412
+242
+90
+108
+Mapa 5: Número Amostral de Famílias Beneficiárias e Não Beneficiárias por Unidades Territoriais -
+Programa Bolsa Verde – Monitoramento Ano-base de 2014. No gráfico por Biomas, o hachurado azul
+escuro representa o Bioma Marinho Costeiro, não representado no mapa.
+Coleta de dados no campo: As famílias entrevistadas em cada unidade territorial foram
+selecionadas aleatoriamente, não previamente a partir da lista de beneficiários na unidade
+territorial e sim, a partir do acesso ao acaso a essas famílias. Este acesso foi realizado com o
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+20!
+!
+auxílio de técnicos do órgão gestor local e lideranças comunitárias, que divulgaram o local
+das entrevistas, marcaram reuniões comunitárias com distribuição/sorteio de senhas, ou
+indicaram residências de beneficiários para visita direta.
+O questionário de coleta para o monitoramento foi desenvolvido para avaliar o
+desempenho do PBV sobre cada família em cinco dimensões: 1) estrutura etária,
+frequência escolar e migração; 2) trabalho e renda; 3) infraestruturas de produção e
+organização social; 4) conservação ambiental; 5) opinião sobre o impacto do PBV.
+Tabulação, espacialização e análise dos dados: Após a aplicação dos questionários, os
+dados, na sua maioria, foram tabulados pelos próprios entrevistadores para minimizar erros
+de leitura e interpretação. Com uma planilha única e padronizada contendo os dados
+coletados durante as entrevistas, foi possível então fazer a análise dos dados. Devido ao
+tamanho da amostra (N = 2176) e pela necessidade de comparações entre beneficiários e não
+beneficiários dos Programa Bolsa Verde nos parâmetros avaliados por este monitoramento,
+foram realizadas análises estatísticas capazes de identificar possíveis diferenças nestes
+parâmetros. Para todos os parâmetros testados, foi avaliada a homogeneidade dos dados
+através do teste de Kolmogorov-Smirnof e de normalidade através do teste de Liliefors (Zar,
+1999). Como todos os parâmetros tiveram distribuição normal e variâncias homogêneas, os
+parâmetros quantitativos foram testados por meio de análise de variância (ANOVA) com nível
+de significância de 5%. Já os dados de frequência foram testados através de teste de qui-
+quadrado ou de teste G, ambos para tabelas de contingência (Zar, 1999).
+!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+21!
+!
+3. RESULTADOS
+3.1 Contexto Geral
+Para o monitoramento ano-base 2014, foi realizado 100% das entrevistas previstas na amostra,
+(2.176), sendo 1.088 com famílias beneficiárias e 1.088 com não beneficiárias (Mapa 6),
+seguindo o previsto por Bioma e Órgão Gestor. Das 260 unidades territoriais previstas, foram
+contempladas 208 UTs (Mapa 7) ou 80% da amostra; sendo que a maior parte delas se
+encontra na Amazônia, seguida do Cerrado, Mata Atlântica, Caatinga e Bioma Marinho
+Costeiro. Quanto ao órgão gestor, 172 Assentamentos (INCRA), 29 Unidades de Conservação
+(ICMBio) e 7 SPU receberam entrevistas. Estas Unidades estão distribuídas por 14 estados.
+Das 52 UTs não contempladas com entrevistas, 34 são assentamentos, 10 unidades de
+conservação e 8 territórios ribeirinhos. A maioria está situada em locais de difícil acesso e
+continham poucas entrevistas a serem realizadas: 220 entrevistas entre beneficiários e não
+beneficiários - IPM Médio. Para tais entrevistas, foi solicitado aos gestores e líderes
+comunitários locais que as realizassem. Todavia, estes não conseguiram realizar todas as
+entrevistas, ou mesmo não enviaram as entrevistas no prazo determinado. As entrevistas
+programadas para estas UTs foram supridas por outras realizadas em UTs de mesmo órgão
+gestor e localizadas no mesmo Bioma; garantindo a representatividade da amostra.
+A lista de unidades territoriais visitadas com respectivo número de entrevistas encontra-se no
+Anexo I deste documento.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+22!
+!
+No. Famílias Entrevistadas
+1.400
+1.300
+1.200
+1.100
+1.000
+900
+800
+700
+600
+500
+400
+300
+200
+100
+0
+1.302
+1.400
+1.324
+Órgãos Gestores
+ICMBio
+INCRA
+SPU
+1.200
+Biomas
+Amazônia
+Caatinga
+Cerrado
+Marinho Costeiro
+Mata Atlântica
+734
+No. Famílias Entrevistadas
+1.000
+800
+600
+400
+412
+232
+140
+200
+0
+107
+101
+Mapa 6. Entrevistas realizadas por unidades territoriais. Programa Bolsa Verde Monitoramento Ano-
+base de 2014. No gráfico por Biomas, o hachurado azul escuro representa o Bioma Marinho Costeiro,
+não representado no mapa.
+!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+23!
+!
+172
+No. UTs Realizadas
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+Órgãos Gestores
+ICMBio
+INCRA
+SPU
+No. UTs Realizadas
+29
+7
+140
+130
+120
+110
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+129
+Biomas
+Amazônia
+Caatinga
+Cerrado
+Marinho Costeiro
+Mata Atlântica
+23 24
+20
+12
+Mapa 7. Número Amostral de Unidades Territoriais (realizado) por Órgão Gestor. Programa Bolsa Verde
+– Monitoramento Ano-base de 2014. No gráfico por Biomas, o hachurado azul escuro representa o
+Bioma Marinho Costeiro, não representado no mapa.
+!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+24!
+!
+Apesar dos esforços em reunir os entrevistados em locais comunitários, a maior parte das
+entrevistas foi realizada na própria residência do entrevistado (33%, Figura 2), muitas vezes
+por conta de não haver esse espaço e pela difícil mobilidade dos entrevistados dentro da
+própria comunidade, uma vez que 96% deles estão em área rural. Entrevistas em Associações
+de Moradores e na sede da UT corresponderam a 29% no total. Foram registrados ainda
+outros locais, tais como igrejas (3,2%), escolas (3%), bares e restaurantes (2,3%) e centros
+comunitários (0,5%).
+As entrevistas duraram em média 19 minutos para famílias não beneficiárias e 23 minutos para
+beneficiárias, uma vez que há perguntas adicionais no questionário para as famílias
+beneficiárias. O tempo de entrevista é importante para o planejamento dos próximos ciclos
+anuais de monitoramento e aprimoramento do instrumento de coleta de dados em campo.
+Figura 1. Entrevistas em residências dos próprios entrevistados. Foto: Tatiana Martins e Fernanda Martinelli
+As famílias beneficiárias, em geral, recebem o pagamento desde 2012 (46%) e diretamente
+em mãos, sendo somente 4% os que recebem por intermédio de algum integrante da família
+e 1% por meio de intermediários. Os que solicitam a intermediários pagam uma média de
+R$9,64 para que eles busquem o benefício, e essa prática foi mais comum na Amazônia (7
+registros), mas também registrada no Bioma Marinho Costeiro (4 registros), Caatinga (2
+registros) e Cerrado (1 registro).
+Os beneficiários viajam cerca de 30 Km (moda) para receber o benefício e gastam cerca de
+2h38min para chegar até o local (Mapa 8 e 9). Eles utilizam barco (33%), ônibus (28%) ou
+canoa (16%) para este deslocamento; e o custo do transporte fica em torno de 20 reais
+(moda), o que corresponde a 7% do valor total do benefício do PBV. Os custos são mais altos
+para aqueles que moram na região Amazônica e estão em Unidades de Conservação (Mapa
+10), especialmente por ser comum o uso de mais de um tipo de transporte nessa região,
+incluindo transportes aquáticos. Já o bioma Cerrado superou o amazônico em distância média
+percorrida para receber o benefício. Porém, isso não resultou em maiores custos e tempo de
+percurso, possivelmente pelo trajeto ser por terra.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+25!
+!
+Mapa 8. Distância para o recebimento do Benefício por UTs - Programa Bolsa Verde – Monitoramento
+Ano-base de 2014. No gráfico por Biomas, o hachurado azul escuro representa o Bioma Marinho
+Costeiro, não representado no mapa.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+26!
+!
+Mapa 9. Tempo de deslocamento (em minutos) para o recebimento do Benefício por UTs - Programa
+Bolsa Verde – Monitoramento Ano-base de 2014. No gráfico por Biomas, o hachurado azul escuro
+representa o Bioma Marinho Costeiro, não representado no mapa.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+27!
+!
+Mapa 10. Custo com transporte para o recebimento do Benefício por UTs - Programa Bolsa Verde –
+Monitoramento Ano-base de 2014. No gráfico por Biomas, o hachurado azul escuro representa o Bioma
+Marinho Costeiro, não representado no mapa.
+Das Unidades Territoriais incluídas na amostra, quase metade (46%) possui ao menos um
+instrumento de gestão, enquanto 4% não possuem nenhum instrumento no momento e em
+metade das UTs não foi possível obter esta informação (Mapa 11). Analisando somente as que
+foram obtidas as informações, pode-se dizer que 92% delas possuem algum instrumento
+enquanto que 8% não possuem. É comum ainda a UT possuir apenas um instrumento para
+gestão da unidade: 69% das que possuem instrumento de gestão, possuem apenas um, e os
+outros 31% tem dois ou mais.
+Os instrumentos de gestão são ferramentas orientadoras do processo de ocupação e uso dos
+recursos nos territórios, na maioria dos casos obrigatórios. São exemplos de instrumentos de
+gestão territorial usados nessa pesquisa o plano de manejo, plano de uso, plano de
+desenvolvimento do assentamento, acordo de pesca, entre outros. Esses instrumentos,
+quando aplicados no contexto regional, fortalecem a gestão das áreas, ordenam o território e
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+28!
+!
+compatibilizam a presença da biodiversidade, a valorização da sociobiodiversidade e as
+práticas de desenvolvimento sustentável.6
+As UTs que apresentaram maior presença de ao menos um instrumento de gestão foram as
+geridas pelo ICMBio e/ou localizadas no bioma Marinho Costeiro, assim como maior
+disponibilidade de tais informações. Por outro lado, as UTs da Caatinga e Cerrado, e/ou
+geridas pelo INCRA, apresentaram maior número de UTs sem instrumento de gestão
+estabelecido. A dificuldade na obtenção das informações foi maior em UTs pertencentes a
+SPU.
+Mapa 11. Existência de Instrumentos de Gestão nas Unidades Territoriais amostradas - Programa Bolsa
+Verde – Monitoramento Ano-base de 2014.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!
+6
+!http://www.mma.gov.br/areas<protegidas/acoes<e<iniciativas/gestao<territorial<para<a<conservacao!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+29!
+!
+Além do instrumento de gestão, outra ferramenta que auxilia as ações de gestão e uso do
+território é a existência de um conselho gestor nas Unidades Territoriais. O conselho gestor
+pode ser consultivo ou deliberativo, e tem como função auxiliar o órgão gestor da UT na sua
+gestão, e integrá-la à população e às ações realizadas em seu entorno.
+Entre as UTs visitadas, somente 28% delas possuem conselho gestor (consultivo, deliberativo
+ou outro), 17% não possuem e em 55% dos casos, essa informação não foi obtida, por
+dificuldades de contato com o órgão gestor responsável pela UT, especialmente as geridas
+pelo INCRA e SPU (Mapa 12). As que possuem conselho contam com 4 reuniões em média
+por ano, ou seja, 1 reunião a cada 3 meses, entre reuniões ordinárias e extraordinárias. O
+maior número de UTs apresentando conselhos gestores foram as geridas pelo ICMBio e/ou
+localizadas no bioma Marinho Costeiro, com 93% de suas UTs com conselhos. Segundo o
+ICMBio, até fevereiro de 2015, das 320 Unidades de Conservação federais, 265 (ou 85%)
+possuíam conselhos formados, o que amplia o espaço para a gestão compartilhada nesses
+locais.
+7 Entre as geridas pelo INCRA, os valores foram semelhantes entre as UTs que
+possuem conselho gestor (17,8%) e as que não (18,9%), sendo 63,3% as não informadas. Os
+dados obtidos para as geridas por SPU, indicam que a existência de um conselho e a
+disponibilidade de informações são desafios a serem enfrentados: 22% não possuem
+conselho enquanto que em 78% não foram obtida sinformações.
+Além dos instrumentos de gestão e criação de conselhos, os órgãos gestores também são os
+responsáveis pelo cadastro dos beneficiários, ou seja a regularização das famílias
+pertencentes àquela UT. Entre as UTs visitadas, somente metade já tinham feito o cadastro
+das famílias. Realizaram o cadastro 61% das UTs pertencentes ao ICMBio, 50% do INCRA e
+não foi registrado nenhuma UT da SPU com cadastro realizado.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!
+7
+!http://www.icmbio.gov.br/portal/biodiversidade/unidades<de<conservacao/conselhos.html!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+30!
+!
+Mapa 12. Existência de Conselho Gestor nas Unidades Territoriais amostradas - Programa Bolsa Verde
+– Monitoramento Ano-base de 2014.
+Nas seções a seguir são apresentados, na ordem, os resultados encontrados para cada uma
+das cinco dimensões avaliadas do PBV: 1) estrutura etária, frequência escolar e migração; 2)
+trabalho e renda; 3) infraestruturas de produção e organização social; 4) conservação
+ambiental; 5) opinião sobre o impacto do PBV. Em cada uma destas dimensões os resultados
+são apresentados para o conjunto total da amostra e em seguida estratificado por Bioma e
+Órgão Gestor.
+3.2 Estrutura Etária, Frequência Escolar e Migração
+Estrutura Etária
+A estrutura etária das famílias beneficiárias do Programa Bolsa Verde é predominantemente
+adulta, com baixas proporções de crianças até 2 anos e de idosos (Gráfico 5 e 6). Apesar da
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+31!
+!
+distribuição por classe etária ser aparentemente similar entre estes dois tipos de família
+analisados, somente o número de pessoas entre 3 anos e 11 anos foi igual entre os tipos de
+família.
+No geral, as famílias beneficiárias têm número menor de bebês e idosos, número igual de
+crianças, mas maior número de adolescentes e adultos, quando comparadas com as famílias
+não beneficiárias. Dessa forma, no geral, o número médio de pessoas por família beneficiária
+do Programa Bolsa Verde é maior do que o por família não beneficiária, não pelo número de
+nascimentos recentes, após o PBV, mas sim pelo número de adolescentes e adultos.
+O baixo número de idosos vivendo com os beneficiários indica que, além do menor número
+de idosos vivendo nesses locais, há uma separação de moradias entre os adultos e seus
+familiares mais idosos, como observado em campo.
+!
+Gráfico 5. Número médio de pessoas na família por classe etária. Programa Bolsa Verde –
+Monitoramento Ano-base de 2014.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+32!
+!
+Gráfico 6. Porcentagem de pessoas por classe etária na família. Programa Bolsa Verde –
+Monitoramento Ano-base de 2014.
+Ambos os números de pessoas por família (beneficiárias e não beneficiárias) estão acima da
+média da família brasileira, de 3,0 integrantes por família8
+. Porém, esses números tendem a
+cair. Nos últimos dez anos, foi verificado que o número médio de filhos nas famílias mais
+pobres do país tem diminuído mais do que a média brasileira, dada a incorporação de novos
+hábitos e valores. Essa queda é ainda maior no Norte e no Nordeste, região com maior
+número de beneficiários do PBV. Com o monitoramento dos próximos ciclos será possível
+acompanhar a estrutura etária das famílias e verificar se as médias entre beneficiários e não
+beneficiários tendem a se igualar nos próximos anos.
+Não houve diferença quanto a distribuição entre gêneros entre o total de pessoas das
+famílias beneficiárias e não beneficiárias do PBV. Em ambos os casos, 48% dos indivíduos
+contabilizados são mulheres e 52% são homens. O número de mulheres obtido está pouco
+abaixo da média nacional (51,4%), porém, é condizente com a média de mulheres vivendo na
+zona rural, ou seja, 47,7%.
+!
+Entre os biomas, o número médio de pessoas na família dentro de cada bioma é igual entre
+beneficiários e não beneficiários, exceto nas UTs localizadas nos biomas Amazônia e
+Marinho Costeiro (Gráfico 7). Nestes biomas, as famílias beneficiárias do Programa Bolsa
+Verde apresentaram a maior média do número de indivíduos por família: 5 indivíduos. O
+número de bebês (≤ 2 anos) dessas famílias nestes biomas é menor que o de não
+beneficiárias, mas o de adolescentes e de adultos é maior, o que torna a família beneficiária
+mais numerosa, seguindo o padrão geral.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!
+8
+!IBGE!2013!
+<
+!Pesquisa!Nacional!por!Amostra!de!Domicílios!(Pnad)!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+33!
+!
+As famílias beneficiárias localizadas no Cerrado e na Mata Atlântica também apresentaram
+maior número de adolescentes. No caso da Mata Atlântica, este foi o único bioma em que as
+famílias que recebem o benefício possuem maior número de idosos vivendo em suas casas
+em comparação com as famílias que não recebem.
+Em todos os biomas, o número de crianças entre 3 e 11 anos não difere entre famílias
+beneficiárias e não beneficiárias.
+Gráfico 7. Número médio de pessoas por classe etária entre os biomas - Programa Bolsa Verde
+Monitoramento Ano-base de 2014
+No geral, a estrutura nos diferente biomas seguem um padrão semelhante para beneficiários
+e não beneficiários (Gráfico 8). Há predominância da população adulta (2 indivíduos), seguida
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+34!
+!
+por adolescentes e crianças maiores de 2 anos de idade (1 indivíduo por classe) e poucos
+bebês e idosos. Esta é uma característica relevante da pirâmide etária encontrada nas UTs
+beneficiadas pelo PBV: população jovem/adulta, com poucos bebês e idosos. Destaca-se no
+bioma Amazônia o número mais elevado para crianças acima de 2 anos e adolescentes, em
+comparação com outros biomas.
+!
+Gráfico 8. Porcentagem de pessoas por classe etária na família entre os biomas. Programa Bolsa Verde
+– Monitoramento Ano-base de 2014
+Como na estrutura geral, analisando as UTs geridas pelo INCRA, ICMBio e SPU
+separadamente, as famílias que recebem o benefício do PBV possuem menor número de
+bebês (até 2 anos) e número igual de crianças (entre 3 e 11 anos), em relação às famílias não
+beneficiárias (Gráfico 9 e Gráfico 10).
+As famílias que vivem em UTs do INCRA e ICMBio, tiveram ainda maior número médio de
+pessoas e de adolescentes. O número de idosos só foi diferente nas UTs do ICMBio, sendo
+encontrado nas famílias que recebem o benefício o menor número de idosos vivendo junto ao
+beneficiário. Já as famílias beneficiárias vivendo em território SPU não apresentaram
+diferença em relação às não beneficiárias em nenhuma faixa etária, exceto menor número de
+bebês.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+35!
+!
+Gráfico 9. Número médio de indivíduos por classe etária - Órgãos Gestores - Programa Bolsa Verde –
+Monitoramento Ano-base de 2014
+!
+Gráfico 10. Porcentagem de pessoas por classe etária na família – Órgãos Gestores - Programa Bolsa
+Verde – Monitoramento Ano-base de 2014
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+36!
+!
+Frequência Escolar
+O caminho para o desenvolvimento sustentável nas UTs atendidas pelo PBV passa pelo
+fortalecimento da cadeia agroextrativista, mas também pela elevação de escolaridade e
+combate ao analfabetismo. Nesse sentido, torna-se importante caracterizar a família
+beneficiária do PBV quanto à sua frequência escolar.
+Os dados deste monitoramento indicam que há mais adolescentes e adultos de famílias
+beneficiárias do PBV matriculados na escola em comparação com os de famílias sem o
+benefício (gráfico 11). Quanto às crianças entre 3 e 11 anos matriculadas, o número entre
+beneficiários e não beneficiários não difere. Para ambas as famílias, o maior número de
+familiares matriculados na escola se encontra entre os adolescentes (entre 12 e 18 anos):
+92,2% de adolescentes matriculados entre famílias beneficiárias e 91,7% entre as que não
+recebem. Em seguida, estão as crianças (entre 3 e 11 anos), com taxas de 87,2% e 81,9%,
+respectivamente. A porcentagem média de adultos de famílias beneficiárias matriculados na
+escola é em torno de 14,8%, enquanto que para as que não recebem a porcentagem é de
+12,9%.
+!
+Gráfico 11. Porcentagem de pessoas matriculadas na escola por classe etária - Programa Bolsa Verde –
+Monitoramento Ano-base de 2014
+Era esperado que o número ou a proporção de crianças e adolescentes matriculados na
+escola fosse praticamente total ou 100%, já que esse é um dos requisitos do Programa Bolsa
+Família. A proporção de 87% encontrada para as crianças entre 3 e 11 anos é alta, mas o fato
+de não estar acima dos 90% pode ser explicada pelo tipo de agregação proposto pela
+metodologia. Essa agregação das faixas etárias foi feita usando como referência a
+recomendação da UNESCO, porém ao estabelecer o grupo de crianças com idade entre 3 e
+11 anos, incluiu-se crianças em idades escolares distintas. Até 2013, o ensino fundamental (a
+partir dos 6 anos) era a única fase escolar obrigatória no Brasil. Desde então, por força da Lei
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+37!
+!
+nº 12.796, de 4 de abril de 2013, o ensino se tornou obrigatório a partir do 4 anos de idade
+com a inclusão da educação infantil como etapa obrigatória. Contudo, o Ministério da
+Educação informou que apenas em 2016 essa obrigatoriedade seria aplicada, tendo em vista
+a necessidade de organizar esta oferta na rede pública9. Logo, está incluído no grupo
+amostrado crianças em faixa etárias que cuja matricula não é obrigatória (3 anos) e cuja
+obrigatoriedade ainda irá ocorrer (4-5 anos).
+Já a alta frequência escolar para os adolescentes das famílias localizadas nas UTs
+beneficiadas pelo PBV é um fato positivo. As idades entre 12 e 18 anos equivalem, de forma
+geral, às idades escolares do 7º ano escolar do ensino fundamental ao 3º ano do ensino
+médio, justamente onde estão as mais altas taxas de maior abandono escolar do país.
+Segundo o Censo Escolar 2013 (INEP/MEC), a taxa de abandono do 6º ao 9º ano foi de 3,6%,
+enquanto que o ensino médio registrou 8,1% de abandono. Ao contrário, as famílias
+localizadas nas UTs beneficiadas pelo PBV possuem altas taxas de adolescentes
+matriculados, o que pode indicar melhorias de infraestrutura e condições de vida e também
+fortalecimento do interesse das famílias na continuidade dos estudos.
+Entre os adultos entrevistados, muitos se sentem incentivados a se matricularem na Educação
+de Jovens e Adultos (EJA). O EJA é uma oportunidade de suprir um grande déficit
+educacional no país, especialmente na área rural: um em cada quatro adultos brasileiros não
+completou o Ensino Fundamental (Pnad/IBGE/2011).
+O fato de existirem mais adolescentes e adultos de famílias beneficiárias na escola que as
+não beneficiárias, sugere um benefício em longo prazo do PBV: a escolha de dar
+continuidade aos estudos como enfrentamento à evasão escolar e/ou trabalho pouco
+qualificado.
+Biomas – Frequência Escolar
+Nas UTs beneficiadas pelo PBV e localizadas na Mata Atlântica, está o maior número de
+crianças e adolescentes matriculados na escola, para ambas famílias beneficiárias e não
+beneficiárias. Já o maior número de adultos estudando encontra-se nas UTs no bioma da
+Caatinga, o que pode indicar um retorno aos estudos, a partir de melhorias recentes das
+condições gerais de vida. Por outro lado, apesar do alto número de adolescentes
+matriculados, as UTs da Amazônia são as que apresentam menor frequência escolar entre
+crianças em relação aos demais biomas. Em campo, percebe-se que o início da vida escolar
+parece ser mais tardio nessas UTs, uma vez que o difícil acesso à escola e a exposição aos
+riscos relacionados a transportes aquáticos, desestimulam a ida de crianças mais novas, entre
+3 e 4 anos. É um importante dado para definição de gestão e políticas públicas.
+Ao comparar a frequência escolar de beneficiários e não beneficiários estratificada por
+biomas, os resultados apresentaram diferença entre si (Gráfico 12). O bioma Amazônia foi o
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!
+9 http://educacao.uol.com.br/noticias/2013/04/05/mec-afirma-que-matricula-a-partir-de-4-anos-sera-obrigatoria-so-
+em-2016.htm!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+38!
+!
+único bioma em que o número de crianças matriculadas diferiu entre beneficiários e não
+beneficiários, sendo maior entre beneficiários. Além das crianças, proporcionalmente há mais
+adolescentes matriculados entre beneficiários do que entre não beneficiários neste bioma. A
+diferença entre adolescentes matriculados também foi encontrada no bioma Marinho
+Costeiro. Neste bioma, há também mais adultos de famílias beneficiárias matriculados, o que
+sugere uma maior capilaridade de programas voltados para a Educação de Jovens e Adultos
+(EJA) e outros cursos próximos dessas comunidades, como observado em campo. Para as
+UTs localizadas na Caatinga, Cerrado e Mata Atlântica, não houve diferença entre
+matriculados de famílias beneficiárias ou não beneficiárias.
+Gráfico 12. Porcentagem de pessoas matriculadas na escola por classe etária e por Biomas - Programa
+Bolsa Verde – Monitoramento Ano-base de 2014.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+39!
+!
+No geral, a frequência escolar nas UTs geridas pelos 3 diferentes órgãos gestores é
+semelhante entre elas (Gráfico 13). Famílias beneficiárias que vivem em UTs geridas pelo
+ICMBio e INCRA apresentam maior porcentagem de adolescentes matriculados na escola, ao
+comparar com as que não recebem. Nestas UTs, não houve diferença entre crianças e
+adultos matriculados na escola entre beneficiários e não beneficiários. A proporção de
+crianças, adolescentes e adultos matriculados na escola nas UTs geridas pela SPU foi igual
+entre as famílias que recebem e as que não.
+!
+!
+!
+!
+Gráfico 13. Porcentagem de pessoas matriculadas na escola por classe etária e por Órgão Gestores -
+Programa Bolsa Verde – Monitoramento Ano-base de 2014.
++
+Migração
+!
+A migração do meio rural para urbano é uma tendência mundial, e o Brasil não é exceção.
+Estimativas apontam que, até o ano de 2050, mais de 70% da população mundial estará
+vivendo em cidades10, e o país já está a frente, contabilizando 84% da população em área
+urbana.11 Com o processo de urbanização avançando sobre áreas rurais antes isoladas, o
+Programa Bolsa Verde pode se tornar também um instrumento de incentivo à permanência
+no campo e à produção agroextrativista, ao aliar assistência técnica, estruturação de cadeias
+produtivas e valorização do trabalho rural.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!
+10 Relatório anual Situação da População Mundial (2007) - Fundo de População das Nações Unidas (UNFPA)
+11 Censo 2010 - Instituto Brasileiro de Geografia e Estatística (IBGE)
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+40!
+!
+Analisando tal dinâmica, os dados de migração12 mostram que desde o início do recebimento
+do benefício do PBV, não houve mudança no tamanho das famílias, ou seja, o balanço entre
+familiares que nasceram ou vieram morar na comunidade (6,58%) em relação aos que saíram
+ou faleceram (6,60%) foi equivalente. A maior porcentagem média de saída de indivíduos foi
+verificada no Bioma Mata Atlântica (onde está a maior área urbanizada do país), enquanto que
+houve maior entrada no bioma Cerrado e em UTs da SPU (Mapa 14).
+Segundo relatos dos entrevistados, quando há a saída de familiares, em geral, são jovens
+com destino ao centro urbano próximo, em busca de um trabalho formal ou continuidade dos
+estudos. Esta última se tornou uma alternativa um pouco mais acessível a partir do aumento
+de renda trazida pelo benefício, o que pode ter compensado a permanência ou volta de
+familiares a comunidade rural.
+De qualquer forma, o monitoramento dos dados de migração ao longo dos anos tornará
+possível inferir se o benefício do PBV tem trazido mudanças na dinâmica de tamanho da
+família ou não.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!
+12 Estes não se aplicam para a amostra de famílias não beneficiárias.!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+41!
+!
+Mapa 14. Porcentagem de entrada e saída de pessoas e balanço total nas famílias beneficiárias -
+Programa Bolsa Verde – Monitoramento Ano-base de 2014. No gráfico por Biomas, o hachurado azul
+escuro representa o Bioma Marinho Costeiro, não representado no mapa.
+!
+3.3 Trabalho e Renda
+Há mais famílias beneficiárias do PBV com sua renda ligada a atividades com agricultura
+familiar, criação de animais, extrativismo e agrossilvicultura, do que famílias não beneficiárias
+que vivem na mesma unidade territorial. Cerca de 95% dos entrevistados beneficiários que
+recebem o benefício tem como atividade principal o trabalho rural familiar (Figura 25).
+Essa diferença foi encontrada em UTs localizadas na Amazônia e Cerrado, e naquelas geridas
+pelo INCRA. Entre os beneficiários, aqueles que vivem nas UTs localizadas na Mata Atlântica
+e Amazônia são os que mais realizam a atividade agroextrativista. Na Mata Atlântica, todos os
+beneficiários entrevistados tinham parte da renda ligada a atividades agroextrativistas,
+enquanto que a menor média foi encontrada nas do Bioma Marinho Costeiro, de 90%. Entre
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+42!
+!
+os órgãos gestores, as UTs geridas pelo INCRA apresentaram maior média, com 96% das
+famílias com renda proveniente da produção agroextrativista (Mapa 15).
+Figura 25. Porcentagem de famílias que trabalham em atividades de produção agroextrativista.
+Programa Bolsa Verde – Monitoramento Ano-base de 2014.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+43!
+!
+Mapa 15. Porcentagem média de famílias que trabalham em atividades de produção agroextrativista.
+Programa Bolsa Verde – Monitoramento Ano-base de 2014. No gráfico por Biomas, o hachurado azul
+escuro representa o Bioma Marinho Costeiro, não representado no mapa.
+Os principais produtos do agroextrativismo familiar nas UTs entrevistadas foram a
+mandioca, peixes e açaí (fruto), entre beneficiários e não beneficiários. Os entrevistados
+identificaram estes produtos como a principal fonte de renda quanto à atividade
+agroextrativista. Somente eles correspondem a cerca de 60% da diversidade dos produtos
+produzidos/extraídos nas unidades territoriais, tanto para famílias beneficiárias como para não
+beneficiárias (Mapa 32).
+A mandioca, em geral, é produzida em casas de farinha localizadas no quintal das famílias,
+usando instrumentos tradicionais de herança indígena, e deriva diversos produtos finais,
+como a farinha de mandioca, polvilho, tapioca, beiju, entre outros. Sua produção foi
+predominante na Amazônia e na Caatinga. Quanto ao açaí, ele predominou nas UTs
+localizadas na Amazônia, sua região de origem, e foi observado que muitas famílias passaram
+a extraí-lo – ou aumentaram a sua extração - nos últimos anos, devido ao aumento de
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+44!
+!
+demanda deste produto pela região Sudeste do país. No Cerrado, os principais alimentos
+produzidos foram o milho e feijão, enquanto que na Mata Atlântica mandioca, cacau e leite.
+Além dos produtos já citados acima, camarão, aves e arroz são outros três produtos que
+entram como secundários e terciários na produção agorextrativista das UTs (mapa 33), muitas
+vezes usados como fonte complementar de renda e/ou para o próprio consumo familiar. Os
+produtos secundários e terciários também não se diferenciaram entre famílias beneficiárias e
+não beneficiárias. É interessante destacar a baixa variedade de produção/extração das
+famílias nessas unidades territoriais: cerca de um terço das famílias beneficiárias e pouco
+mais da metade das não beneficiárias não produzem/extraem mais de um produto.
+Mapa 32. Principais produtos da atividade agroextrativista produzidos pelas famílias beneficiárias. -
+UTs, Órgãos Gestores e Biomas - Programa Bolsa Verde – Monitoramento Ano-base de 2014. No
+gráfico por Biomas, o hachurado azul escuro representa o Bioma Marinho Costeiro, não representado
+no mapa.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+45!
+!
+Mapa 33. Produtos secundários da atividade agroextrativista produzidos pelas famílias beneficiárias. -
+UTs, Órgãos Gestores e Biomas - Programa Bolsa Verde – Monitoramento Ano-base de 2014. No
+gráfico por Biomas, o hachurado azul escuro representa o Bioma Marinho Costeiro, não representado
+no mapa.
+Cada bioma tem seu conjunto de produtos principais que são vendidos e consumidos por
+essas famílias. Os produtos da atividade agroextrativista das UTs do bioma Marinho Costeiro
+são os que possuem maior valor agregado na comparação com outros biomas: cerca de
+R$7/kg (Mapa 34). Eles são em geral produtos da atividade pesqueira e extração de mariscos
+e crustáceos da região. Já os produtos plantados ou extraídos nos biomas Cerrado, Mata
+Atlântica e Amazônia são os que tiveram menores valores médios de comércio por quilo:
+R$3,27, R$3,25 e R$2,47, respectivamente. Nesses biomas, de forma geral, é preciso produzir
+maior quantidade para que se tenha renda semelhante à obtida em UTs do bioma Marinho
+Costeiro.
+Ao analisar os produtos de UTs de diferentes órgãos gestores, observa-se que, as famílias
+vivendo em UTs do ICMBio vendem seus produtos por cerca de R$4,60, em média, enquanto
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+46!
+!
+que as que vivem em UTs geridas pelo INCRA vendem por R$2,95 e pela SPU R$2,42. Os
+valores de comércio registrados refletem diretamente quais são os principais produtos
+vendidos naquela UT. Muitas das UTs geridas pelo ICMBio praticam a atividade pesqueira, ou
+seja, maior valor de comércio, enquanto UTs geridas pelo INCRA comercializam
+principalmente mandioca e açaí, e as geridas por SPU açaí (Mapa 32).
+Mapa 34. Valor em reais por quilo do produto principal da atividade agroextrativista produzidos pelas
+famílias beneficiárias. - UTs, Órgãos Gestores e Biomas - Programa Bolsa Verde – Monitoramento Ano-
+base de 2014. No gráfico por Biomas, o hachurado azul escuro representa o Bioma Marinho Costeiro,
+não representado no mapa.
+Ao produzir ou extrair tais produtos, as famílias beneficiárias em geral vendem uma parte e a
+outra parte é separada para consumo interno ou troca com os vizinhos (Mapa 35). As famílias
+que vivem em UTs da Amazônia, Bioma Marinho Costeiro e Mata Atlântica destinam mais da
+metade da sua produção principal ao comércio, o que corresponde a cerca de 54%, 59% e
+80% do total produzido, respectivamente. Tal quantidade contribui diretamente com a renda
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+47!
+!
+dessas famílias. Por outro lado, a maior parte da produção principal de famílias no Cerrado e
+na Caatinga são voltados para o consumo familiar, sendo somente 27% e 16% destinado ao
+comércio. Nas UTs destes biomas, a quantidade produzida é pequena, dependente de
+condições de solo e climáticas, e a prioridade é o consumo destinado à família. Quando há
+excedente, a produção é destinada ao comércio local.
+A maior diferença na quantidade média comercializada está mesmo na comparação entre
+biomas. Na análise por órgãos gestores, a quantidade média mensal destinada ao comércio
+pouco difere entre as UTs. Em UTs geridas pelo ICMBio, quase 56% da quantidade produzida
+é destinada ao comércio, seguida de 48% em UTs do INCRA e 47% em UTs da SPU.
+Mapa 35 - Quantidade média mensal comercializada dos produtos principais da atividade
+agroextrativista produzidos pelas famílias beneficiárias - UTs, Órgãos Gestores e Biomas - Programa
+Bolsa Verde – Monitoramento Ano-base de 2014. No gráfico por Biomas, o hachurado azul escuro
+representa o Bioma Marinho Costeiro, não representado no mapa.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+48!
+!
+Quanto ao número de familiares que participam das atividades produtivas, os resultados
+foram diferentes entre os grupos. As famílias beneficiárias tem mais familiares participando
+da produção (de 2 a 3), que as não beneficiárias (2). Segundo relatos durante as entrevistas,
+em geral o perfil de trabalho na atividade agroextrativista é a participação do marido e da
+esposa, com a ajuda de um filho mais velho, este quando se trata de famílias beneficiárias.
+A renda familiar per capita foi calculada como a razão entre o total dos rendimentos
+domiciliares (em termos nominais) e o total dos moradores. Nesse cálculo, são considerados
+todos os rendimentos e todos os moradores, inclusive os classificados como pensionistas,
+empregados domésticos e parentes dos empregados domésticos. Os rendimentos que
+compõem a renda bruta mensal são aqueles provenientes da produção agroextrativista e
+das chamadas “outras fontes”. Para a produção agroextrativista, a estimativa da renda foi
+calculada com base em quatro dados: i) número de meses de produção de cada produto, ii)
+quantidade mensal produzida no pior e melhor mês, iii) parcela da produção (em
+porcentagem) destinada para o consumo próprio e para o comércio, e iv) valor de
+comercialização em reais por unidade de medida (peso, volume, etc). Já a renda proveniente
+de “outras fontes” é composta por salários, proventos, pensões, benefícios de previdência
+pública ou privada, seguro desemprego, comissões, pró-labore, outros rendimentos do
+trabalho não assalariado, rendimentos do mercado informal ou autônomo. Além destes,
+incluem-se também os benefícios provenientes do PBV13 e do Programa Bolsa Família (Figura
+26).
+O resultado deste monitoramento identificou que as diferenças observadas na renda
+familiar per capita média das famílias beneficiárias do PBV e as não beneficiárias não são
+estatisticamente diferentes.
+Ao analisar o efeito dos Programas Bolsa Verde e Bolsa Família sobre a composição da renda
+familiar, foram calculadas a renda familiar per capita, porém agora sem a inclusão desses
+benefícios no cálculo. Neste caso, a renda familiar per capita média foi estatísticamente maior
+entre as famílias não beneficiárias do PBV, conforme a figura 23. Isso indica que, se os
+benefícios provenientes do PBV e do PBF fossem interrompidos neste momento para
+todas as famílias das unidades territoriais atendidas, as famílias que recebem hoje o
+benefício do PBV teriam, em média, renda familiar per capita menor que aquelas não
+atendidas pelo PBV. Sem os benefícios, essa renda familiar per capita média cairia para R$89
+reais/mês, ainda acima do limite para serem classificadas como extremamente pobres (até
+R$77 reais/per capita14). Atividades contínuas de assistência técnica e planejamento financeiro
+são necessárias para preparar essas famílias que hoje são integrantes do PBV, para um
+cenário sem o benefício.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!
+13 Para as famílias não beneficiárias, a renda proveniente do PBV é zero. A renda de PBF pode ser zero ou outro
+valor, caso a família possua este benefício.!
+14 Conforme classificação no Art 18 do Decreto Federal nº 8.232, de 30 de Abril de 2014
+!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+49!
+!
+Com relação à renda familiar per capita levando em consideração apenas a produção da
+família e outras fontes, elas diferem estatisticamente, no geral, entre beneficiários e não
+beneficiários. As famílias que não recebem o benefício possuem maior renda proveniente da
+produção que as que recebem. Em compensação, as famílias beneficiárias possuem renda
+mais alta vindo de outras fontes quando comparadas às não beneficiárias.
+Comparando os tipos de renda (produção, benefícios e outras fontes), a renda proveniente da
+produção agroextrativista é a mais baixa entre as fontes de renda para ambas as famílias.
+Para os beneficiários do PBV, a renda per capita proveniente dos benefícios é inclusive maior
+que a renda da própria produção agroextrativista, o que mostra o importante papel do
+benefício na composição de renda da família e o potencial de alavancagem da produção. A
+principal renda para as famílias, depois dos benefícios, é a proveniente de outras fontes
+(Figura 27).
+Mesmo com maior número de adolescentes e adultos, a família beneficiária apresenta baixa
+renda de produção. O recebimento do benefício parece incentivar a maior frequência escolar
+dos integrantes da família beneficiária e o acesso a educação e informação culmina com o
+tempo maior em formar novos núcleos familiares, mas também em dar prioridade a outras
+oportunidades além da produção na terra.
+Figura 26. Renda familiar per capita (RFPC) sobre o total incluindo BF e/ou BV, total sem incluir BF e/ou
+BV, outras fontes e produção, de famílias beneficiárias e não beneficiárias. Programa Bolsa Verde –
+Monitoramento Ano-base de 2014
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+50!
+!
+Figura 27. Renda familiar per capita (RFPC) sobre o total, outras fontes (excluindo BF e/ou BV),
+produção e dos benefícios PBV e PBF, de famílias beneficiárias e não beneficiárias. Programa Bolsa
+Verde – Monitoramento Ano-base de 2014
+Figura 28. Componentes da Renda familiar per capita (RFPC) sobre outras fontes (excluindo BF e/ou
+BV), produção e dos benefícios PBV e PBF, de famílias beneficiárias e não beneficiárias. Programa
+Bolsa Verde – Monitoramento Ano-base de 2014
+Esse resultado foi similar nas análises por bioma (Figura 29). A única exceção está nas
+unidades territoriais localizadas na Caatinga, onde a renda per capita sem os benefícios do
+PBV e PBF são estatisticamente semelhantes entre beneficiários e não beneficiários. Ou seja,
+sem os benefícios, as famílias localizadas ali terão em média a mesma renda familiar per
+capita, independente se ela é atendido pelo PBV ou não. As famílias que vivem em UTs da
+Caatinga, mas também as do Cerrado, Mata Atlântica e Marinho Costeiro não apresentaram
+diferenças na renda proveniente de outras fontes, entre beneficiários e não beneficiários.
+Somente na Amazônia houve esta diferença.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+51!
+!
+Figura 29. Renda familiar per capita sobre a produção, outras fontes, total sem incluir BF e/ou BV e total
+incluindo BF e/ou BV de famílias beneficiárias e não beneficiárias, por bioma. Programa Bolsa Verde –
+Monitoramento Ano-base de 2014
+As maiores rendas familiares per capita média são encontradas nos biomas Mata Atlântica e
+Marinho Costeiro, assim como a renda proveniente da produção agroextrativista,
+especialmente as de não beneficiárias. Um fator que pode indicar a diferença entre
+beneficiários e não beneficiários na renda proveniente da produção no Bioma Marinho
+Costeiro são as restrições ambientais quanto à pesca e captura de caranguejos. Respeitar os
+períodos do defeso significa também a necessidade de ter uma produção alternativa à
+extração marinha durante este período. Conhecendo os requisitos do PBV (Figura 56), foi
+observado durante as entrevistas que muitas famílias beneficiárias deixam de realizar essas
+atividades no defeso, mas não possuem fontes de produção alternativas para cobrir a
+extração marinha, muitas vezes por já receberem o seguro-defeso e não terem uma
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+52!
+!
+assistência técnica frequente (ver tópico 3.4). Tais relatos condizem com o resultado obtido
+de menor renda proveniente de produção quando comparadas às outras famílias.
+Já as menores rendas familiares de produção foram registradas nas UTs localizadas na
+Caatinga e no Cerrado (Mapa 36). Na Caatinga, o principal cultivo entre as famílias
+entrevistadas é a mandioca (Mapa 32). As condições pouco favoráveis de clima e solo na
+região limitam o plantio a somente um período do ano: o chuvoso, que dura 4 a 5 meses.
+Nessa região, a mandioca é afetada por diversos fatores abióticos (relacionados ao clima e
+solos), cujo principal é a deficiência de água, e bióticos (devido a doenças e pragas).
+15
+Diferentemente da Caatinga, em regiões como a Amazônia, é possível fazer o cultivo e
+colheita durante 2 ou mais períodos por ano.
+Mapa 36 – Contribuição da renda da produção à renda total das famílias beneficiárias, por Unidades
+Territoriais. Programa Bolsa Verde – Monitoramento Ano-base de 2014. No gráfico por Biomas, o
+hachurado azul escuro representa o Bioma Marinho Costeiro, não representado no mapa.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!
+15Alves!&!Silva!(2003).!Cultivo!da!Mandioca!para!a!Região!Semi<árida.!Embrapa.!Encontrado!em:!
+http://sistemasdeproducao.cnptia.embrapa.br/FontesHTML/Mandioca/mandioca_semiarido/clima.htm!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+53!
+!
+Como a Amazônia foi uma região prioritária na implantação do Programa Bolsa Verde e onde
+se localizam o maior número de UTs beneficiados, é natural esperar que nessas localidades o
+benefício do PBV tem maior influência na composição da renda das famílias. Entretanto,
+foram nas UTs do Cerrado e da Caatinga que os benefícios BV e BF demonstraram maior
+influência na renda, constituindo 50% e 43,3% da renda da renda familiar per capita,
+respectivamente, para as famílias entrevistadas. Somente o benefício do PBV compõe 25%
+da renda total de famílias beneficiárias na Caatinga e 18,64% no Cerrado (Mapa 37). Este
+resultado destaca a importância da entrada do benefício em UTs desses biomas como
+incremento de renda.
+Dada a sua influência na composição da renda das famílias, nos próximos monitoramentos
+será investigada também em que é gasta a renda proveniente do PBV, identificando em quais
+áreas o benefício tem feito maior diferença.
+Mapa 37 – Incremento de renda do PBV à renda total das famílias beneficiárias, por Unidades
+Territoriais. Programa Bolsa Verde – Monitoramento Ano-base de 2014. No gráfico por Biomas, o
+hachurado azul escuro representa o Bioma Marinho Costeiro, não representado no mapa.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+54!
+!
+Na comparação entre os órgãos gestores, os resultados se diferenciam entre as UTs geridas
+por cada órgão. As famílias que vivem nas UTs geridas pelo ICMBio, beneficiárias e não
+beneficiárias, apresentaram a maior renda familiar per capita. Nessas UTs, as famílias
+beneficiárias possuem renda per capita de benefícios e salários (outras fontes) equivalentes
+às de não beneficiárias, porém renda menor proveniente da produção. A renda per capita
+familiar mensal da produção das famílias beneficiárias é R$ 35,00 menor quando comparadas
+com as não beneficiárias. Mesmo com os benefícios do PBV e do PBF, as famílias
+beneficiárias do PBV tem renda inferior às beneficiárias. Com os benefícios, a diferença de
+renda per capita entre não beneficiárias e beneficiárias é de R$30 mensais em média entre
+elas. Sem BV e BF, essa diferença dobra, chegando a uma média de R$60,13 per capita.
+Em UTs geridas pelo INCRA, essa diferença existe, mas é menor. Nessas UTs, a diferença de
+renda entre não beneficiárias e beneficiárias sem BV e BF chega a uma média de R$29,24.
+Entretanto, ao incluir os benefícios do PBV e PBF no cálculo da renda familiar per capita, as
+famílias que vivem em UTs geridas pelo INCRA apresentam rendas estatisticamente
+semelhantes. Ou seja, para essas famílias, os benefícios recebidos funcionam como
+instrumentos de complementaridade de renda, os quais fazem igualar suas rendas com as de
+famílias não beneficiárias que vivem naquelas UTs. São nessas UTs que o benefício do PBV
+tem maior contribuição na composição da renda das famílias (Mapa 36).
+A exceção está em UTs geridas pela SPU. Nelas, as famílias beneficiárias possuem renda per
+capita semelhante às de não beneficiárias ao excluir os benefícios do PBV e PBF. Entretanto,
+ao incluir os benefícios ao cálculo, a renda de famílias beneficiárias é superior à renda total
+de famílias não beneficiárias do PBV. Ao contrário das famílias beneficiárias em UTs do
+ICMBio e INCRA, também foi observada renda da produção semelhante às de não
+beneficiários, e mais alta quando proveniente de outras fontes. Apesar da renda per capita de
+produção ainda ser baixa, este contraste com as UTs de outros órgãos gestores abre espaço
+para levantar a possibilidade do benefício do PBV estar contribuindo com o aumento de
+renda não somente com o valor do benefício em si, mas também com uma produção
+agroextrativista mais rentável em UTs da SPU. Este indicativo poderá ser melhor investigado
+ao longo dos próximos monitoramentos. Outra possibilidade é que exista um número alto de
+famílias não beneficiárias nessas UTs que tenham o perfil para receber o benefício do PBV
+(renda per capita mensal até R$70), mas que ainda não entraram no Programa.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+55!
+!
+Figura 28. Renda familiar per capita sobre a produção, outras fontes, total sem incluir BF e/ou BV e total
+incluindo BF e/ou BV de famílias beneficiárias e não beneficiárias, por órgão gestor. Programa Bolsa
+Verde – Monitoramento Ano-base de 2014.
+Os moradores das unidades territoriais atendidas pelo PBV podem ainda ser classificados em
+diferentes faixas de renda. Segundo as classes de renda estabelecidas pelo Programa Bolsa
+Família (PBF), é considerada em situação de extrema pobreza famílias que apresentem renda
+familiar mensal per capita de até R$77,00, e em situação de pobreza aquelas com renda
+familiar mensal per capita de até R$154,00. As famílias com renda familiar mensal per capita
+acima de R$154,00 compõe o que designamos de “outras classes” neste relatório e variaram
+em uma faixa entre R$155,00 a R$1576 por mês.
+Entre as famílias beneficiárias do PBV monitoradas neste trabalho, a maior parte (75%) está
+acima da extrema pobreza. Olhando para as três categorias do PBF, 41% das famílias
+beneficiárias encontram-se na categoria “em situação de pobreza”, seguida de 34% em
+“outras classes” e 25% “em situação de extrema pobreza”. Entre as que não recebem o
+benefício, há um maior número de famílias vivendo em extrema pobreza (38,6%), seguida de
+“outras classes” (34,3%) e “em situação de pobreza” (27,1%).
+Ou seja, de acordo com o cálculo da renda familiar per capita, a renda da maior parcela das
+famílias beneficiárias está condizente com os critérios do Programa (até R$77 reais, sem o
+benefício). E, quando comparadas com as porcentagens de famílias que não recebem o PBV,
+o benefício se mostra como importante auxílio para superar a extrema pobreza. Por outro
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+56!
+!
+lado, ainda há 25% das famílias que, mesmo com o benefício, não conseguiram superar a
+extrema pobreza.
+Figura 29. Porcentagem de famílias em cada classe de renda familiar per capita. Programa Bolsa Verde
+– Monitoramento Ano-base de 2014
+Ao comparar por biomas, os resultados seguem os discutidos acima para RFPC. As UTs
+atendidas pelo PBV que se localizam da Mata Atlântica são as que tem maior parte das
+famílias pertencendo a “outras classes”, ou seja, com renda familiar per capita mais alta. Em
+contraste, é nas UTs da Caatinga que está presente o maior número de famílias “em situação
+de extrema pobreza” (Figura 30). Tal resultado condiz com a renda per capita calculada pelo
+IBGE para as duas regiões do país onde esses biomas se encontram. A Mata Atlântica
+localiza-se principalmente no Sudeste e Sul do país, com faixas litorâneas no Nordeste (onde
+estão muitas capitais). Já a Caatinga abrange locais do interior do Nordeste, cujos municípios
+contam com um desenvolvimento econômico histórico menor que o do Sul e Sudeste do país
+e onde muitos agricultores familiares enfrentam seca e escassez de água, para a produção
+agrícola e pecuária. Durante as entrevistas, observou-se que a muitas das famílias
+entrevistadas na Caatinga produz somente para sustento próprio e/ou para venda e troca
+com os vizinhos da UT.
+A maior diferença entre quem recebe e quem não recebe o benefício foi encontrada nas UTs
+da Amazônia. No geral, as famílias beneficiárias do PBV estão em situação de pobreza
+enquanto que as que não recebem estão em extrema pobreza. Neste caso, como discutido
+anteriormente, essa diferença não é resultado diretamente do benefício do PBV (Mapa 36)
+nem mesmo de uma produção agroextrativista mais rentável (Figura 27), mas sim de outras
+fontes, como salários e outros benefícios.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+57!
+!
+Figura 30. Porcentagem de famílias em cada classe de renda familiar per capita por bioma. Programa
+Bolsa Verde – Monitoramento Ano-base de 2014
+Assim como UTs da Amazônia apresentaram a maior diferença entre as classes de renda de
+beneficiários e não beneficiários, foram nas UTs geridas por SPU em que foram observadas
+as maiores diferenças. Mais da metade dos não beneficiários são classificados como em
+extrema pobreza, em oposição a somente 23% dos beneficiários (Figura 31). 37% das
+beneficiárias foram classificadas como “outras classes”. As UTs geridas pelo ICMBio
+apresentaram o maior número de famílias em “outras classes”, ou seja, com renda familiar per
+capita maior que R$154, enquanto que as famílias pertencentes a UTs geridas pelo INCRA
+seguiram distribuição geral entre as classes de renda aqui apresentadas (Figura 31).
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+58!
+!
+Figura 31. Porcentagem de famílias em cada classe de renda familiar per capita por órgão gestor.
+Programa Bolsa Verde – Monitoramento Ano-base de 2014
+3.4 Infraestruturas de Produção e Organização Social
+Cerca de 60% dos entrevistados que trabalham com atividade agroextrativista afirmaram ter
+passado a utilizar novas técnicas e equipamentos após o benefício do PBV. A tendência foi a
+mesma em todos os órgãos gestores e bioma, sendo Amazônia o bioma com mais utilizações
+de novos instrumentos (65%) e Mata Atlântica, o menor (46%). Dessa forma, percebe-se que,
+para mais da metade dos entrevistados, o benefício não é visto somente como um
+incremento de renda para compra de bens de consumo gerais, mas também um meio de
+aprimorar a produção através da compra de novos instrumentos ou renovação dos antigos.
+Dado este resultado, nos próximos monitoramentos serão identificadas quais novas técnicas
+estão sendo internalizadas e quais equipamentos adquiridos após o benefício do PBV.
+Os instrumentos mais utilizados para a produção agroextrativista pelas famílias das unidades
+territoriais do PBV são simples e de uso manual, intimamente relacionados aos produtos
+principais produzidos. São eles: enxada, peconha (para açaí), facão terçado e rede de pesca
+(malhadeira), para ambas as famílias (Figura 33). A enxada foi a mais citada entre as famílias
+beneficiárias do PBV que vivem na Mata Atlântica, Cerrado e Caatinga; a rede de pesca entre
+as UTs do bioma Marinho Costeiro, e a peconha (para açaí) entre as que vivem na Amazônia
+(Mapa 38). Outros instrumentos mais citados como secundários e terciários foram foice, forno
+(para produção de farinha de mandioca) e matapi (para pesca de peixe e camarão).
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+59!
+!
+21%
+33%
+17%
+4%
+5%
+7%
+6%
+7%
+Enxada
+Rede!Malhadeira
+Peconha
+Facão!Terçado
+Motor
+Forno
+Matapi
+Outros
+Figura 33. Principais instrumentos mais usados pelas famílias beneficiárias e não beneficiárias.
+Programa Bolsa Verde – Monitoramento Ano-base de 2014
+Mapa 38 – Principais equipamentos utilizados na produção agroextrativista pelas famílias beneficiárias,
+por Unidades Territoriais. Programa Bolsa Verde – Monitoramento Ano-base de 2014.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+60!
+!
+As famílias que vivem nas unidades territoriais contempladas pelo PBV usam a sua
+propriedade de terra para produção/extração, assim como áreas naturais ao redor como
+mangue, rio, lago, praia, mar, várzea entre outros (Mapa 39). Para aqueles que usam a terra, o
+tamanho médio informado das áreas de produção entre famílias beneficiárias e não
+beneficiárias é semelhante, ou seja, 1,22ha para as famílias beneficiárias e 1,20ha para as
+famílias não beneficiárias, sendo que a maior parte dos valores se concentram perto de 1,0 ha
+(moda = 1,0 ha), ou 10 mil m²
+, para ambas. Tais propriedades são menores que um módulo
+fiscal (que varia de 5 a a 110 hectares, conforme o município) e são classificadas portanto
+como minifúndios16
+.
+Ao contrário do que se podia esperar, entre as famílias beneficiárias as maiores propriedades
+de terra usadas para produção não se encontram na região Amazônica, onde estão os
+maiores tamanhos médios de módulos fiscais17
+, mas sim na Mata Atlântica (Mapa 40). Neste
+mesmo bioma estão a maior quantidade média destinada ao comércio (Mapa 35) e a maior
+renda proveniente da produção (Mapa 36), o que demonstra uma estreita relação entre essas
+três variáveis.
+Após o bioma Mata Atlântica, as UTs localizadas na Caatinga e Cerrado seguem com os
+maiores valores de área média para a produção, especialmente em UTs geridas pelo INCRA.
+As famílias que vivem no bioma Marinho Costeiro apresentaram as menores áreas destinadas
+à produção, o que pode ser consequência de muitas famílias terem como principal atividade a
+pesca em áreas comuns (rios e mar). É neste bioma também que são encontrados os maiores
+valores obtidos por quilo de produto vendido (Mapa 34), o que compensa o tamanho menor
+da área.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!
+16 Lei 8.629, de 25 de fevereiro de 1993
+17
+!Embrapa!2012.!Variação!Geográfica!do!Tamanho!dos!Módulos!Fiscais!no!Brasil.!Documento!146.!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+61!
+!
+Mapa 39 – Áreas naturais utilizadas para a produção agroextrativista pelas famílias beneficiárias, por
+Unidades Territoriais. Programa Bolsa Verde – Monitoramento Ano-base de 2014. No gráfico por
+Biomas, o hachurado azul escuro representa o Bioma Marinho Costeiro, não representado no mapa.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+62!
+!
+Mapa 40 – Área média usada para a produção agroextrativista pelas famílias beneficiárias, por
+Unidades Territoriais. Programa Bolsa Verde – Monitoramento Ano-base de 2014. No gráfico por
+Biomas, o hachurado azul escuro representa o Bioma Marinho Costeiro, não representado no mapa.
+Nem todas as famílias moram ao lado ou dentro do próprio local destinado à produção
+agroextrativista. Os dados indicam que as famílias que vivem em UTs localizadas no bioma
+Marinho Costeiro e geridas pelo ICMBio são as que percorrem maior distância para chegar às
+suas áreas de produção/extração (Mapa 41). Nesse bioma, muitas famílias praticam a atividade
+pesqueira em alto mar, percorrendo longas distâncias até chegar a sua área de pesca.
+Ao comparar a distância percorrida entre as famílias beneficiárias e não beneficiárias,
+observa-se que as beneficiárias percorrem menor distância da sua residência a área de
+produção (cerca de 800m), do que as não beneficiárias, que percorrem 1 km. Como a
+distância variou bastante a cada caso, em vez da média também usamos a moda para chegar
+a estes valores, que é a medida da tendência central que consiste no valor observado com
+mais frequência em um conjunto de dados.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+63!
+!
+Tais informações indicam que o perfil das famílias que produzem nas unidades territoriais
+beneficiárias do PBV são de pequenos agricultores, muitas vezes familiares, cuja área de
+produção fica razoavelmente próxima do local onde mora.
+Mapa 41 – Distância média entre a residência e a área usada para a produção agroextrativista pelas
+famílias beneficiárias, por Unidades Territoriais. Programa Bolsa Verde – Monitoramento Ano-base de
+2014. No gráfico por Biomas, o hachurado azul escuro representa o Bioma Marinho Costeiro, não
+representado no mapa.
+Com relação a organização social, 86% das famílias beneficiárias e 83% das famílias não
+beneficiárias integram algum tipo de organização social (associações comunitárias, colônias
+de pescadores, cooperativas, sindicatos entre outros). Entre os beneficiários, essa
+participação foi mais comum na Caatinga (96%), mas também com alta aderência no Cerrado
+(91%), Mata Atlântica (86%), Amazônia (82%) e no Bioma Marinho Costeiro (73%), conforme
+Mapa 42.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+64!
+!
+Nas UTs do INCRA está a maior participação nessas organizações: 85% dos entrevistados
+declararam estar ligados a alguma delas. Nessas, as que se localizam na Caatinga ainda
+contam com a maior frequência de famílias participando de reuniões durante o ano (média de
+10 reuniões por ano – Mapa 42), e em diversos casos observados em campo, uma forte
+participação feminina. Nestas UTs, é comum ainda as associações organizarem intercâmbios
+de experiência e de tecnologias sociais de baixo custo entre UTs próximas que enfrentam
+desafios agrícolas semelhantes, entre eles escassez de água e solos pobres. Muitas dessas
+associações contam com assistência técnica presente, promovida pelo Movimento dos
+Trabalhadores Rurais Sem Terra, que também apóiam a organização desses intercâmbios.
+Comparando a frequência anual em reuniões de organizações sociais das famílias
+beneficiárias com as que não recebem, a média obtida é de 5 participações por ano para
+beneficiários e 4 para não beneficiários.
+Mapa 42 – Participação em organizações sociais pelas famílias beneficiárias, por Unidades Territoriais.
+Programa Bolsa Verde – Monitoramento Ano-base de 2014. No gráfico por Biomas, o hachurado azul
+escuro representa o Bioma Marinho Costeiro, não representado no mapa.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+65!
+!
+Apesar de ser alta a frequência de famílias participando de organizações sociais, menos de
+3% do total de famílias (2,8% beneficiários e 1,7% não beneficiários) realizam o escoamento da
+produção através de cooperativas, colônias ou associações (Figura 33). O comércio via
+intermediários é predominante (45% para intermediários), seguido pela venda direta. Em UTs
+geridas por SPU, a situação é ainda mais singular: não foi registrado nenhuma família
+vendendo via organizações comunitárias (Mapa 43). Nas UTs na Caatinga, o escoamento via
+cooperativas e associações foi um pouco mais visível, mas ainda assim abaixo do que se
+espera, uma vez que tais associações estão bem presentes em UTs desse bioma, como
+discutido anteriormente.
+O que foi observado durante as entrevistas é que a motivação principal dessas famílias em se
+associar a alguma organização local não é a possibilidade de comércio conjunto e melhoria
+das condições de produção, escoamento e agregação de renda, mas sim a garantia individual
+de benefícios como aposentadoria, auxílio-doença, seguro-defeso, entre outros.
+Figura 33 - Principais formas de escoamento da produção pelas famílias beneficiárias e não
+beneficiárias. Programa Bolsa Verde – Monitoramento Ano-base de 2014.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+66!
+!
+Mapa 43 – Formas de escoamento da produção pelas famílias beneficiárias, por Unidades Territoriais.
+Programa Bolsa Verde – Monitoramento Ano-base de 2014.
+A dependência de intermediários demonstra que ainda é necessário atuar na capacitação e
+organização da produção junto às famílias beneficiárias, além de incentivar ao associativismo.
+Apenas 20% dos entrevistados responsáveis por famílias beneficiárias participaram de
+alguma atividade de capacitação para produção no último ano e 14% dos responsáveis por
+famílias não beneficiárias. A situação é ainda mais crítica entre os beneficiários vivendo em
+UTs da SPU e/ou localizadas na Amazônia, as quais apresentaram as menores taxas de
+participação em cursos, enquanto que as do INCRA e/ou localizadas na Caatinga se
+mostraram mais interessados e com acesso a capacitação (Mapa 44).
+A capacitação e a organização social podem levar a venda sem intermédio de outras
+pessoas, o que agregará valor ao produto destas famílias, as quais poderão investir nas
+condições de produção e comercialização de seus produtos. Dessa forma, é possível que a
+renda proveniente da produção aumente e isso traga elevação da renda e da melhoria da
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+67!
+!
+qualidade de vida, de modo que não necessitem mais de auxílios governamentais ao longo
+do tempo.
+Mapa 44 – Participação em atividades de capacitação pelas famílias beneficiárias, por Unidades
+Territoriais. Programa Bolsa Verde – Monitoramento Ano-base de 2014. No gráfico por Biomas, o
+hachurado azul escuro representa o Bioma Marinho Costeiro, não representado no mapa.
+3.5 Conservação Ambiental
+Essa seção abrange três temas que estão direta ou indiretamente relacionados à gestão das
+unidades territoriais em que vivem famílias atendidas pelo PBV no país. São eles:
+infraestrutura e acesso a serviços básicos; comunicação do órgão gestor com as famílias; e
+ameaças a conservação ambiental.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+68!
+!
+Infraestrutura e acesso a serviços básicos
+A melhoria da qualidade de vida das famílias que vivem nas UTs atendidas pelo PBV
+perpassa a renda familiar e alcança desafios comunitários, como a infraestrutura básica e
+acesso a serviços de abastecimento de água, esgotamento sanitário, coleta de resíduos
+sólidos e fornecimento de energia elétrica nos domicílios.
+Apenas 8% das famílias que vivem em UTs beneficiadas pelo PBV são atendidas por rede
+pública de abastecimento de água (Figura 34). Este número é alarmante quando comparado
+ao panorama nacional18
+, em que mais de 85% dos domicílios tem água encanada. Ao olhar
+somente para as áreas rurais do país, os domicílios ligados a rede correspondem somente a
+33,2%, ainda assim muito acima do registrado nos domicílios das famílias deste
+monitoramento.
+Em vez de água encanada, a maior parte das famílias (entre 36% e 40%) nestas UTs
+abastecem seu domicílio com água diretamente captada dos cursos d’água, como rios, lagos
+e igarapés, sem acesso a um tratamento adequado para torná-la potável. Se o cenário fosse
+diferente, com acesso a água potável e condições mínimas de higiene, inúmeras doenças
+poderiam ser evitadas, dispensando o tratamento e todos os custos advindos dele.
+Os domicílios abastecidos por sistemas comunitários ocupam o segundo lugar, com 17%.
+Esses sistemas consistem em adaptações locais para distribuição a partir de uma fonte
+comum, e não são ligados à rede geral de abastecimento do município. Nestes
+microssistemas comunitários, os usuários pagam uma taxa fixa para uso da água, em geral
+menor que a taxa cobrada pela rede do município.
+A terceira forma mais comum de abastecimento de água nas comunidades é a captação em
+poços localizados na própria propriedade, presente em 16% dos domicílios. Caminhão pipa,
+cisterna e coleta de chuva, são as fontes de água de 5% dos domicílios, especialmente
+naqueles localizados em regiões mais secas. Nascentes e outras formas apresentam
+porcentagem abaixo de 3% em relação às demais formas de abastecimento.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!
+18
+!Pesquisa Nacional por Amostra de Domicílios (Pnad) – IBGE 2013.!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+69!
+!
+Figura 34. Porcentagem média de formas de abastecimento de água nos domicílios. Programa Bolsa
+Verde – Monitoramento Ano-base de 2014.
+O consumo de água direto do rio é também a forma mais comum no bioma Amazônia (Mapa
+45). Ela está presente em aproximadamente 60% dos domicílios das famílias beneficiária e
+não beneficiárias, ou seja, em duas vezes mais domicílios que outros biomas (Figura 36). Na
+Amazônia, a proximidade das moradias aos rios, açudes e igarapés contribui para que o
+abastecimento direto dessas fontes seja uma alternativa frequente à ausência da rede pública
+de abastecimento. Essa também foi a principal alternativa em UTs geridas pela SPU, seguida
+pelas UTs do INCRA e ICMBio.
+O abastecimento por microssistema comunitário é a alternativa mais comum em UTs
+localizadas na Caatinga, no bioma Marinho Costeiro e/ou geridas pelo ICMBio. Na Caatinga,
+aproximadamente 40% dos domicílios das famílias são abastecidos pelo microssistema,
+enquanto que no bioma Marinho Costeiro assim como em UTs do ICMBio esse sistema está
+presente em cerca de 30% dos domicílios.
+Dentre todas as UTs, as que apresentam as maiores taxas de domicílios atendidos pela rede
+geral de abastecimento de água são as no bioma Marinho Costeiro e/ou geridas pelo ICMBio:
+cerca de 25% e 15%, respectivamente.
+Como esperado, as UTs que se localizam em regiões mais secas, como o Cerrado e a
+Caatinga, apresentam maior número de famílias que tem o caminhão-pipa, cisterna e coleta
+de água de chuva como principal alternativa. No Cerrado é comum também a forma de
+abastecimento de água por poços na propriedade ou comunitários, presente também em UTs
+localizadas na Mata Atlântica. Neste bioma, vale ainda destacar o abastecimento por
+nascentes, dados os remanescentes naturais muitas vezes em altitude, que facilita a
+captação.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+70!
+!
+Mapa 45 - Formas de abastecimento de água nos domicílios das famílias beneficiárias, por Unidades
+Territoriais. Programa Bolsa Verde – Monitoramento Ano-base de 2014.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+71!
+!
+Figura 35. Porcentagem média de formas de abastecimento de água por biomas. Programa Bolsa
+Verde – Monitoramento Ano-base de 2014.
+Outra carência identificada nesses domicílios é a de saneamento básico e destinação
+adequada de esgotamento sanitário. Percebe-se que a condição de saneamento nas
+unidades territoriais do PBV, apesar de básica e prioritária, tem sido negligenciada muitas
+vezes por seus municípios e estados. Cerca de 75% dos domícilios não possuem destinação
+adequada de esgotamento sanitário, uma vez que os dejetos são lançados direto no rio, em
+vala a céu aberto ou fossa rudimentar, ou seja, não possuem tratamento algum (Figura 37). A
+falta de esgotamento sanitário não é só um problema ambiental, mas também de saúde. Um
+exemplo é que em algumas regiões da Amazônia, na época de cheia dos rios, estes dejetos
+sem destino adequado são levados para os rios, contaminando a própria água que é
+consumida, sem tratamento. Este cenário contribui direta e indiretamente para o surgimento
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+72!
+!
+de doenças de transmissão hídrica, parasitoses intestinais e diarreias, as quais são
+responsáveis por elevar a taxa de mortalidade infantil.
+No geral, apenas 15% dos domicílios possuem destino adequado para o esgotamento
+sanitário (fossa séptica e rede geral); outros 10% possuem outras formas (como por exemplo,
+direto no solo, mas não especificado). Como no abastecimento de água, a taxa de 15% é bem
+abaixo da porcentagem nacional19 de 64,3% de domicílios com coleta de esgoto e fossa
+séptica no país. Ao comparar essa taxa com a porcentagem de esgotamento sanitário em
+áreas rurais20, ela se torna mais próxima, mas ainda assim corresponde a metade da média
+nacional, na qual 33,5% dos domicílios estão ligados à rede de coleta de esgotos (5,2%) ou
+utilizam a fossa séptica (28,3%) como solução para o tratamento dos dejetos.
+Figura 36. Formas de Esgotamento sanitário - Porcentagem domicílios - Programa Bolsa Verde –
+Monitoramento Ano-base de 2014.
+Para todos os biomas, nos domicilíos amostrados tanto para as famílias beneficiárias quanto
+para as famílias não beneficiárias a principal forma de esgotamento sanitário é a fossa
+rudimentar. Merece destaque o bioma da Mata Atlântica com mais de 75% dos domicilios com
+esgotamento sanitário através desse tipo de fossa, tanto para as famílias que recebem PBV,
+quanto para aqueles que não recebem (Figura 39). Essa forma de esgotamento também teve
+altas porcentagens em domicílios em UTs geridas pelo INCRA, ou seja, 69% e 68% dos
+domicílios das famílias beneficiárias e famílias não beneficiárias, respectivamente. Em
+contraste, as UTs no bioma Caatinga apresentam maior número de domicílios com fossas
+sépticas do que rudimentares, o que indica uma melhor infraestrutura neste quesito. Entre os
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!
+19
+!Pesquisa Nacional por Amostra de Domicílios (Pnad) – IBGE 2013.!
+20
+!Pesquisa Nacional por Amostra de Domicílios (Pnad) – IBGE 2012.!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+73!
+!
+órgãos gestores, as UTs do ICMBio apresentam o maior número de domicílios com fossas
+sépticas, ou seja, cerca de 20%.
+A situação é ainda mais crítica nas unidades territorias geridas pela SPU. Nestas, a principal
+forma de esgotamento sanitário está relacionada a uma “outra forma”, que corresponde a
+uma alternativa além das formas aqui apresentadas, como por exemplo direto no solo ou na
+floresta. A segunda forma mais citada em UTs geridas por SPU foi esgotamento em vala a céu
+aberto, o que indica grande precariedade de infraestrutura básica quando comparadas a UTs
+de outros órgãos gestores.
+Se quisermos reverter este quadro, as ações de saneamento em áreas rurais destes
+municípios são fundamentais e urgentes. Com elas, pode-se promover ainda a inclusão social
+de famílias de baixa renda, mediante a implantação integrada com outras políticas públicas
+setoriais, tais como saúde, habitação e meio ambiente.
+Mapa 46 - Formas de esgotamento sanitário nos domicílios das famílias beneficiárias, por Unidades
+Territoriais. Programa Bolsa Verde – Monitoramento Ano-base de 2014.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+74!
+!
+O terceiro serviço básico analisado foi a coleta de lixo nos domicílios em UTs atendidas pelo
+PBV. O resultado foi que mais de 80% dos domícilios possuem destinação inadequada dos
+resíduos sólidos (queimado ou enterrado na propriedade ou jogado em terreno baldio). As
+famílias costumam enterrar os resíduos orgânicos e queimar os inorgânicos; prática que ajuda
+a não espalhar o lixo pela comunidade, mas que pode provocar incêndios na vegetação
+nativa, além de poluição atmosférica.
+Apenas 17% dos domicílios possuem alguma forma de coleta dos resíduos nas unidades
+abrangidas pelo Programa Bolsa Verde (Figura 40). Este número é bem diferente dos 85%
+dos domicilíos brasileiros apresentam coleta direta, segundo o Censo 2010.
+Figura 40. Formas de Destinação de Resíduos Sólidos - Porcentagem domicílios. Programa Bolsa Verde
+– Monitoramento Ano-base de 2014.
+Queimar ou enterrar o lixo foi a opção mais citada em todos os biomas e órgãos gestores.
+Entre os órgãos gestores, destacam-se as UTs controladas pela SPU, onde cerca de 90% das
+famílias beneficiárias e famílias não beneficiárias declararam que os resíduos sólidos são
+queimados (inorgânicos) e enterrados (orgânicos) na propriedade nos domicílios. Para os
+domicílios controlados pelo INCRA este dado está em torno de 85%, enquanto que para
+ICMBio este valor diminui para 70%, onde mais de 20% afirmaram ter coleta direta por
+caminhão de lixo.
+Entre os biomas, destacam-se as UTs localizadas na Amazônia, onde 91% das famílias
+beneficiárias e famílias não beneficiárias declararam que os resíduos sólidos são queimados
+(inorgânicos) e enterrados (orgânicos) na propriedade nos domicílios. Por outro lado, as UTs
+onde estão as maiores taxas de coleta direta de resíduos estão no bioma Marinho e Costeiro
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+75!
+!
+e na Mata Atlântica com cerca de 41% e 36% respectivamente, tanto para as famílias PBV
+quanto para as famílias não beneficiárias. Apesar da maior frequência registrada de coleta
+direta no bioma Marinho Costeiro, as famílias citaram a disposição inadequada dos resíduos
+sólidos como a segunda maior ameaça ambiental para as UTs (Figura 47). Os resíduos
+dispostos de forma inadequada ficam não apenas nos terrenos baldios e periferias dos
+centros urbanos, mas também alcançam e poluem os cursos d’ água próximos,
+comprometendo a qualidade da água.
+Sabendo da importância da disposição adequada de resíduos sólidos para o meio ambiente e
+para a saúde, políticas públicas de infraestrutura de saneamento e ações de educação
+ambiental tornam-se necessárias para a proteção dos serviços ecossistêmicos (ex: água,
+pesca), melhoria da qualidade de vida da população e desenvolvimento sustentável da
+região.
+Mapa 47 - Formas de destinação de resíduos sólidos nos domicílios das famílias beneficiárias, por
+Unidades Territoriais. Programa Bolsa Verde – Monitoramento Ano-base de 2014.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+76!
+!
+!
+Entre os serviços básicos analisados, aquele que tem mais alcançado e promovido o acesso
+dessas comunidades é o de fornecimento de energia elétrica. Cerca de 57% dos domicílios
+possuem energia elétrica fornecida pela rede geral por companhia distribuidora e mais de
+25% necessitam de geradores (em geral comunitários). Para as famílias beneficiárias apenas
+8,64% não possuem qualquer forma de abastecimento de energia elétrica, já para as famílias
+não beneficiárias esse número é um pouco maior: cerca de 11%, ou seja, uma em cada 100
+famílias vive sem acesso à energia elétrica nas UTs atendidas pelo PBV (Figura 43).
+Ainda assim, ambos os valores de domicílios recebendo energia elétrica (beneficiárias e não
+beneficiárias) estão abaixo da média nacional, em que 98% dos domicílios brasileiros
+possuem energia elétrica, conforme os últimos dados do IBGE, em 2010.
+!
+Figura 43. Formas de Abastecimento de Energia Elétrica - Porcentagem domicílios. Programa Bolsa
+Verde – Monitoramento Ano-base de 2014.
+A situação é mais preocupante em UTs da Amazônia e/ou geridas pela SPU (Mapa 48).
+Nessas UTs, apenas 30% das famílias tem acesso a rede geral de energia elétrica. A principal
+forma de abastecimento é por gerador, que é usado por cerca de metade das famílias, entre
+beneficiárias e não beneficiárias. O gerador é movido a diesel e isso torna o custo da energia
+bem mais elevado em relação ao custo da fornecida pela rede geral. Uma consequência
+desse alto custo é que a família reduz o tempo de uso da energia em seus domicílios a um
+período do dia.
+Nas áreas ribeirinhas controladas pela SPU, está ainda a maior porcentagem de famílias
+vivendo sem energia elétrica, cerca de 20%. Muitas dessas em razão do alto custo de investir
+e manter um gerador, de acordo com observações em campo. Apesar do crescimento do
+Programa do Governo Federal ‘Luz Para Todos’ alcançando novas áreas e beneficiando
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+77!
+!
+domicílios rurais remotos, observa-se que muitas famílias ribeirinhas na Amazônia ainda não
+são contempladas com este Programa.
+Nos outros biomas, a energia elétrica por rede geral é a principal forma de abastecimento
+tanto para as famílias beneficiárias quanto para as famílias não beneficiárias (acima de 90%).
+O mesmo acontece para as UTs dos órgãos gestores ICMBio e INCRA, onde mais de 50% das
+famílias beneficiárias e famílias não beneficiárias apresentam abastecimento por rede geral
+em seus domicilíos.
+Mapa 48 - Formas de abastecimento de energia elétrica nos domicílios das famílias beneficiárias, por
+Unidades Territoriais. Programa Bolsa Verde – Monitoramento Ano-base de 2014.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+78!
+!
+Comunicação do órgão gestor com as famílias
+O Termo de adesão ao Programa Bolsa Verde prevê compromissos das famílias com a
+conservação ambiental e uso sustentável dos recursos naturais. As atividades de
+conservação a serem desenvolvidas por elas deverão atender ao previsto nos instrumentos
+de gestão das Unidades de Conservação ou dos Projetos de Assentamentos órgãos gestores
+tem a responsabilidade de comunicar a comunidade.
+Para que essas atividades sejam desenvolvidas, espera-se que as famílias conheçam os
+instrumentos que vigoram na sua UT e recebam orientações periódicas sobre eles pelo órgão
+gestor responsável. Como discutido anteriormente, a aplicação desses instrumentos fortalece
+a gestão das áreas e compatibiliza a conservação da biodiversidade com o uso da terra e
+seus recursos.
+Nas UTs atendidas pelo PBV, mais da metade das famílias declararam conhecer o
+instrumento de gestão vigente, sendo 58% famílias beneficiárias e 51% famílias não
+beneficiárias (Figura 44). Apesar disso, somente cerca de 40% das famílias beneficiárias e não
+beneficiárias declararam ter recebido orientação sobre tais instrumentos no último ano. Nas
+UTs geridas pela SPU a informação sobre instrumentos de gestão é ainda mais rara: somente
+um quarto das famílias declararam ter recebido orientação no último ano (Figura 45). Nas UTs
+do INCRA foram cerca de 35% recebendo informação e nas do ICMBio 52%, ou seja, o maior
+número de famílias entre os órgãos gestores. No caso do INCRA e ICMBio, houve diferença
+ainda entre famílias beneficiárias e não beneficiárias, sendo as primeiras as que mais tem
+acesso e recebem a informação do órgão gestor, o que condiz com o compromisso do PBV.
+Investir em uma comunicação efetiva dos instrumentos de gestão para a comunidade é o
+primeiro passo para que as famílias entendam as restrições a que elas estão sujeitas e
+participem de atividades para a conservação de suas UTs.
+Figura 44. Conhecimento do instrumento de gestão e se recebeu orientação sobre o instrumento no
+último ano - Porcentagem famílias. Programa Bolsa Verde – Monitoramento Ano-base de 2014.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+79!
+!
+Figura 45. Recebimento de orientação sobre instrumento de gestão no último ano - Porcentagem
+famílias. Programa Bolsa Verde – Monitoramento Ano-base de 2014.
+Foi pedido que os entrevistados citassem exemplos de restrições impostas pelo instrumento
+de gestão. As restrições mais citadas foram desmatamento, pesca no período de defeso e
+queimadas (Figura 46). As citações sobre desmatamento, lixo e pesca foram mais presentes
+nas UTs do ICMBio e SPU, enquanto que nas UTs do INCRA, as principais foram o
+desmatamento, queimadas e criação de animais. Há uma evidente preocupação também com
+a questão da propriedade da terra e muitas citações envolvem a restrição à venda da
+propriedade ou do não uso agroextrativista da mesma. Porém, vale destacar que 48% de
+todos os entrevistados não souberam informar nenhuma restrição, sendo 26% de
+beneficiários e 21% de não beneficiários.
+Figura 46. Restrições mais citadas quanto ao uso da UT - Programa Bolsa Verde – Monitoramento Ano-
+base de 2014.
+Além das restrições do instrumento de gestão, é importante que as famílias beneficiárias
+tenham conhecimento das atividades de conservação que estão acontecendo nas unidades
+territoriais em que elas vivem, lideradas pelo órgão gestor. Cerca de 57% das famílias
+beneficiárias e 50% das famílias não beneficiárias possuem conhecimento sobre as atividades
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+80!
+!
+do órgão gestor, ou seja, há mais famílias beneficiárias informadas sobre tais atividades que
+não beneficiárias, mas ainda assim o número é baixo, pouco mais da metade das famílias no
+total.
+Como na seção anterior, as UTs do ICMBio são as que tem mais famílias conscientes (62%)
+das atividades de conservação realizadas pelo órgão gestor, seguida das UTs do INCRA
+(50%) e, por último, das da SPU (30%) (Figura 47). Novamente, é preciso que as famílias
+beneficiárias sejam comunicadas das atividades de conservação na UT para que elas possam
+identificar onde podem contribuir.
+Figura 47. Conhecimento das atividades para a conservação pelo órgão gestor - Porcentagem famílias.
+Programa Bolsa Verde – Monitoramento Ano-base de 2014.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+81!
+!
+Ameaças à conservação ambiental
+Um dos objetivos do PBV é incentivar a conservação dos ecossistemas, entendida como sua
+manutenção e uso sustentável21. Se as famílias souberem identificar quais são as situações
+que ameaçam os ecossistemas onde elas vivem, poderão então agir em prol da sua
+conservação, de forma consciente, e não mandatária.
+Nas UTs atendidas pelo PBV, as famílias identificam o desmatamento como a principal
+ameaça, e em segundo lugar relatam que não existe nenhuma ameaça (Figura 47). As
+ameaças “lixo” e “incêndios” aparecem em terceiro e quarto lugar, para ambas as famílias.
+O fato da opção “não existe ameaça” ter sido a segunda opção mais citada pelas pessoas
+indica que as famílias ainda não estão aptas a identificarem as situações que pressionam os
+ecossistemas nas UTs onde vivem. Essa opção também pode ter sido citada pelo receio do
+entrevistado em perder (ou pela possibilidade de ganhar) o benefício do Programa Bolsa
+Verde.
+30
+25
+Beneficiárias
+Não Beneficiárias
+20
+%
+15
+10
+5
+0
+Desmatamento Não Existe Lixo Incêndios Extração Ilegal
+Esgoto Criação de
+animais
+de madeira de
+grande porte
+Outros
+Figura 47. Ameaças à Conservação na UT - Porcentagem famílias. Programa Bolsa Verde –
+Monitoramento Ano-base de 2014
+A principal ameaça para conservação ambiental nas unidades territoriais no bioma Amazônia
+segundo os entrevistados beneficiários é o desmatamento (27%). Para as famílias não
+beneficiárias não existe ameaça a conservação (29%). O lixo também é um desafio neste
+bioma, sendo a terceira maior ameaça (18%). Há ainda outros tipos de ameaças identificados
+pelas famílias na Amazônia, que ocorrem em pequena escala, como a extração inadequada
+de madeira, esgoto e criação de animais de forma inapropriada.
+Na Caatinga, a maioria dos entrevistados não identificou ameaças à conservação do bioma
+(37%). Uma parcela significativa das familias beneficiárias relataram que a criação de animais e
+desmatamento são o segundo e terceiro fator que mais ameaçam (22% e 16%,
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!
+21
+!Decreto!nº!7.572!,!de!28!de!setembro!de!2011!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+82!
+!
+respectivamente). Para as famílias não beneficiárias, o segundo e terceiro fator que mais
+ameaçam foram: lixo e incêndio (33% e 17% respectivamente). Ainda falta, porém, uma maior
+consciência de que a queda na disponibilidade de água nesses locais nos últimos anos, muito
+citada nas entrevistas, se relaciona com fatores antrópicos como a retirada de vegetação
+nativa em Áreas de Preservação Permanente (APPs), como nascentes e beiras de rio, e uso
+indiscriminado de poços e de desvio de rios para a atividade agrícola, e não somente à
+escassez de chuvas, e por isso não há ameaça. Além da água, esse bioma típico e único do
+Brasil conta com fauna e flora rica em endemismo e deve ser preservada de possíveis
+ameaças, com a consciência de sua população.
+No Cerrado a principal ameaça para conservação ambiental segundo os beneficiários é o
+incêndio, com 35% das citações. Os incêndios no Cerrado ocorrem principalmente no
+período seco, em função das condições climáticas (tempo seco, calor, ventos, entre outros).
+Devido a escassez de chuvas nesse período, é esperado que os incêndios sejam motivo de
+preocupação nessas UTs, uma vez que eles se espalham pelos ambientes naturais e podem
+atingir as suas casas e produções agrícolas. Segundo relatos em campo, grande parte destas
+queimadas é devido a prática agropecuária e também por tocos de cigarro jogada na mata. Já
+para as famílias não beneficiárias a principal ameaça é o desmatamento, com 35%,
+possivelmente em razão do avanço da agricultura. Com tecnologias e incentivos, o “milagre
+do cerrado”22 se tornou realidade e foi onde houve o maior aumento de quantidade de terras
+cultiváveis nos últimos anos. Hoje, o cerrado é responsável por mais de 70% da produção
+agrícola do Brasil.
+O lixo é a ameaça a conservação de ecossistemas mais citada nas UTs do bioma Marinho
+Costeiro, seguido do desmatamento. A ocupação de biomas costeiros e adensamento
+nessas regiões sem a coleta de resíduos adequada gera o acúmulo de lixo em áreas naturais.
+Em vez de berçário de espécies, os manguezais ainda hoje são vistos como sumidouros, em
+razão do seu cheiro forte (por conta da decomposição de matéria orgânica), e acabam se
+tornando um depósito indiscriminado de resíduos sólidos.
+Como na Caatinga, a maior parcela dos entrevistados não reconheceu nenhuma ameaça
+atual ao bioma Mata Atlântica. Nesses dois biomas a ocupação do território é antiga e
+aparentemente consolidada, o que pode esconder dos olhos das famílias as ameaças atuais a
+conservação dos ecossistemas. A segunda principal ameaça para conservação ambiental nas
+unidades territoriais segundo os entrevistados beneficiários são os incêndios e para os não
+beneficiários, o desmatamento.
+Para tentar amenizar as pressões e ameaças antrópicas nos ecossistemas, é preciso investir
+desde em iniciativas político-econômicas para melhorar a infraestrutura local (minimizando
+lixo e esgoto, por exemplo), até em atividades sociais, de educação ambiental e mudanças
+individuais de hábitos nessas comunidades.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!
+22
+!The!miracle!of!the!cerrado.!The!Economist,!2010.!Encontrado!em:!http://www.economist.com/node/16886442!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+83!
+!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+84!
+!
+Figura 48. Ameaças à Conservação na UT pelo órgão gestor - Porcentagem famílias. Programa Bolsa
+Verde – Monitoramento Ano-base de 2014.
+A queimada ainda é muito utilizada pelos agricultores para limpeza e preparo do solo antes
+do plantio. Muitas vezes, essa prática é feita de maneira indiscriminada e sem
+acompanhamento, causando danos ao solo e atingindo a vegetação nativa. Nas UTs
+beneficiadas pelo PBV, o incêndio foi a quarta ameaça mais citada à conservação (Figura 47).
+Nesse contexto, foi verificado, portanto, se as famílias beneficiárias e não beneficiárias
+realizavam queimadas como prática pra preparação de solos para cultivo.
+A maioria dos entrevistados informou que não realizam queimadas em suas áreas (Figura 49).
+Este padrão é observado na análise para todos os biomas e órgãos gestores (Figura 50 e 51).
+Contudo, ao comparar beneficiários e não beneficiários, percebe-se que famílias beneficiárias
+realizam mais queimadas que não beneficiárias: 63% dos não beneficiários não realizam
+queimadas, enquanto que para beneficiários este número é de 60%. Entre as famílias totais,
+35% dos beneficiários realizam queimadas 1 vez ao ano, comparados a 31% não beneficiários.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+85!
+!
+Figura 49. Realização de Queimadas - Porcentagem famílias. Programa Bolsa Verde – Monitoramento
+Ano-base de 2014.
+Em todos os biomas, é predominante a não realização de queimadas, especialmente na Mata
+Atlântica e Marinho Costeiro. No bioma Amazônia e Cerrado, as queimadas 1 vez por ano são
+mais frequentes do que para os demais, com 45% e 35% respectivamente (Figura 51). O uso
+do fogo está ligado ao produto da atividade agrícola: na Amazônia, os principais produtos são
+açaí e mandioca. Segundo as famílias, o açaí é sensível ao fogo e por isso não há a prática de
+queimadas na sua extração ou plantio. Por outro lado, o uso de fogo para limpeza do terreno
+antes do plantio de mandioca pode ser uma opção mais econômica e rápida tendo em vista a
+proximidade da roça com vegetação nativa e chegada de outras sementes. Como a mandioca
+se planta entre 1 e 2 vezes por ano, o uso de queimadas segue este padrão. No Cerrado o
+plantio de mandioca também foi registrado. Porém, além da mandioca, o fogo é ainda
+habitualmente usado para renovar pastagem para o gado, usado para produção de leite, e
+para o cultivo de milho e cana-de-açúcar. A exceção está na Caatinga, onde mesmo com
+muitos plantios de mandioca, milho e feijão, o fogo não é usado de forma frequente.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+86!
+!
+!
+!
+!
+Figura 50. Porcentagem média de queimadas na área de uso entre os biomas. Programa Bolsa Verde –
+Monitoramento Ano-base de 2014.
+Cerca de 40% das famílias (beneficiárias e não beneficiárias) nas unidades territoriais
+controlada pelo ICMBio, INCRA e SPU realizam queimadas para produção, ao menos 1 vez por
+ano. Em UTs da SPU foi registrado o maior número de não beneficiários realizando esta
+prática. Nas do INCRA, os beneficiários diferiram dos não beneficiários, sendo os primeiros os
+que utilizam fogo mais frequentemente. Observa-se, porém, que algumas famílias em UTs do
+INCRA e SPU somente usam esta prática após autorização do órgão gestor da UT, para que
+haja controle do fogo (Figura 51).
+!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+87!
+!
+!
+!
+! !
+!
+Figura 51. Porcentagem média de queimadas na área de uso – Órgãos Gestores. Programa Bolsa
+Verde – Monitoramento Ano-base de 2014.
+!
+Outra prática comum que pode ameaçar os ecossistemas nas UTs beneficiadas pelo PBV é a
+extração/uso de lenha. A lenha é usada pelas famílias substituindo o gás para cozinhar
+alimentos, construção de cercas, poleiros, entre outros. As famílias ouvidas garantem que a
+lenha vem de galhos secos das árvores, uma cerca velha, um pau que caiu, um caixote que
+não serve mais. Entretanto, o uso frequente da lenha e a demanda gerada pode ser um
+motivo para o incentivo ao corte ilegal de árvores nativas na UT, mesmo que em pequena
+escala, realizado pela própria família ou por aqueles que vendem a lenha para as famílias.
+Além da degradação do ambiente, a queima doméstica de biomassa contribui ainda para o
+aumento das emissões de carbono.
+Nas UTs visitadas, os fogões a lenha são frequentes nas residências. Casa com chaminé ou
+exaustor não. Ao lado dos impactos ambientais, de acordo com a Organização Mundial da
+Saúde (OMS)23
+, o fogão a lenha é o fator ambiental responsável pelo maior número de mortes
+no mundo inteiro. A inalação da fumaça de rústicos fogões a lenha é causa de doenças do
+coração e pulmonares para quase 2 milhões de mulheres e crianças. Mulheres e crianças
+correm mais risco por ficarem mais expostas, uma vez que os homens tendem a passar
+menos tempo em casa. Neste monitoramento, foi verificada a ocorrência da extração da lenha
+e sua finalidade: consumo próprio, uso para produção ou venda de lenha.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!
+23
+!World!Health!Organization!(2000).!Indoor!air!pollution!in!developing!countries:!a!major!environmental!and!
+public!health!challenge.!Encontrado!em:!http://apps.who.int/iris/bitstream/10665/57643/1/bul0711.pdf?ua=1!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+88!
+!
+Apenas cerca de 20% não consomem lenha. A maioria dos entrevistados (60%) informou que
+utiliza lenha para o próprio consumo, ou seja, no lugar do gás para o cozimento de alimentos
+(Figura 52). Outros 20% extraem a lenha e utilizam para a produção, na maioria dos casos,
+nos fornos para a fabricação de farinha; e somente 1% afirmou extrair a lenha para vender.
+Assim como em práticas de queimadas, as famílias beneficiárias consomem mais lenha que as
+famílias não beneficiárias. Ao somar “consumo”, “produção” e “venda” de lenha, 80% dos
+entrevistados que recebem o benefício do PBV extraem lenha para alguma dessas
+finalidades, comparados aos 77% de não beneficiários.
+Figura 52. Extração de Lenha - Porcentagem famílias - Programa Bolsa Verde – Monitoramento Ano-
+base de 2014.
+Em todos os biomas, a extração de lenhas entre beneficiários e não beneficiários foi
+semelhante, e o consumo próprio é a principal finalidade das extração e uso de lenha pelas
+famílias (Figura 53). A exceção está no bioma Marinho Costeiro, onde mais da metade (60%)
+das famílias afirmou não realizar uso de lenha. Neste bioma, a pesca é o produto principal
+(Mapa 32), que não utiliza cozimento a lenha, mas sim é vendido cru. O uso da lenha para a
+produção quase alcança a porcentagem destinada ao consumo, a qual é usada em geral para
+o cozimento da farinha de mandioca, como observado em campo. Além disso, a proximidade
+dessas UTs com os centros urbanos facilita o acesso a botijões de gás para o cozimento de
+alimentos em geral.
+No outro lado estão as famílias que vivem no Cerrado, onde mais de 80% utiliza lenha para o
+consumo próprio. A grande disponibilidade de galhos e troncos secos na estação de seca
+neste bioma e a cultura do forno a lenha, compete com o uso de gás, de preço mais elevado,
+para o cozimento dos alimentos. Seja por motivos culturais ou financeiros, o que foi
+observado nesse bioma é que as famílias em geral possuem o fogão a gás, mas o utilizam
+somente para atividades mais simples, como ferver uma água para o café ou esquentar o
+leite. O cozimento de alimentos é feito no fogão a lenha.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+89!
+!
+Figura 53. Porcentagem média da finalidade de extração de lenha entre os biomas. Programa Bolsa
+Verde – Monitoramento Ano-base de 2014.
+Comparando as UTs de diferentes órgãos gestores, as do INCRA e da SPU são onde há maior
+extração e uso de lenha (Figura 54). A menor extração de lenha está nas famílias que vivem
+em unidades de conservação. Nessas unidades, a extração não difere entre famílias
+beneficiárias e não beneficiárias, assim como não difere em UTs da SPU e INCRA.
+A substituição do fogão a lenha deve passar por soluções de baixo custo e que não
+modifique este hábito arraigado. Algumas alternativas já estão surgindo, como o fogão
+limpo24 ou mesmo o ecofogão25, que são versões que economizam lenha, potencializam o
+poder calorífico e são mais seguros. Eles evitam o contato com a brasa e o fogo, além de
+concentrarem a fumaça de forma que ela não envolva os que se aproximam do fogão.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!
+24
+!Global!Alliance!for!Clean!Stoves.!Encontrado!em:!http://cleancookstoves.org/!
+25
+!IDER.!Instituto!de!Desenvolvimento!Sustentável!e!Energias!renováveis.!Fogões!Ecoeficientes.!Encontrado!em:!
+http://www.institutoidesa.org.br/download/idesa_20091031_085453.pdf!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+90!
+!
+!
+Figura 54. Porcentagem média de finalidade da extração de lenha – Órgãos Gestores. Programa Bolsa
+Verde – Monitoramento Ano-base de 2014.
+!
+Compromissos e Orientações do Programa Bolsa Verde
+As famílias que são beneficiárias do PBV tem o compromisso de desenvolver atividades de
+conservação ambiental obedecendo ao disposto nos instrumentos de gestão da sua UT.
+Estes instrumentos são documentos que reconhecem, estabelecem e descrevem as regras
+de uso dos recursos naturais, de convivência dos beneficiários e de ocupação da unidade. A
+transferência de recursos do Programa Bolsa Verde está condicionada ao cumprimento dos
+compromissos assumidos pela família beneficiária para a conservação dos recursos
+naturais26
+.
+Nesse monitoramento, observa-se que as informações sobre os compromissos do PBV estão
+chegando às famílias. Como esperado, as famílias que recebem o benefício do PBV estão
+mais cientes dos seus compromissos do que famílias não beneficiárias. Porém, a maior parte
+de ambas as famílias declarou ter conhecimento dos seus compromissos perante ao
+Programa. Entre as famílias beneficiárias, 72% declarou conhecer seus compromissos e o
+mesmo aconteceu aos não beneficiários: 62% responderam que tinham conhecimento do
+Programa, o benefício e os compromissos associados.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!
+26
+!Decreto!nº!7.572,!de!28!de!Setembro!de!2011.!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+91!
+!
+Figura 55. Conhecimento sobre os compromissos do Programa Bolsa Verde, pelas famílias
+beneficiárias e não beneficiárias. Programa Bolsa Verde – Monitoramento Ano-base de 2014
+A exceção está nas UTs localizadas no bioma Amazônico, onde um número menor de famílias
+tem conhecimento dos seus compromisso junto ao PBV (28% no caso das beneficiárias) ou
+terem ouvido falar do Programa (38% quando não beneficiárias). Por outro lado, as famílias
+que vivem em UTs da Mata Atlântica e Caatinga foram as que se mostraram mais bem
+informadas sobre os seus compromissos, com mais de 90% das beneficiárias afirmando ter
+conhecimento sobre seus compromissos (Figura 56). Diferente dos outros biomas, há mais
+famílias não beneficiárias que vivem nas UTs do bioma Marinho Costeiro afirmando conhecer
+os compromissos do PBV que as próprias famílias beneficiárias.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+92!
+!
+Figura 56. Conhecimento sobre os compromissos do Programa Bolsa Verde, pelas famílias
+beneficiárias e não beneficiárias, por bioma. Programa Bolsa Verde – Monitoramento Ano-base de
+2014
+Entre órgãos gestores, as famílias em UTs geridas pelo INCRA foram as que mais declararam
+ter conhecimento do Programa e seus compromissos, especialmente entre as famílias
+beneficiárias (Figura 58). Como a maioria das unidades territoriais do ICMBio estão localizadas
+no bioma Amazônia, este resultado pode explicar o menor índice de conhecimento dos
+compromissos dos programa observados naquela região. As UTs desse órgão na Amazônia
+deveriam ser, portanto, o foco principal do PBV para um programa de capacitação e
+disseminação de informações.
+Figura 57. Conhecimento sobre os compromissos do Programa Bolsa Verde, pelas famílias
+beneficiárias e não beneficiárias, por órgão gestor. Programa Bolsa Verde – Monitoramento Ano-base
+de 2014
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+93!
+!
+Apesar da maior parte dos moradores reconhecer o Programa, esse conhecimento parece ser
+proveniente mais de trocas e conversas entre os próprios habitantes daquela UT, do que por
+orientação de um órgão oficial. A maior parte das famílias vivendo em UTs atendidas pelo
+PBV, tanto beneficiários como não beneficiários, alegaram não ter recebido orientação do
+Ministério do Meio Ambiente (via órgão gestor) sobre o Programa Bolsa Verde no último
+ano (2014). Esse dado é importante para verificar se há o acompanhamento das famílias
+beneficiárias pelo órgão gestor, se elas se interessam em receber orientações sobre o PBV e
+se há fluxo de informações para aquelas famílias que ainda não o são, mas tem o perfil para o
+benefício. Entre os beneficiários somente 25% alegaram ter recebido alguma orientação
+sobre o Programa, enquanto que entre as não beneficiárias esse número foi ainda menor:
+somente 19%, o que era de se esperar uma vez que não são o público alvo do programa
+(Figura 58).
+Figura 58. Recebimento de orientações sobre o Programa Bolsa Verde pelo MMA, por famílias
+beneficiárias e não beneficiárias. Programa Bolsa Verde – Monitoramento Ano-base de 2014
+Se na Amazônia há um número menor de famílias conhecendo o PBV (Figura 56), menos de
+20% do total recebeu alguma orientação oficial no ano de 2014 (Figura 59). O mesmo para
+Caatinga: o alto número de pessoas conhecendo o Programa e seus benefícios parece estar
+diretamente relacionado à atenção e orientação dada pelo órgão gestor e MMA naquelas
+UTs, especialmente aos beneficiários.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+94!
+!
+Figura 59. Recebimento de orientações sobre o Programa Bolsa Verde pelo MMA, por famílias
+beneficiárias e não beneficiárias, por bioma. Programa Bolsa Verde – Monitoramento Ano-base de
+2014
+Entre os órgãos gestores, o ICMBio é o que tem sido reconhecido pelos moradores, junto ao
+MMA, como maior fonte de informações sobre o PBV, seguido pelo INCRA e SPU (Figuras 60
+e 61). No caso dessa orientação estar acontecendo anualmente por parte do Ministério do
+Meio Ambiente e/ou pelos respectivos órgãos gestores da UT, a lacuna pode estar na
+comunicação e divulgação dessas orientações na comunidade, entre os que recebem o
+benefício e também os que não recebem.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+95!
+!
+Figura 60. Recebimento de orientações sobre o Programa Bolsa Verde pelo MMA, por famílias
+beneficiárias e não beneficiárias, por órgão gestor. Programa Bolsa Verde – Monitoramento Ano-base
+de 2014
+3.6 Opinião sobre o Programa Bolsa Verde
+O Programa Bolsa Verde possui quatro objetivos27 em seu escopo, que buscam atingir
+melhorias nas condições de conservação do meio ambiente da UT em que os beneficiários
+vivem, a melhoria das condições de vida, elevação do seu poder aquisitivo e incremento da
+produção agroextrativista.
+Estes quatro itens foram incorporados ao formulário usado no monitoramento, na forma de
+quatro perguntas direcionadas para mensurar o impacto do PBV na vida da família sobre
+estes quatro aspectos, e assim verificar se os objetivos estão sendo alcançados, a partir da
+opinião do entrevistado. Como são questões de opinião, elas foram aplicadas para as famílias
+beneficiárias sob a perspectiva da realidade delas desde o início do recebimento do
+benefício, e para as famílias não beneficiárias sob uma perspectiva potencial de recebimento
+do benefício, ou seja, se elas passassem a recebê-lo, qual seria o impacto nestes quatro
+aspectos de suas vidas. O entrevistado classifica este impacto em um valor de 0 a 10, onde o
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!
+27
+! i) incentivar a conservação dos ecossistemas (manutenção e uso sustentável); ii) promover a
+cidadania e melhoria das condições de vida; iii) elevar a renda da população em situação de extrema
+pobreza que exerça atividades de conservação dos recursos naturais no meio rural; iv) incentivar a
+participação dos beneficiários em ações de capacitação ambiental, social, técnica e profissional. - Lei nº
+12.512, de 14 de outubro de 2011, regulamentado pelo Decreto nº 7.572 , de 28 de setembro de 2011.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+96!
+!
+valor zero representa que o PBV não gerou (ou geraria) mudança em sua vida, e 10 o valor
+máximo para uma mudança positiva. Para a interpretação dos resultados, foram criadas as
+seguintes classes de opinião: 0 a 3 (baixo); 4 a 6 (médio), 7 e 8 (alto) e 9 e 10 (muito alto). Para
+comparar possíveis diferenças entre as categorias de opinião de beneficiários e não
+beneficiários foi utilizado o teste G para tabela de contingência e teste quiquadrado.
+Impacto do PBV sobre o poder aquisitivo
+O beneficiário do PBV recebe trezentos reais a cada três meses. O quanto esse valor impacta
+o poder aquisitivo de uma família pode ser percebido de maneiras diferentes pelo próprio
+beneficiário, e fatores como a sua renda atual (sem o benefício) e o custo de vida do local
+onde vive, podem influenciar nessa percepção.
+Neste monitoramento, os beneficiários do PBV demonstram ter opiniões diferentes às das
+famílias que não beneficiárias. Para 59% daqueles que recebem, o valor que chega a cada
+três meses tem tido um impacto muito alto no poder de aquisitivo da família. Esse número é
+ainda maior para os que não recebem: 66% dos não beneficiários apontaram que o benefício
+teria um impacto muito alto no seu poder aquisitivo se começassem a recebê-lo hoje (Figura
+61).
+A percepção de quem não é beneficiário parece incluir uma supervalorização do benefício
+em seu poder aquisitivo: ainda que sua renda familiar per capita seja superior a renda familiar
+dos beneficiários (quando excluídos os benefícios BV e BF), o valor dado para impacto sobre
+poder aquisitivo foi maior que o de famílias beneficiárias. A necessidade que os não
+beneficiários têm de mostrar que eles gostariam de ser incluídos no PBV pode explicar
+parcialmente este alto valor obtido para “impacto no poder aquisitivo”.
+!
+Figura 61. Impacto do PBV sobre o poder aquisitivo da família. Programa Bolsa Verde – Monitoramento
+Ano-base de 2014.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+97!
+!
+Em todos os biomas, receber o benefício do PBV tem resultado (ou resultaria) em um impacto
+muito alto no poder aquisitivo das famílias beneficiárias ou não (Figura 62). É na renda das
+famílias beneficiárias do Cerrado e da Mata Atlântica que o benefício do PBV tem feito maior
+diferença, segundo a opinião delas. Para quem ainda não recebe, o impacto do PBV seria
+muito alto especialmente nas famílias que vivem no Cerrado e no bioma Marinho Costeiro. O
+menor impacto declarado no poder aquisitivo é entre as famílias que vivem na Amazônia,
+especialmente beneficiárias. Nestas UTs, o alto custo para obtenção de energia, mercadorias,
+instrumentos de produção e transporte pode influenciar no valor de impacto dado pelas
+famílias, as quais cerca de 40% declarou que o benefício tem (ou teria) um impacto médio/alto
+em seu poder aquisitivo. É interessante também notar a semelhante opinião entre
+beneficiários e não beneficiários nos biomas Cerrado e Mata Atlântica.!
+!
+!
+!
+!
+!
+Figura 62. Impacto sobre o poder aquisitivo da família, em porcentagem, por bioma. Programa Bolsa
+Verde – Monitoramento Ano-base de 2014.
+Diferente da análise por biomas, ao comparar UTs geridas por diferentes órgãos, o resultado
+do impacto do PBV no poder aquisitivo das famílias foi similar entre elas (Figura 63). Ao
+contrário das UTs do INCRA e ICMBio, pouco menos da metade das famílias beneficiárias que
+vivem em UTs da SPU declararam impacto muito alto do benefício no poder aquisitivo. Por
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+98!
+!
+serem famílias ribeirinhas, este valor pode estar relacionado ao custo de vida consequente do
+difícil acesso, como discutido acima.
+!
+! !
+!
+Figura 63. Impacto sobre o poder aquisitivo da família, em porcentagem, por órgão gestor. Programa
+Bolsa Verde – Monitoramento Ano-base de 2014.
+Impacto do PBV sobre as condições de vida
+O benefício do PBV não gera somente impacto na renda da família que o recebe, mas a partir
+disso pode ajudar também na melhoria da sua condição de vida, quanto ao acesso a serviços,
+transporte, saúde, educação e demais oportunidades. Este é o segundo objetivo do PBV:
+promover a cidadania e melhoria das condições de vida. Neste monitoramento, as famílias
+que recebem o BV e aquelas que não recebem tiveram opiniões semelhantes. Em ambos os
+grupos, a maioria dos entrevistados considerou que receber o benefício tem um impacto
+muito alto na melhorias das suas condições de vida (Figura 64). Se compararmos esse item
+com o anterior (impacto no poder aquisitivo), observa-se que eles apresentam a mesma
+tendência de resposta, uma vez que a percepção de muitos entrevistados é que a melhoria
+das condições é consequência do aumento no poder de compra.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+99!
+!
+!
+Figura 64. Impacto em melhoria das condições de vida - Porcentagem famílias. Programa Bolsa Verde
+– Monitoramento Ano-base de 2014
+Separando por biomas, observa-se que os beneficiários e não beneficiários diferem de
+opinião em apenas dois deles: Amazônia e Caatinga. Em UTs na Caatinga, há mais
+beneficiários acreditando que o PBV tem um impacto muito alto na melhoria das suas
+condições de vida, que os não beneficiários, que foram mais conservadores e indicaram
+impacto potencial alto e médio (Figura 65). Por outro lado, na Amazônia, as famílias não
+beneficiárias são as que acreditam que haveria um maior impacto do benefício na melhoria
+das suas condições de vida, do que as próprias beneficiárias, que se mostraram mais céticas
+quanto a isso, citando classes de valores mais baixas.
+Esse é também o caso de famílias que vivem em unidades territoriais atendidas pelo PBV
+geridas pelo INCRA (Figura 66). Nessas unidades, famílias não beneficiárias indicaram maior
+impacto do benefício nas suas condições de vida que as próprias famílias beneficiárias.!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+100!
+!
+!
+!
+!
+!
+!
+Figura 65. Impacto em melhoria das condições de vida da família, em porcentagem, por bioma -
+Programa Bolsa Verde. Monitoramento Ano-base de 2014.
+!
+!
+!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+101!
+!
+!
+Figura 66. Impacto em melhoria das condições de vida da família, em porcentagem, por órgão gestor.
+Programa Bolsa Verde – Monitoramento Ano-base de 2014.
+Impacto do PBV sobre produção agroextrativista
+Um dos objetivos do Programa Bolsa Verde é incentivar a produção agroextrativista
+sustentável nas UTs beneficiadas. O benefício recebido é também uma fonte para investir e
+aprimorar as condições de produção das famílias beneficiárias. Isso porém não significa
+necessariamente que elas terão maior retorno financeiro proveniente da sua produção. Como
+descrito anteriormente nesse relatório, a maioria dos entrevistados que trabalha com
+atividade agroextrativista afirmou ter passado a utilizar novas técnicas e equipamentos com
+recursos recebidos do PBV. Entretanto, a renda familiar média per capita da produção das
+famílias beneficiárias ainda é menor que a de famílias não beneficiárias. Dessa forma, é
+importante verificar se os beneficiários do PBV acreditam que a produção agroextrativista tem
+melhorado desde o recebimento do benefício e qual o impacto que o PBV tem gerado na
+produção, ou se o benefício é visto somente como um incremento de renda para compra de
+bens de consumo gerais e melhoria da qualidade de vida.
+Nesse contexto, as famílias que recebem o BV e aquelas que não recebem demonstram ter
+opiniões diferentes, mas ambas destacam o impacto positivo do benefício na produção. Para
+51% daquelas que recebem o benefício, o valor que chega a cada três meses tem tido um
+impacto muito alto na produção agroextrativista e tem trazido algum tipo de melhoria. Como
+nos tópicos anteriores, esse número é ainda maior para as famílias que ainda não recebem:
+60% apontam que o benefício teria um impacto muito alto na sua produção caso começassem
+a recebê-lo hoje (Figura 67).
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+102!
+!
+!
+Figura 67. Impacto em incremento na produção agroextrativista. Programa Bolsa Verde –
+Monitoramento Ano-base de 2014
+!
+As famílias que vivem nas UTs localizadas no Cerrado e no bioma Marinho Costeiro e que não
+recebem o benefício foram as mais otimistas sobre o quanto o PBV contribuiria com sua
+produção: 73% e 71% indicaram alto impacto, respectivamente. Já para os beneficiários, em
+todos os biomas, o impacto muito alto para “condição de vida” e “poder aquisitivo” não se
+repetiu com a mesma intensidade neste tópico “produção”. No caso da Caatinga e Amazônia,
+por exemplo, um em cada 4 beneficiários ponderaram e afirmaram que o benefício traria
+impacto positivo na sua produção, todavia seriam impactos médios (Figura 68).
+Isso pode indicar que existe uma prioridade no investimento do benefício do PBV pelas
+famílias, o que gera um impacto diferenciado em cada um dos itens aqui citados. Quando o
+beneficiário recebe os R$300 do benefício, ele investe preferencialmente em itens que
+melhoram diretamente a qualidade de vida da família, tais como a compra de alimentos,
+remédios, educação e moradia. Em seguida, o benefício é usado como investimento na
+produção agroextrativista. Tal fato é corroborado com observações de campo, em que se
+percebe que a mulher como gestora deste recurso o distribui de forma que haja melhorias na
+condição de vida da família como um todo, e não somente em um aspecto, como a produção
+– atividade predominantemente masculina.
+A análise por órgão gestor da UTs seguiu a mesma linha, confirmando os dados gerais acima
+(Figura 70). Nas UTs da SPU são onde o benefício do PBV tem o menor impacto na produção
+agroextrativista, comparado ao impacto em UTs do INCRA e ICMBio.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+103!
+!
+Figura 68. Impacto em incremento na produção agroextrativista, entre biomas. Programa Bolsa Verde –
+Monitoramento Ano-base de 2014
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+104!
+!
+!
+!
+!
+Figura 69. Impacto em incremento na produção agroextrativista, entre órgãos gestores. Programa
+Bolsa Verde – Monitoramento Ano-base de 2014
+Impacto do PBV sobre as condições de conservação do meio ambiente
+Como resultado da integração de esforços da área social com ambiental, o PBV tem a
+premissa de incentivar o uso sustentável dos recursos naturais, conservando o meio ambiente
+onde as populações vivem. A medida que essa premissa vai se tornando real, é natural que
+as famílias que vivem em unidades territoriais atendidas pelo PBV percebam mudanças no
+comportamento da sua comunidade e, como resultado, um meio ambiente mais conservado.
+Como no item anterior, a opinião das famílias beneficiárias do PBV e das não beneficiárias
+foram diferentes. A maior parte das famílias, beneficiárias ou não, acreditam que após a
+chegada do PBV em sua UT, os beneficiários passaram a respeitar as regras do instrumento
+de gestão vigente, de acordo com o firmado em seu termo de adesão, conservando assim o
+meio ambiente (Figura 70). Entretanto, mais famílias não beneficiárias perceberam essa
+mudança: 58% citaram impacto muito alto do PBV nas condições de conservação do meio
+ambiente na UT, comparados aos 55% para beneficiários. Apesar disso, esse item foi o que
+teve o menor valor para a classe “muito alto”
+, quando comparado aos outros três itens
+analisados. Tal fato pode indicar que incentivar e fazer cumprir o bom uso dos recursos
+naturais é o objetivo mais desafiador para o Programa, entre os quatro objetivos propostos.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+105!
+!
+!
+!
+Figura 70. Impacto na melhoria da condição de conservação do meio ambiente. Programa Bolsa Verde
+– Monitoramento Ano-base de 2014
+!
+Entre os biomas, as famílias que vivem em UTs da Mata Atlântica e Caatinga foram as que
+indicaram maior impacto do PBV nas condições de conservação do meio ambiente. Nessas
+UTs, ao contrário dos outros biomas, foram as famílias beneficiárias que perceberam maior
+diferença nas condições de conservação do meio ambiente após o início do PBV. Na
+Caatinga, 69% das beneficiárias citaram impacto “muito alto”, comparados aos 58% das não
+beneficiárias. No mesmo sentido, 68% das beneficiárias na Mata Atlântica citaram impacto
+“muito alto”, comparado a 65% entre os que não recebem.
+As famílias mais conservadoras quanto ao impacto do PBV na conservação do meio ambiente
+estão na Amazônia e no bioma Marinho Costeiro. Cerca de 40 a 45% delas indicaram impacto
+médio e alto, quando somados (Figura 71). Dessa forma, são em UTs desses biomas que se
+deve investir em um acompanhamento dos beneficiários e fiscalização constantes para
+verificar se as famílias do PBV entendem os compromissos deles com a conservação do
+ambiente.
+Entre os órgãos gestores, os resultados seguiram a tendência dos dados gerais e foram
+semelhantes entre ICMBio, INCRA e SPU. Essa semelhança indica que o desafio em incentivar
+a conservação dos ecossistemas (manutenção e uso sustentável) não está relacionado
+necessariamente ao órgão gestor e às atividades cotidianas deste com as famílias, mas sim à
+região onde a UT está localizada. Também não houve diferença significativa entre a opinião
+de beneficiários e não beneficiários neste item (Figura 72).
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+106!
+!
+Figura 71. Impacto na melhoria da condição de conservação do meio ambiente, por bioma. Programa
+Bolsa Verde – Monitoramento Ano-base de 2014
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+107!
+!
+!
+!
+!
+!
+!
+!
+Figura 72. Impacto na melhoria da condição de conservação do meio ambiente, por órgão gestor.
+Programa Bolsa Verde – Monitoramento Ano-base de 2014
+Entendimento sobre conservação ambiental
+Um dos compromissos assumidos pelos beneficiários com o PBV é o desenvolvimento de
+atividades de conservação ambiental segundo o disposto nos instrumentos de gestão ou
+regularização das Unidades de Conservação. Entretanto, o conceito de “conservação
+ambiental” nem sempre está claro para as famílias que recebem o benefício. Para avaliar o
+grau de entendimento sobre o que é “conservação ambiental”, foi apresentada às familias
+três opções de sentença que definem o que é conservação ambiental em diferentes graus de
+complexidade e entendimento. O conteúdo de cada sentença foi elaborado de forma que
+cada alternativa expressa um baixo, médio ou alto grau de compreensão do significado de
+“conservação ambiental”.
+O monitoramento mostra que o conceito de conservação ambiental está sim claro para a
+maioria dos entrevistados. Mais de 50% dos beneficiários e dos não beneficiários
+apresentaram grau de entendimento mais alto sobre conservação ambiental (Figura 73). O
+entendimento entre beneficiários e não beneficiários é semelhante, e apenas um pequeno
+número em ambos os grupos apresentou um baixo nível de compreensão.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+108!
+!
+!
+Figura 73. Grau de entendimento sobre conservação geral. Programa Bolsa Verde – Monitoramento
+Ano-base de 2014.
+Em geral, espera-se que a proximidade com centros urbanos e acesso a informação, como
+em UTs da Mata Atlântica e Marinho Costeiro, faz com que o entrevistado indique conceitos
+mais complexos. Entretanto, nesses biomas foi encontrado o menor número de entrevistados
+com alto grau de entendimento sobre conservação. O maior número está nos biomas
+Amazônia e Caatinga, entre as famílias não beneficiárias.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+109!
+!
+! !
+! !
+!
+Figura 74. Grau de entendimento sobre conservação entre os biomas. Programa Bolsa Verde –
+Monitoramento Ano-base de 2014.
+Quando analisamos esse grau de entendimento através dos órgãos gestores, verificamos que
+o grau de entendimento mais alto está relacionado às famílias ribeirinhas, em UTs geridas
+pela SPU (Figura 75). Em seguida, vem as famílias em UTs geridas pelo INCRA e pelo ICMBio.
+Vale ressaltar que houve diferença significativa entre as famílias beneficiárias e não
+beneficiárias que moram em UTs controladas pelo INCRA.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+110!
+!
+Figura 75. Grau de entendimento sobre conservação – Órgãos Gestores. Programa Bolsa Verde –
+Monitoramento Ano-base de 2014.
+Contribuição para a Conservação ambiental
+Ao entender o conceito e a importância de conservar os recursos naturais no local onde vive,
+espera-se que a família adote atitudes e ações que contribuam para a manutenção e uso
+sustentável da biodiversidade. Nessa seção, foi proposta uma auto-avaliação do quanto cada
+entrevistado contribui com a conservação do meio ambiente em suas atividades cotidianas e
+produtivas. De maneira semelhante ao item anterior, foram apresentadas ao entrevistado três
+opções de sentenças que definem o grau de contribuição da família para a conservação
+ambiental. O entrevistado escolhe uma setença, a qual expressa um alto (contribui muito),
+médio (contribui pouco) ou baixo (não contribui) grau de contribuição da família para a
+conservação ambiental.
+Mais de 95% das respostas foram direcionadas à contribuição média e alta para o meio
+ambiente. Os resultados mostram que pouco mais da metade das famílias beneficiárias se vê
+como fortes contribuidores para a conservação ambiental em sua UT, enquanto que os não
+beneficiários se vêem contribuindo de forma mediana para a conservação (Figura 76). A
+porcentagem de famílias que indicaram um baixo grau de contribuição foi muito pequena nos
+dois grupos. Isso mostra que, no geral, tanto beneficiários como não beneficiários se
+enxergam como participantes ativos do processo de conservação dos recursos naturais da
+UT, indicando que eles “fazem a sua parte”, mas também “podem ainda fazer muito mais” -
+usando as expressões comumente repetidas pelos próprios entrevistados.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+111!
+!
+!
+Figura 76. Contribuição de suas atividades para conservação. Programa Bolsa Verde – Monitoramento
+Ano-base de 2014.
+As famílias que afirmaram estar contribuindo fortemente com a conservação estão na
+Caatinga, seguida do Cerrado, entre as beneficiárias (Figura 77). No bioma Caatinga, inclusive,
+nenhuma delas, beneficiárias ou não, indicou baixo nível de contribuição para a conservação
+da ambiental - o que também aconteceu para famílias não beneficiárias da Mata Atlântica.
+De fato, em UTs da Caatinga foi registrada a maior porcentagem de beneficiários participando
+ativamente de associações (Mapa 42) e que participaram de atividades de capacitação no
+último ano (Mapa 44). Embora as associações estejam focadas na produção agroextrativista, a
+forte organização social nessas UTs se torna também um incentivo para a realização de
+atividades conjuntas de conservação e uso sustentável dos recursos naturais. Realizar tais
+atividades em grupo, junto com uma boa compreensão sobre conservação ambiental (Figura
+74) ajuda o entrevistado a perceber a sua contribuição ao meio ambiente e a afirmá-la durante
+a entrevista. Ao mesmo tempo, essa porcentagem também inclui alguns (poucos) casos em
+que o entrevistado confunde suas atividades em prol exclusivamente da produção
+agroextrativista com atividades em prol do meio ambiente.
+As respostas mais modestas foram obtidas no bioma Amazônia e Marinho Costeiro, onde
+cerca de metade dos entrevistados afirmou contribuir de forma mediana ao meio ambiente.
+Se por um lado este resultado mostra que há menos pessoas contribuindo fortemente com a
+conservação, por outro indica que os entrevistados destes biomas conseguem identificar
+atividades adicionais que eles poderiam realizar a favor do meio ambiente e percebem que
+ainda há espaço para contribuir. Em alguns casos, eles somente não as fazem por algum
+motivo que os impeçam, tais como idade avançada, residência mais isolada, falta de tempo,
+falta de recursos, entre outros.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+112!
+!
+Figura 77. Contribuição de suas atividades para conservação entre os biomas. Programa Bolsa Verde –
+Monitoramento Ano-base de 2014.
+Seguindo o padrão geral, cerca de metade das famílias vivendo em UTs geridas pelo INCRA e
+ICMBio responderam que suas atividades produtivas contribuem média ou altamente para
+conservação (Figura 78). No caso do INCRA, a maioria das famílias beneficiárias do PBV
+acredita que contribui muito. Como na Caatinga, a organização social é maior em UTs do
+INCRA, seguidas pelas do ICMBio (Mapa 42), e tal fato pode incentivar atividades em prol da
+conservação do meio ambiente pelas famílias residentes ali.
+Para as famílias ribeirinhas vivendo em territórios da SPU, 50% das beneficiárias e 61% das
+não beneficiárias afirmaram que contribuem de forma mediana para a conservação da UT. Foi
+a maior porcentagem obtida para contribuição média, entre os órgãos gestores. Nesse caso,
+seria interessante incentivar projetos nessas UTs que ajudem a mobilizar as famílias,
+especialmente as não beneficiárias, para a atividades de conservação dos seus recursos
+naturais, como o pescado, e assim se crie uma consciência local da importância de
+permanecer conservando o capital natural presente ali.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+113!
+!
+Figura 78. Contribuição de suas atividades para conservação – Órgãos Gestores. Programa Bolsa
+Verde – Monitoramento Ano-base de 2014.
+!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+114!
+!
+4. CONSIDERAÇÕES FINAIS
+Este relatório constituiu uma síntese dos resultados finais do monitoramento do PBV ano base
+2014, no qual foi realizado 100% das entrevistas previstas na amostra, ou seja, 2.176
+entrevistas, sendo 1.088 com famílias beneficiárias e 1.088 com não beneficiárias, seguindo o
+previsto por Bioma e Órgão Gestor. As análises empreendidas com este monitoramento
+demonstraram importantes evidências:
+- Os resultados obtidos em cada uma das dimensões do monitoramento permitem uma boa
+descrição e entendimento do perfil dos beneficiários do PBV assim como de outras famílias
+não beneficiárias vivendo no mesmo local;
+- Da mesma forma a análise comparativa realizada pelos recortes por biomas e órgão gestor
+permite uma visão mais detalhada da realidade do PBV levando em conta as particularidades
+locais e regionais;
+- Testes de significância das diferenças entre as médias apresentadas nas análises foram
+importantes para verificar validade entre as diferenças observadas entre os dois grupos;
+- De maneira geral, a partir das análises realizadas, o benefício recebido do PBV resultou em
+melhorias para as famílias beneficiárias relacionadas ao:
+•
+! Poder aquisitivo das famílias: incremento médio na renda de 59% depois dos
+benefícios BF e BV;
+•
+! Condições de vida: maior taxa de escolaridade entre adolescentes e adultos e relatos
+de compra de vestuários, material escolar, reforma da casa;
+•
+! Incremento da produção agroextrativista: compra de equipamentos para melhorar a
+produção;
+•
+! Condições de conservação do meio ambiente: maior consciência em questões
+relacionadas ao meio ambiente e restrições dos instrumentos de gestão.
+- Contudo, os maiores desafios do PBV, estão relacionados a:
+•
+! Ampliar a oferta de assistência e capacitação técnica voltadas para o desenvolvimento
+de uma produção agroextrativista sustentável, diferenciada e que incremente a renda
+familiar;
+•
+! Melhorar a divulgação de informações relacionadas ao Programa dentro das UTs
+contempladas. As dúvidas sobre o benefício e seus compromissos são frequentes,
+constatadas nos resultados quantitativos do monitoramento, assim como durante o
+processo de entrevistas em campo;
+•
+! Informar claramente como se dará as medidas de suspensão do benefício por não
+cumprimento dos compromissos de conservação ambiental pelas famílias
+beneficiárias. Foram muitos os relatos sobre famílias que não cumprem regras da UT e
+mesmo assim continuam recebendo o benefício;
+•
+! Estabelecer um acompanhamento mais efetivo do recebimento do benefício. Foram
+muitos os relatos de famílias que não receberam o benefício mesmo após o cadastro;
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+115!
+!
+•
+! Durante o processo de cadastro de novas famílias envolver, sempre que possível as
+associações locais de produtores e outras associações locais. Em algumas UTs
+houveram relatos de não inclusão dessas entidades no processo.
+- O monitoramento do Bolsa Verde motivará a cada ano a melhoria do Programa a partir das
+condições observadas no campo, além de gerar oportunidades como: liderança brasileira no
+estabelecimento de uma rede de troca e difusão de experiência (Redes de Proteção
+Socioambiental) e também como eixo norteador e indutor de outras ações para o
+desenvolvimento socioambiental em municípios com alto capital natural.
+Dessa forma, o Ministério do Meio Ambiente, através do Programa Bolsa Verde, e a rede de
+parceiros está sendo capaz de traduzir na vida das famílias beneficiárias melhorias das
+condições de vida, renda e a qualidade ambiental. Essas melhorias têm acontecido em
+sinergia com medidas de combate a pobreza em áreas rurais e melhorias da conservação
+ambiental nas unidades territoriais abrangidas pelo Programa.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+116!
+!
+ANEXO I. Lista de Unidades Territoriais visitadas. Programa Bolsa Verde, ano-base 2014.
+Nome Estado Bioma Órgão
+gestor
+No de Entrevistas
+Beneficiários Não beneficiários
+FLONA do Tapajós PA Amazônia ICMBio 9 9
+RDS Itatupã-Baquiá PA Amazônia! ICMBio 6 4
+RESEX Alto Juruá AC Amazônia! ICMBio 18 18
+RESEX Arióca Pruanã PA Amazônia! ICMBio 1 1
+RESEX Cazumbá-Iracema AC Amazônia! ICMBio 3 3
+RESEX Chico Mendes AC Amazônia! ICMBio 1 3
+RESEX do Alto Tarauacá AC Amazônia! ICMBio 2 2
+RESEX do Lago do Capanã
+Grande AM Amazônia! ICMBio 1 1
+RESEX do Médio Purus AM Amazônia! ICMBio 13 13
+RESEX do Quilombo Flexal MA Amazônia! ICMBio 4 4
+RESEX do Rio Cajarí AP Amazônia! ICMBio 3 3
+RESEX Gurupá Melgaço PA Amazônia! ICMBio 7 7
+RESEX Mapuá PA Amazônia! ICMBio 5 5
+RESEX Riozinho da Liberdade AC Amazônia! ICMBio 8 8
+RESEX Tapajós-Arapiuns PA Amazônia! ICMBIO 40 48
+RESEX Verde Para Sempre PA Amazônia! ICMBio 37 29
+RESEX da Mata Grande MA Cerrado ICMBio 3 3
+RESEX Acaú Goiana PE
+Marinho
+Costeiro ICMBio 15 11
+RESEX Chocoaré-Mato Grosso PA
+Marinho
+Costeiro ICMBio 6 4
+RESEX de Canavieiras BA
+Marinho
+Costeiro ICMBio 10 11
+RESEX de Cururupu MA
+Marinho
+Costeiro ICMBio 9 7
+RESEX de São João da Ponta PA
+Marinho
+Costeiro ICMBio 2 2
+RESEX Mãe Grande de Curuçá PA
+Marinho
+Costeiro ICMBio 19 18
+RESEX Marinha de Araí-Peroba PA
+Marinho
+Costeiro ICMBio 6 6
+RESEX Marinha de Caeté-
+Taperaçu PA
+Marinho
+Costeiro ICMBio 57 61
+RESEX Marinha de Gurupi-Piriá PA
+Marinho
+Costeiro ICMBio 46 49
+RESEX Marinha de Soure PA
+Marinho
+Costeiro ICMBio 6 6
+RESEX Marinha de Tracuateua PA
+Marinho
+Costeiro ICMBio 10 11
+RESEX Marinha do Delta do
+Parnaíba PI
+Marinho
+Costeiro ICMBio 20 20
+Total 367 367
+PA Agro-extrativista Maracá AP Amazônia! INCRA 9 9
+PAE ABACAXIS II AM Amazônia! INCRA 4 4
+PAE Acará AM Amazônia! INCRA 1 1
+PAE Agro-extrativista
+Anauerapucu AP Amazônia! INCRA 3 3
+PAE Antimary AM Amazônia! INCRA 2 2
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+117!
+!
+Nome Estado Bioma Órgão
+gestor
+No de Entrevistas
+Beneficiários Não beneficiários
+PAE Aritapera PA Amazônia! INCRA 6 7
+PAE Atumã PA Amazônia! INCRA 3 2
+PAE Bela Vista II AM Amazônia! INCRA 10 10
+PAE Cabaliana I AM Amazônia! INCRA 12 13
+PAE Cabaliana II AM Amazônia! INCRA 13 13
+PAE Costa Fronteira PA Amazônia! INCRA 1 5
+PAE Cuçaru PA Amazônia! INCRA 1 1
+PAE Curupira AM Amazônia! INCRA 11 12
+PAE Eixo Forte PA Amazônia! INCRA 11 12
+PAE Ilha Aranai PA Amazônia! INCRA 2 2
+PAE Ilha Aturiá PA Amazônia! INCRA 2 3
+PAE Ilha Bela Pátria PA Amazônia! INCRA 2 2
+PAE Ilha Boa Vista PA Amazônia! INCRA 1 1
+PAE Ilha Bom Samaritano PA Amazônia! INCRA 5 5
+PAE Ilha Caeté PA Amazônia! INCRA 3 2
+PAE Ilha Calheira PA Amazônia! INCRA 1 1
+PAE Ilha Canaticu PA Amazônia! INCRA 2 2
+PAE Ilha Cararuá-Grande PA Amazônia! INCRA 2 2
+PAE Ilha Castanhal PA Amazônia! INCRA 1 1
+PAE Ilha Central PA Amazônia! INCRA 8 1
+PAE Ilha Charapucu PA Amazônia! INCRA 6 6
+PAE Ilha Chaves PA Amazônia! INCRA 3 4
+PAE Ilha Chiqueiro PA Amazônia! INCRA 3 3
+PAE Ilha Conceição I PA Amazônia! INCRA 3 3
+PAE Ilha Coroca PA Amazônia! INCRA 1 1
+PAE Ilha do Cabo Dico PA Amazônia! INCRA 1 1
+PAE Ilha do Meio PA Amazônia! INCRA 4 4
+PAE Ilha do Melgaço PA Amazônia! INCRA 5 2
+PAE Ilha do Pará PA Amazônia! INCRA 6 6
+PAE Ilha do Paulo PA Amazônia! INCRA 1 1
+PAE Ilha do Teso PA Amazônia! INCRA 1 1
+PAE Ilha dos Macacos PA Amazônia! INCRA 18 18
+PAE Ilha Furo Muaná PA Amazônia! INCRA 3 3
+PAE Ilha Goiabal PA Amazônia! INCRA 2 2
+PAE Ilha Grande - Pacajai PA Amazônia! INCRA 0 4
+PAE Ilha Grande de Laguna PA Amazônia! INCRA 15 10
+PAE Ilha Ioiás PA Amazônia! INCRA 1 2
+PAE Ilha Ituquara PA Amazônia! INCRA 5 5
+PAE Ilha Japichaua PA Amazônia! INCRA 0 2
+PAE Ilha Jejuteua PA Amazônia! INCRA 2 2
+PAE Ilha Jupatituba de Curralinho PA Amazônia! INCRA 2 2
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+118!
+!
+Nome PAE Ilha Jurupari I PAE Ilha Laranja PAE Ilha Maritubinha PAE Ilha Mauba PAE Ilha Mossoró PAE Ilha Mututi PAE Ilha Nossa Senhora do
+Livramento I PAE Ilha Panema PAE Ilha Paruru PAE Ilha Piquiarana PAE Ilha Piquiarana Mirim PAE Ilha Piraruaia PAE Ilha Pracaxi PAE Ilha Pracuuba-grande PAE Ilha Queimada PAE Ilha Raquel PAE Ilha Rasa PAE Ilha Salvador PAE Ilha Samanajós PAE Ilha Santa Maria II PAE Ilha Santana PAE Ilha Santo Amaro II PAE Ilha São João PAE Ilha São João I PAE Ilha São Raimundo PAE Ilha São Raimundo II PAE Ilha Setúbal PAE Ilha Tangarazinho PAE Ilha Tracuateua PAE Ilha Tucupi Grande PAE Ilha União PAE Ilha Uruá I PAE Ilha Uruá II PAE Ilha Urubuquara PAE Jenipapos PAE Juruti Velho PAE Lago Grande PAE Madalena PAE Nazaré PAE Nossa Senhora de Nazaré Estado Bioma Órgão
+gestor
+No de Entrevistas
+Beneficiários Não beneficiários
+PA Amazônia! INCRA 2 2
+PA Amazônia! INCRA 2 2
+PA Amazônia! INCRA 1 1
+PA Amazônia! INCRA 0 1
+PA Amazônia! INCRA 1 1
+PA Amazônia! INCRA 3 3
+PA Amazônia! INCRA 1 1
+PA Amazônia! INCRA 1 1
+PA Amazônia! INCRA 10 8
+PA Amazônia! INCRA 2 2
+PA Amazônia! INCRA 3 4
+PA Amazônia! INCRA 1 2
+PA Amazônia! INCRA 4 4
+PA Amazônia! INCRA 8 8
+PA Amazônia! INCRA 6 6
+PA Amazônia! INCRA 3 3
+PA Amazônia! INCRA 2 2
+PA Amazônia! INCRA 2 2
+PA Amazônia! INCRA 1 1
+PA Amazônia! INCRA 2 3
+PA Amazônia! INCRA 2 2
+PA Amazônia! INCRA 5 5
+PA Amazônia! INCRA 3 2
+PA Amazônia! INCRA 2 2
+PA Amazônia! INCRA 6 3
+PA Amazônia! INCRA 2 3
+PA Amazônia! INCRA 2 2
+PA Amazônia! INCRA 2 2
+PA Amazônia! INCRA 5 5
+PA Amazônia! INCRA 1 1
+PA Amazônia! INCRA 1 1
+PA Amazônia! INCRA 1 1
+PA Amazônia! INCRA 1 1
+PA Amazônia! INCRA 4 4
+AC Amazônia! INCRA 5 5
+PA Amazônia! INCRA 12 13
+PA Amazônia! INCRA 31 34
+PA Amazônia! INCRA 2 4
+PA Amazônia! INCRA 4 4
+PA Amazônia! INCRA 1 1
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+119!
+!
+Nome PAE Nossa Senhora do
+Livramento PAE Paraná de Baixo PAE Piranha PAE Purus PAE Salé PAE Santa Maria PAE São Diogo PAE São João Batista II PAE Tapará PAE Tiririca PAE Três Ilhas PAE Uruapiara PAE Urucurituba PAE Valha-me Deus PDS Costa da Conceição PDS Costa do Caldeirão PDS Cuieiras/ Anavilhanas PDS Jamil Jereissati PDS Porto Carlos PDS São Salvador PA 1º de Maio PA Baixão PA Belo Monte PA Central PA Che Guevara PA Corredor PA Fazenda Conjunto Rancho
+Nevada PA Florestan Fernandes PA Jequirica PA Mandacaru PA Nova Canaã PA Pedro Henrique PA Poços de Baixo PA Rosely Nunes PA Rumo à Independência PA Santa Catarina PA Santa Clara PA Santa Clara e Paraguaciuma PA Santa Fé PA Tubarão Estado Bioma Órgão
+gestor
+No de Entrevistas
+Beneficiários Não beneficiários
+PA Amazônia! INCRA 1 1
+PA Amazônia! INCRA 2 1
+AM Amazônia! INCRA 10 11
+AM Amazônia! INCRA 8 7
+PA Amazônia! INCRA 2 3
+PA Amazônia! INCRA 2 2
+PA Amazônia! INCRA 2 2
+PA Amazônia! INCRA 4 2
+PA Amazônia! INCRA 8 7
+PA Amazônia! INCRA 3 1
+PA Amazônia! INCRA 2 0
+AM Amazônia! INCRA 1 1
+PA Amazônia! INCRA 12 12
+PA Amazônia! INCRA 1 2
+AM Amazônia! INCRA 8 9
+AM Amazônia! INCRA 10 10
+AM Amazônia! INCRA 7 7
+AC Amazônia! INCRA 3 3
+AC Amazônia! INCRA 1 1
+AC Amazônia! INCRA 2 2
+PB Caatinga INCRA 1 1
+BA Caatinga INCRA 2 2
+BA Caatinga INCRA 1 1
+BA Caatinga INCRA 1 1
+BA Caatinga INCRA 2 2
+PB Caatinga INCRA 2 2
+BA Caatinga INCRA 1 0
+PB Caatinga INCRA 1 1
+BA Caatinga INCRA 3 3
+PB Caatinga INCRA 2 2
+BA Caatinga INCRA 2 2
+PB Caatinga INCRA 2 2
+PB Caatinga INCRA 2 2
+BA Caatinga INCRA 2 2
+BA Caatinga INCRA 1 1
+PB Caatinga INCRA 1 1
+BA Caatinga INCRA 16 16
+BA Caatinga INCRA 2 2
+BA Caatinga INCRA 1 1
+PB Caatinga INCRA 2 3
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+120!
+!
+Nome PA União da Chapada PA Araguaia PA Baronesa PA Barro Vermelho/ Canudos PA Betinho PA Canudos PA Correntes PA Especial Quilombola Rio das
+Rãs PA Estrela Guia PA Extrativista São Francisco PA Firmeza I PA Inhumas PA Muiraquitan PA Nova Capão Alto PA Nova Nazareth PA Onalício Barros PA Piedade PA Piracema PA Queima Fogo PA Rio Grande II PA Salomira PA Santa Clara PA Santa Rita PA Vale Verde PA 17 de Abril PA Boa Sorte PA Brejão PA Chico Mendes PA com Cultivo de Espécies
+Florestais Celso Furtado PA Conjunto Mineiro PA Dom Hélder Câmara PA Florestan Fernandes PA João Amazonas PA Josenei PA Liberdade PA Luzitânia PA Mata do Sossego PA Nova Ypiranga PA Palestrina PA Paulo Jacson Estado Bioma Órgão
+gestor
+No de Entrevistas
+Beneficiários Não beneficiários
+BA Caatinga INCRA 1 1
+TO Cerrado INCRA 3 3
+TO Cerrado INCRA 3 3
+BA Cerrado INCRA 7 4
+MG Cerrado INCRA 11 11
+GO Cerrado INCRA 4 1
+MG Cerrado INCRA 2 3
+BA Cerrado INCRA 6 6
+MG Cerrado INCRA 2 2
+BA Cerrado INCRA 10 9
+TO Cerrado INCRA 3 1
+MG Cerrado INCRA 0 6
+TO Cerrado INCRA 3 3
+MG Cerrado INCRA 4 0
+MG Cerrado INCRA 0 1
+TO Cerrado INCRA 2 3
+TO Cerrado INCRA 1 2
+TO Cerrado INCRA 4 4
+MG Cerrado INCRA 2 0
+BA Cerrado INCRA 24 30
+TO Cerrado INCRA 6 7
+TO Cerrado INCRA 5 5
+BA Cerrado INCRA 6 5
+BA Cerrado INCRA 5 4
+BA Mata Atlântica INCRA 1 1
+BA Mata Atlântica INCRA 1 1
+BA Mata Atlântica INCRA 3 3
+PB Mata Atlântica INCRA 6 5
+PR Mata Atlântica INCRA 11 11
+BA Mata Atlântica INCRA 2 2
+BA Mata Atlântica INCRA 1 1
+BA Mata Atlântica INCRA 1 1
+BA Mata Atlântica INCRA 1 1
+BA Mata Atlântica INCRA 1 1
+BA Mata Atlântica INCRA 1 0
+BA Mata Atlântica INCRA 1 1
+BA Mata Atlântica INCRA 1 0
+BA Mata Atlântica INCRA 10 15
+ES Mata Atlântica INCRA 1 1
+BA Mata Atlântica INCRA 1 1
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+121!
+!
+Nome PA Rio Aliança PA Roseli Nunes PA Santa Cruz do Ouro PA Santa Helena PA Terra Vista PA Zumbi dos Palmares SPU Abaetetuba SPU Anajás SPU Curralinho SPU Guimarães SPU Gurupá SPU Melgaço SPU Portel Estado Bioma Órgão
+gestor
+No de Entrevistas
+Beneficiários Não beneficiários
+BA Mata Atlântica INCRA 2 1
+BA Mata Atlântica INCRA 1 1
+BA Mata Atlântica INCRA 2 2
+PB Mata Atlântica INCRA 3 2
+BA Mata Atlântica INCRA 3 3
+PB Mata Atlântica INCRA 2 2
+Total 651 651
+PA Amazônia! SPU 37 28
+PA Amazônia! SPU 3 4
+PA Amazônia! SPU 3 2
+MA Amazônia! SPU 4 4
+PA Amazônia! SPU 9 9
+PA Amazônia! SPU 1 6
+PA Amazônia! SPU 13 17
+Total 70 70
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+122!
+!
+Anexo II – Resultados estatísticos
+1) Estrutura etária, frequência escolar e migração
+Comparação entre Beneficiários x Não beneficiários
+Variável
+Geral
+Amazônia Pessoas na família
+N = 2176
+df = 1
+f = 51,467
+p < 0,001
+N = 1324
+df = 1
+f = 39,234
+p < 0,001
+Crianças até 2 anos
+N = 2176
+df = 1
+f = 36,022
+p < 0,001
+N = 1324
+df = 1
+f = 20,911
+p < 0,001
+Crianças entre 3 a 11 anos N = 2176
+p = 0,958
+N = 1324
+p = 0,327
+Adolescentes (entre 12 e
+18)
+N = 2176
+df = 1
+f = 133,132
+p < 0,001
+N = 1324
+df = 1
+f = 99,071
+p < 0,001
+Adultos (maiores de 18
+anos)
+N = 2176
+df = 1
+p = 31,367
+p < 0,001
+N = 1324
+df = 1
+f = 15,955
+p < 0,001
+Idosos (acima de 60 anos)
+N = 2176
+df = 1
+f = 5,966
+p = 0,015
+N = 1324
+df = 1
+f = 9,288
+p = 0,002
+Crianças entre 2 a 11 anos
+matriculadas
+N = 2176
+p = 0,146
+N = 1324
+df = 1
+f = 6,376
+p = 0,012
+Caatinga N = 96
+p = 0,618
+N = 96
+p = 0,101
+N = 96
+p = 0,062
+N = 96
+p = 0,089
+N = 96
+p = 0,262
+N = 96
+p = 0,539
+N = 96
+p = 0,089
+ANOVA*
+Bioma Cerrado Marinho
+Costeiro
+Mata
+Atlântica ICMBio N = 232
+p = 0,286
+N = 412
+df = 1
+f = 12,201
+p < 0,001
+N = 112
+p = 0,07
+N = 734
+df = 1
+f = 30,619
+p < 0,001
+N = 232
+p = 0,098
+N = 412
+df = 1
+f = 12,934
+p < 0,001
+N = 112
+p = 0,632
+N = 734
+df = 1
+f = 8,864
+p = 0,003
+N = 232
+p = 0,771
+N = 412
+p = 0,615
+N = 112
+p = 0,710
+N = 734
+p = 0,188
+N = 232
+df = 1
+f = 5,425
+p = 0,022
+N = 412
+df = 1
+f = 18,789
+p < 0,001
+N = 112
+df = 1
+f = 6,208
+p = 0,014
+N = 734
+df = 1
+f = 48,805
+p < 0,001
+N = 232
+p = 0,256
+N = 412
+df = 1
+f = 15,342
+p < 0,001
+N = 112
+p = 0,450
+N = 734
+df = 1
+f = 15,334
+p < 0,001
+N = 232
+df = 1
+f = 4,390
+p = 0,037
+N = 412
+p = 0,904
+N = 112
+df = 1
+f = 4,981
+p = 0,028
+N = 734
+df = 1
+f = 5,207
+p = 0,023
+N = 232
+p = 0,704
+N = 412
+p = 0,784
+N = 112
+p = 0,924
+N = 734
+p = 0,098
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+123!
+Órgão gestor
+INCRA N = 1302
+df = 1
+f = 30,326
+p < 0,001
+N = 1302
+df = 1
+f = 20,750
+p < 0,001
+N = 1302
+p = 0,387
+N = 1302
+df = 1
+f = 90,517
+p < 0,001
+N = 1302
+df = 1
+f = 18,472
+p < 0,001
+N = 1302
+p = 0,325
+N = 1302
+p = 0,543
+SPU
+N = 140
+p = 0,736
+N = 140
+df = 1
+f = 7,667
+p = 0,006
+N = 140
+p = 0,946
+N = 140
+p = 0,451
+N = 140
+p = 0,680
+N = 140
+p = 0,234
+N = 140
+p = 0,829
+!
+!
+ANOVA*
+Bioma Órgão gestor
+Variável
+Geral
+Amazônia Caatinga Cerrado Marinho
+Costeiro
+Mata
+Atlântica ICMBio INCRA Adolescentes (entre 12 e
+18) matriculados
+N = 2176
+df = 1
+f = 121,998
+p < 0,001
+N = 1324
+df = 1
+f = 90,997
+p < 0,001
+N = 96
+df = 1
+f = 7,826
+p = 0,006
+N = 232
+df = 1
+f = 4,394
+p = 0,037
+N = 412
+df = 1
+f = 16,521
+p < 0,001
+N = 112
+df = 1
+f = 6,960
+p = 0,010
+N = 734
+df = 1
+f = 50,177
+p < 0,001
+N = 1302
+df = 1
+f = 82,017
+p < 0,001
+Adultos (maiores de 18
+anos) matriculados
+N = 2176; df =
+1; f = 7,438; p
+= 0,006
+N = 1324
+p = 0,069
+N = 96
+p = 0,173
+N = 232; p =
+0,394
+N = 412
+df = 1
+f = 7,379
+p = 0,007
+N = 112
+p = 0,377
+N = 734
+p = 0,077
+N = 1302
+df = 1
+f = 4,390
+p = 0,036
+* Os resultados em que a diferença é significativa estatisticamente entre beneficiários e não beneficiários encontram-se destacados em laranja.
+2) Trabalho e renda
+Comparação entre Beneficiários x Não beneficiários
+ANOVA, Quiquadrado e Teste G *
+Variável
+Bioma Órgão gestor
+Geral
+Amazônia Caatinga Cerrado
+Marinho
+Costeiro
+Mata
+Atlântica
+ICMBio INCRA Realiza atividades
+agroextrativistas
+χ
+2 = 34,354
+p < 0,001
+χ
+2 = 21,473
+p < 0,001
+G = 0,724
+p = 0,394
+χ
+2 = 12,083
+p < 0,001
+χ
+2 = 2,201
+p = 0,181
+G = 1,492
+p = 0,221
+χ
+2 = 3,590
+p = 0,057
+χ
+2= 36,348
+p < 0,001
+RFPC (excluindo BV e BF)
+N = 2176
+df = 1
+f = 28,901
+p < 0,001
+N = 1324
+df = 1
+f = 7,666
+p = 0,006
+N = 96
+p = 0,154
+N = 232
+df = 1
+f = 9,679
+p = 0,002
+N = 412
+df = 1
+f = 10,631
+p < 0,001
+N = 112; df =
+1; f = 8,668;
+p = 0,004
+N = 734
+df = 1
+f = 20,255
+p < 0,001
+N = 1302
+df = 1
+f = 13,860
+p < 0,001
+RFPC (incluindo BV e BF)
+N = 2176
+p = 0,295
+N = 1324
+p = 0,303
+N = 96
+p = 0,506
+N = 232
+p = 0,431
+N = 412
+df = 1
+f = 4,251
+p = 0,040
+N = 112
+df = 1
+f = 4,398
+p = 0,038
+N = 734
+df = 1
+f = 5,227
+p = 0,023
+N = 1302
+p = 0,937
+RFPC outras fontes N = 2176 N = 1324 N = 96 N = 232 N = 412 N = 112 N = 734 N = 1302; p Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+124!
+SPU
+N = 140;
+p = 0,941
+N = 140;
+p = 0,666
+SPU
+G=0,366
+p = 0,545
+N = 140
+p =0,521
+N = 140
+p=0,055
+N = 140
+!
+!
+ANOVA, Quiquadrado e Teste G *
+Variável
+Bioma Órgão gestor
+Geral
+Amazônia Caatinga Cerrado
+Marinho
+Costeiro
+Mata
+Atlântica ICMBio INCRA df = 1
+f = 3,911
+p = 0,048
+df = 1
+f = 6,786
+p = 0,009
+p = 0,578 p = 0,600 p = 0,550 p = 0,531 p = 0,586 = 0,155 RFPC produção
+N = 2176
+df = 1; f =
+12,223
+p < 0,001
+N = 1324
+p = 0,110
+N = 96
+p = 0,652
+N = 232
+p = 0,507
+N = 412
+df = 1
+f = 7,519
+p = 0,006
+N = 112
+df = 1
+f = 4,115
+p = 0,045
+N = 734
+df = 1
+f = 11,256
+p < 0,001
+N = 1302
+p = 0,081
+Número de famílias em
+cada classe de RFPC
+χ
+2 = 63,278
+df = 2
+p < 0,001
+χ
+2 = 59,557
+df = 2
+p < 0,001
+χ
+2= 1,909
+df = 2
+p = 0,385
+χ
+2= 2,583
+df = 2
+p = 0,275
+χ
+2= 7,403
+df = 2
+p = 0,025
+χ
+2= 0,690
+df = 2
+p = 0,737
+2
+χ
+=
+22,714
+df = 2
+p < 0,001
+χ
+2= 33,222
+df = 2
+p < 0,001
+* Os resultados em que a diferença é significativa estatisticamente entre beneficiários e não beneficiários encontram-se destacados em laranja.
+3) Conservação ambiental
+Comparação entre Beneficiários x Não beneficiários
+Quiquadrado e Teste G *
+Variável
+Bioma Órgão gestor
+Geral
+Amazônia Caatinga Cerrado
+Marinho
+Costeiro
+Mata
+Atlântica ICMBio INCRA Abastecimento de água
+G = 18,262
+df = 10
+p = 0,05
+G = 25,516
+df = 9
+p = 0,002
+G = 2,334
+df = 7
+p = 0,939
+G = 16,526
+df = 9
+p = 0,057
+G = 6,546
+df = 8
+p = 0,586
+G = 11,277
+df = 9
+p = 0,257
+G = 5,991
+df = 9
+p = 0,741
+G= 18,849
+df = 10
+p = 0,042
+Esgotamento sanitário χ
+2 = 3,054
+df = 5
+G = 1,901
+df = 5
+G = 4,379
+df = 3
+G = 12,239
+df = 5
+G = 10,225
+df = 5
+G = 1,785
+df = 3
+G = 7,309
+df = 5
+G = 0,961
+df = 5
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+125!
+SPU
+p = 0,071
+N = 140
+p = 0,470
+χ
+2= 12,626
+df = 2
+p = 0,002
+SPU
+G=3,024
+df = 3
+p=0,388
+G=4,30
+df = 3
+!
+!
+Variável
+Coleta de resíduos
+sólidos
+Fornecimento de energia
+elétrica
+Conhecimento do
+instrumento de gestão
+Recebimento de
+orientação sobre
+instrumento de gestão
+no último ano
+Conhecimento das
+atividades para a
+conservação gestor
+pelo órgão
+Ameaças à conservação
+Queimadas
+Extração de lenha
+Geral
+p = 0,692 G = 3,788
+df = 5
+p = 0,580
+G = 11,061
+df = 5
+p = 0,050
+χ
+2= 0,444
+df = 5
+p = 0,801
+G = 15,174
+df = 2
+p < 0,001
+χ
+2= 10,384
+df = 1
+p < 0,001
+χ2 = 31,202
+df = 17
+p = 0,019
+χ2 = 14,929
+df = 4
+p = 0,005
+χ2 = 4,573
+df = 3
+p = 0,206
+Amazônia p = 0,863 G = 2,159
+df = 5
+p = 0,827
+G = 12,818
+df = 5
+p = 0,025
+G = 0,003
+df = 2
+p = 0,998
+G = 5,863
+df = 2
+p = 0,053
+χ
+2= 4,159
+df = 1
+p = 0,041
+G = 24,734
+df = 17
+p = 0,100
+G = 13,691
+df = 4
+p = 0,008
+χ2 = 3,722
+df = 3
+p = 0,293
+Caatinga p = 0,223 G = 20,744
+df = 4
+p < 0,001
+G = 1,397
+df = 2
+p = 0,497
+G = 0,877
+df = 2
+p = 0,645
+χ
+2= 0,045
+df = 1
+p = 0,832
+χ
+2= 0,066
+df = 1
+p = 0,798
+G = 17,739
+df = 17
+p = 0,405
+G = 2,231
+df = 4
+p = 0,693
+G = 6,163
+df = 3
+p = 0,104
+Quiquadrado e Teste G *
+Bioma Cerrado
+Marinho
+Costeiro
+Mata
+Atlântica ICMBio p = 0,032 p = 0,069 p = 0,618 p = 0,199 G = 2,955
+df = 4
+p = 0,565
+G = 6,341
+df = 4
+p = 0,175
+G = 2,230
+df = 3
+p = 0,526
+G = 7,233
+df = 4
+p = 0,124
+G = 2,397
+df = 3
+p = 0,494
+G = 1,297
+df = 2
+p = 0,523
+G = 0,000
+df = 2
+p = 1,000
+G = 7,989
+df = 4
+p = 0,092
+χ
+2= 2,997
+df = 2
+p = 0,223
+χ
+2= 0,030
+df = 1
+p = 0,863
+χ
+2= 0,182
+df = 1
+p = 0,669
+χ
+2
+=0,023
+df = 2
+p = 0,989
+G = 4,065
+df = 2
+p = 0,131
+χ
+2= 6,069
+df = 1
+p = 0,013
+χ
+2= 0,893
+df = 1
+p = 0,345
+G = 10,373
+df = 2
+p = 0,006
+χ
+2= 0,072
+df = 1
+p = 0,788
+χ
+2= 8,537
+df = 1
+p = 0,003
+χ
+2= 1,575
+df = 1
+p = 0,209
+X2 =9,834
+df = 1
+p = 0,002
+G = 10,175
+df = 17
+p = 0,896
+G = 21,798
+df = 17
+p = 0,205
+G = 8,010
+df = 17
+p = 0,966
+G = 27,419
+df = 17
+p = 0,052
+G = 2,285
+df = 4
+p = 0,684
+G = 0,919
+df = 4
+p = 0,922
+G = 2,894
+df = 4
+p = 0,576
+G = 5,225
+df = 4
+p = 0,265
+G = 3,834
+df = 3
+p = 0,280
+G = 1,370
+df = 3
+p = 0,713
+G = 1,179
+df = 2
+p = 0,758
+G = 1,609
+df = 3
+p = 0,657
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+126!
+Órgão gestor
+INCRA SPU
+p = 0,966 p =0,229
+G = 0,719;
+df = 5; p =
+0,982
+G = 2,803
+df = 3
+p = 0,423
+G = 8,826
+df = 5
+p = 0,116
+χ
+2=0,180
+df = 2
+p = 0,914
+χ
+2= 1,418
+df = 2
+p = 0,492
+χ
+2= 2,319
+df = 1
+p = 0,128
+G = 6,321
+df = 2
+p = 0,042
+χ
+2= 0,343
+df = 1
+p = 0,558
+χ
+2= 2,765;
+df = 1; p =
+0,096
+χ
+2=0,578
+df = 1
+p = 0,447
+G = 25,168
+df = 17
+p = 0,091
+G = 6,275
+df = 17
+p = 0,991
+G = 11,737
+df = 4
+p = 0,019
+G = 6,388
+df = 4
+p = 0,172
+G = 4,955
+df = 3
+p = 0,175
+G = 1,024
+df = 3
+p = 0,795
+!
+!
+Quiquadrado e Teste G *
+Variável
+Bioma Órgão gestor
+Geral
+Amazônia Caatinga Cerrado
+Marinho
+Costeiro
+Mata
+Atlântica ICMBio INCRA SPU
+Conhecimento sobre os
+compromissos do PBV
+χ2 = 26,599
+df = 1
+p < 0,001
+χ2 = 48,010
+df = 1
+p < 0,001
+χ2 = 1,524
+df = 1
+p = 0,217
+χ2 = 2,605
+df = 1
+p = 0,107
+χ2 = 8,542
+df = 1
+p = 0,003
+χ2 = 2,520
+df = 1
+p = 0,112
+χ2 =5,694
+df = 1
+p = 0,017
+χ2=69,435
+df = 1
+p < 0,001
+χ2 =0,785
+df = 1
+p = 0,376
+Recebimento de
+orientações sobre PBV
+χ2 = 10,948
+df = 1
+p < 0,001
+χ2 = 4,322
+df = 1
+p = 0,037
+χ2 = 14,755
+df = 1
+p < 0,001
+χ2 = 0,611
+df = 1
+p = 0,434
+χ2 = 2,328
+df = 1
+p = 0,127
+χ2 = 0,159
+df = 1
+p = 0,689
+χ2 =
+2,285
+df = 1
+p = 0,131
+χ2 = 8,712
+df = 1
+p = 0,003
+χ2 = 0,504
+df = 1
+p = 0,477
+* Os resultados em que a diferença é significativa estatisticamente entre beneficiários e não beneficiários encontram-se destacados em laranja.
+4) Opinião sobre o impacto do PBV.
+Comparação entre Beneficiários x Não beneficiários
+Quiquadrado e Teste G *
+Variável
+Bioma Órgão gestor
+Geral
+Amazônia Caatinga Cerrado
+Marinho
+Costeiro
+Mata
+Atlântica
+ICMBio INCRA SPU
+Impacto do PBV sobre o
+poder aquisitivo
+χ2 = 15,950
+df = 3
+p < 0,001
+χ2 = 9,781
+df = 3
+p = 0,020
+G = 14,244
+df = 3
+p = 0,003
+G = 3,346
+df = 3
+p = 0,341
+G = 8,683
+df = 3
+p = 0,034
+G = 1,303
+df = 3
+p = 0,728
+χ2 = 4,552
+df = 3
+p = 0,208
+χ2 = 14,456
+df = 3
+p = 0,002
+χ2 = 1,462
+df = 3
+p = 0,691
+Impacto do PBV sobre as
+condições de vida
+χ2 = 8,372
+df = 3
+p = 0,039
+χ2 = 12,842
+df = 3
+p = 0,005
+G = 12,075
+df = 3
+p = 0,007
+G = 6,17
+df = 3
+p = 0,103
+G = 2,546
+df = 3
+p = 0,449
+G = 6,274
+df = 3
+p = 0,099
+G= 0,761
+df = 3
+p = 0,859
+χ2 = 8,247
+df = 3
+p = 0,041
+G = 5,122
+df = 3
+p = 0,163
+Impacto do PBV sobre as
+condições de
+conservação do meio
+χ2 = 18,704
+df = 3
+p < 0,001
+χ2 = 8,412
+df = 3
+p = 0,038
+G = 15,229
+df = 3
+p = 0,002
+G = 9,655
+df = 3
+p = 0,022
+G = 9,777
+df = 3
+p = 0,021
+G = 1,200
+df = 3
+p = 0,753
+G= 2,156
+df = 3
+p = 0,541
+χ2 = 2,131
+df = 3
+p = 0,546
+G = 3,969
+df = 3
+p = 0,277
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+127!
+!
+Quiquadrado e Teste G *
+Variável
+Bioma Órgão gestor
+Geral
+Amazônia Caatinga Cerrado
+Marinho
+Costeiro
+Mata
+Atlântica ICMBio INCRA SPU
+ambiente
+Entendimento sobre
+conservação ambiental
+χ2 = 1,895
+df = 2
+p = 0,3878
+χ2 = 5,426
+df = 2
+p = 0,066
+G = 3,187
+df = 2
+p = 0,203
+G = 2,408
+df = 2
+p = 0,300
+G = 3,251
+df = 2
+p = 0,197
+G = 3,727
+df = 2
+p = 0,155
+χ2 = 2,019
+df = 2
+p = 0,265
+χ2 = 6,432
+df = 2
+p = 0,040
+G = 3,651
+df = 2
+p = 0,161
+para a
+Contribuição Conservação ambiental
+χ2 = 10,409
+df = 2
+p = 0,005
+χ2 = 6,773
+df = 2
+p = 0,034
+G = 11,535
+df = 1
+p = 0,003
+G = 1,222
+df = 2
+p = 0,543
+G = 0,627
+df = 2
+p = 0,731
+G = 1,119
+df = 2
+p = 0,571
+G = 0,955
+df = 2
+p = 0,620
+χ2 = 11,340
+df = 2
+p = 0,003
+G = 1,994
+df = 2
+p = 0,369
+* Os resultados em que a diferença é significativa estatisticamente entre beneficiários e não beneficiários encontram-se destacados em laranja.
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+128!
+!
+Anexo III – Anexo Fotográfico
+1) Contexto Geral
+Figura 1. Tipos de transportes aquáticos para recebimento do benefício. A. Linha; B. Rabeta em
+Marechal Thaumaturgo/AC; C. Voadeira em PAE Três Ilhas, em Santarém/PA; D. Barco em Altamira/PA.
+2) Estrutura Etária, Frequência Escolar e Migração
+Figura 2. Transporte!escolar!fluvial:
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+129!
+!
+3) Trabalho e renda
+Figura 3. Produção agroextrativista nas UTs. A. Produção familiar de farinha em UT da SPU em
+Portel/PA; B. Pesca de camarão em Ilha de Marajó/PA; C. Castanha do Pará em Breves/PA; D. Extração
+de açaí em Gurupá/ PA
+4) Infraestruturas de Produção e Organização Social
+Figura'4.!Instrumentos!para!a!produção!agroextrativista.!A.!Rede!de!pesca!ou!malhadeira!em!Bragança!/PA;!B.!
+Trator!utilizado!na!roça!e,!em!muitos!casos,!dividido!entre!os!produtores,!em!Quedas!do!Iguaçu/PR.
+!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+130!
+!
+!
+Figura' 5.! A.! SubKsede! da! associação! dos! usuários! da! RESEX! Marinha! GurupiKPiriá,! em! Fernandes! Belo/PA;! B.!
+Sede!da!associação!dos!usuários!da!RESEX!Marinha!Tracuateua,!em!Tracuateua/PA
+5) Conservação ambiental
+Figura' 6.! Infraestrutura! e! acesso! a! serviços! básicos! em! algumas! UTs.! A.! Captação! de! água! da! chuva! em!
+território! ribeirinho;! B.! Falta! de! esgotamento! sanitário,! com! descarte! direto! na! água! em! Resex! Médio!
+Purus/AM;!C.!Banheiro!com!fossa!rudimentar!construído!fora!do!domicílio;!D.!Gerador!como!fonte!de!energia.!
+!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+131!
+!
+Figura 7. Principais ameaças à conservação ambiental, segundo as famílias beneficiárias. A.
+Desmatamento (vegetação às margens do rio desmatada.). B. Desmatamento e extração de madeira; C.
+Lixo que será enterrado; D. Incêndios em Breves/PA
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+132!
+!
+!
+Monitoramento e Difusão do Programa Bolsa Verde
+Relatório Final do Monitoramento Amostral Ano Base 2014!!
+133!
