@@ -42,4 +42,4 @@ Para reproduzir as análises, siga a ordem dos scripts abaixo:
 * `here` (Gerenciamento de caminhos de arquivos)
 
 ---
-*Autor(a): Agnes Amaral | Ano: 2026*
+*Autora: Agnes Amaral | Ano: 2026*
