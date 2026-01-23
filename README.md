@@ -1,6 +1,6 @@
 # Análise Longitudinal do Programa Bolsa Verde (2011-2025)
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 Este repositório contém o código e os dados utilizados na dissertação de **Agnes Amaral (2026)**. O objetivo é analisar a trajetória do **Programa Bolsa Verde** — uma política pública brasileira de transferência de renda e conservação ambiental — através de técnicas de Mineração de Texto e Análise de Dados Longitudinais.
 
 O estudo cobre três fases principais:
@@ -8,7 +8,7 @@ O estudo cobre três fases principais:
 2. **Hiato/Desarticulação (2017-2022)**
 3. **Retomada (2023-Presente)**
 
-## 🛠 Metodologia
+## Metodologia
 A análise foi realizada na linguagem **R** e utiliza as seguintes abordagens:
 
 * **Matriz de Smith:** Classificação qualitativa do corpus documental (status legal, função e fase).
@@ -16,7 +16,7 @@ A análise foi realizada na linguagem **R** e utiliza as seguintes abordagens:
 * **Validação Cruzada:** Comparação da aderência entre os tópicos matemáticos (LDA) e as categorias teóricas.
 * **Análise Contextual:** Cruzamento dos dados da política com indicadores externos (Desmatamento na Amazônia e Índice de Gini).
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 O projeto está organizado da seguinte forma:
 
 * `data/txt/`: Contém os documentos brutos (leis, decretos, portarias) em formato .txt.
@@ -24,7 +24,7 @@ O projeto está organizado da seguinte forma:
 * `figures/`: Contém todos os gráficos e tabelas gerados pelos scripts.
 * `scripts/`: Códigos divididos por etapas.
 
-## 🚀 Como Executar
+## Como Executar
 Para reproduzir as análises, siga a ordem dos scripts abaixo:
 
 1.  **`01_preparacao_corpus.R`**: Leitura, limpeza dos textos e classificação (Matriz de Smith).
@@ -34,7 +34,7 @@ Para reproduzir as análises, siga a ordem dos scripts abaixo:
 
 **Nota:** Recomenda-se abrir o projeto clicando no arquivo `.Rproj` (se houver) ou definindo o diretório de trabalho corretamente no RStudio.
 
-## 📦 Pacotes Utilizados
+## Pacotes Utilizados
 * `tidyverse` (Manipulação de dados e gráficos)
 * `tidytext` & `topicmodels` (Mineração de texto e LDA)
 * `gt` & `flextable` (Tabelas formatadas para publicação)
